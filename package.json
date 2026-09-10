@@ -1,0 +1,14 @@
+{
+  "name": "marquee",
+  "version": "1.0.0",
+  "description": "Hip hop & R&B live event aggregator, static-built for GitHub Pages",
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch-events.mjs",
+    "build": "node scripts/build-site.mjs",
+    "update": "npm run fetch && npm run build"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
