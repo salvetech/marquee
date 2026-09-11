@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-09-11T00:04:31.270Z",
+  "generatedAt": "2026-09-11T06:03:49.650Z",
   "events": [
-    {
-      "id": "ticketmaster:Z7r9jZ1A7Px4_",
-      "source": "ticketmaster",
-      "artist": "Isaiah Rashad",
-      "date": "2026-09-11T01:00:00Z",
-      "venueName": "Marathon Music Works",
-      "venueCity": "Nashville",
-      "venueState": "TN",
-      "citySlug": "nashville-tn",
-      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7Px4_",
-      "lineup": [
-        "Isaiah Rashad"
-      ]
-    },
     {
       "id": "ticketmaster:1Av0Z_7GksBL7t-",
       "source": "ticketmaster",
