@@ -1,4 +1,5503 @@
 {
-  "generatedAt": "2026-09-10T23:33:56.016Z",
-  "events": []
+  "generatedAt": "2026-09-11T00:04:31.270Z",
+  "events": [
+    {
+      "id": "ticketmaster:Z7r9jZ1A7Px4_",
+      "source": "ticketmaster",
+      "artist": "Isaiah Rashad",
+      "date": "2026-09-11T01:00:00Z",
+      "venueName": "Marathon Music Works",
+      "venueCity": "Nashville",
+      "venueState": "TN",
+      "citySlug": "nashville-tn",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7Px4_",
+      "lineup": [
+        "Isaiah Rashad"
+      ]
+    },
+    {
+      "id": "ticketmaster:1Av0Z_7GksBL7t-",
+      "source": "ticketmaster",
+      "artist": "J. Cole",
+      "date": "2026-09-11T03:00:00Z",
+      "venueName": "Mortgage Matchup Center",
+      "venueCity": "Phoenix",
+      "venueState": "AZ",
+      "citySlug": "phoenix-az",
+      "eventUrl": "https://www.ticketmaster.com/j-cole-the-falloff-tour-phoenix-arizona-09-10-2026/event/1900644C7A7C4A61",
+      "lineup": [
+        "J. Cole"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1A4vF4S",
+      "source": "ticketmaster",
+      "artist": "Moneybagg Yo",
+      "date": "2026-09-11T05:00:00Z",
+      "venueName": "Nova SD",
+      "venueCity": "San Diego",
+      "venueState": "CA",
+      "citySlug": "san-diego-ca",
+      "eventUrl": "https://www.ticketweb.com/event/moneybagg-yo-nova-sd-tickets/15048573",
+      "lineup": [
+        "Moneybagg Yo"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1A4Z-uK",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-09-11T23:00:00Z",
+      "venueName": "The Bluebird Cafe",
+      "venueCity": "Nashville",
+      "venueState": "TN",
+      "citySlug": "nashville-tn",
+      "eventUrl": "https://www.ticketweb.com/event/in-the-round-with-annie-the-bluebird-cafe-tickets/15021353",
+      "lineup": [
+        "Dave"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG17Z_Cn3OaDS",
+      "source": "ticketmaster",
+      "artist": "Young Thug",
+      "date": "2026-09-12T00:00:00Z",
+      "venueName": "MGM Music Hall at Fenway",
+      "venueCity": "Boston",
+      "venueState": "MA",
+      "citySlug": "boston-ma",
+      "eventUrl": "https://www.ticketmaster.com/ysl-records-young-thug-present-the-boston-massachusetts-09-11-2026/event/010064EA92809EF3",
+      "lineup": [
+        "Young Thug",
+        "NAV"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1A4vZbd",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-09-12T00:00:00Z",
+      "venueName": "Club Cafe",
+      "venueCity": "Pittsburgh",
+      "venueState": "PA",
+      "citySlug": "pittsburgh-pa",
+      "eventUrl": "https://www.ticketweb.com/event/good-n-country-live-band-club-cafe-tickets/15040603",
+      "lineup": [
+        "Dave"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5viZ_GRa5LcQ",
+      "source": "ticketmaster",
+      "artist": "Isaiah Rashad",
+      "date": "2026-09-12T00:00:00Z",
+      "venueName": "Satellite Music Hall",
+      "venueCity": "Memphis",
+      "venueState": "TN",
+      "citySlug": "memphis-tn",
+      "eventUrl": "https://www.ticketmaster.com/isaiah-rashad-lil-sunnys-awful-road-memphis-tennessee-09-11-2026/event/1B0064CBC92DFB5A",
+      "lineup": [
+        "Isaiah Rashad",
+        "Alemeda"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5vzZ_6ehupVf",
+      "source": "ticketmaster",
+      "artist": "Monica",
+      "date": "2026-09-12T00:30:00Z",
+      "venueName": "Fillmore Auditorium (Denver)",
+      "venueCity": "Denver",
+      "venueState": "CO",
+      "citySlug": "denver-co",
+      "eventUrl": "https://www.ticketmaster.com/jack-harlow-monica-tour-denver-colorado-09-11-2026/event/1E0064709B356D14",
+      "lineup": [
+        "Jack Harlow",
+        "James Savage"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1Afaak7",
+      "source": "ticketmaster",
+      "artist": "Drake",
+      "date": "2026-09-13T00:00:00Z",
+      "venueName": "Off The Rails Outdoors",
+      "venueCity": "Worcester",
+      "venueState": "MA",
+      "citySlug": "worcester-ma",
+      "eventUrl": "https://www.ticketweb.com/event/drake-white-off-the-rails-outdoors-tickets/14249184",
+      "lineup": [
+        "Drake White"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5dIZ_GJD8WqC",
+      "source": "ticketmaster",
+      "artist": "H.E.R.",
+      "date": "2026-09-13T00:00:00Z",
+      "venueName": "White Oak Music Hall - Downstairs",
+      "venueCity": "Houston",
+      "venueState": "TX",
+      "citySlug": "houston-tx",
+      "eventUrl": "https://www.ticketmaster.com/the-garden-houston-texas-09-12-2026/event/3A0064C9BB43D74E",
+      "lineup": [
+        "The Garden",
+        "Her New Knife"
+      ]
+    },
+    {
+      "id": "ticketmaster:17GZv0G6ukWuKzN",
+      "source": "ticketmaster",
+      "artist": "Rod Wave",
+      "date": "2026-09-13T00:00:00Z",
+      "venueName": "Xfinity Mobile Arena",
+      "venueCity": "Philadelphia",
+      "venueState": "PA",
+      "citySlug": "philadelphia-pa",
+      "eventUrl": "https://www.ticketmaster.com/rod-wave-dont-look-down-tour-philadelphia-pennsylvania-09-12-2026/event/300064D1BD353E23",
+      "lineup": [
+        "Rod Wave",
+        "FRIDAYY"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5diZ_54DVe6X",
+      "source": "ticketmaster",
+      "artist": "Bryson Tiller",
+      "date": "2026-09-13T23:30:00Z",
+      "venueName": "Madison Square Garden",
+      "venueCity": "New York",
+      "venueState": "NY",
+      "citySlug": "new-york-ny",
+      "eventUrl": "https://www.ticketmaster.com/bryson-tiller-presents-the-neo-trapsoul-new-york-new-york-09-13-2026/event/3B0064B57BD021FE",
+      "lineup": [
+        "Bryson Tiller",
+        "Majid Jordan",
+        "Ty Dolla $ign",
+        "Austin Millz"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5viZ_G9JsIUZ",
+      "source": "ticketmaster",
+      "artist": "H.E.R.",
+      "date": "2026-09-14T00:00:00Z",
+      "venueName": "House of Blues New Orleans ",
+      "venueCity": "New Orleans",
+      "venueState": "LA",
+      "citySlug": "new-orleans-la",
+      "eventUrl": "https://www.ticketmaster.com/the-garden-new-orleans-louisiana-09-13-2026/event/1B0064C5E6C68D80",
+      "lineup": [
+        "The Garden",
+        "Her New Knife"
+      ]
+    },
+    {
+      "id": "ticketmaster:k7vGF_CnWD-Nh",
+      "source": "ticketmaster",
+      "artist": "Young Thug",
+      "date": "2026-09-14T00:00:00Z",
+      "venueName": "Capital One City Parks Foundation SummerStage",
+      "venueCity": "New York",
+      "venueState": "NY",
+      "citySlug": "new-york-ny",
+      "eventUrl": "https://www.ticketmaster.com/ysl-records-young-thug-present-the-new-york-new-york-09-13-2026/event/000064EABDEE18DB",
+      "lineup": [
+        "Young Thug",
+        "NAV"
+      ]
+    },
+    {
+      "id": "ticketmaster:17GZv0G6ukWCdzJ",
+      "source": "ticketmaster",
+      "artist": "Rod Wave",
+      "date": "2026-09-15T00:00:00Z",
+      "venueName": "Xfinity Mobile Arena",
+      "venueCity": "Philadelphia",
+      "venueState": "PA",
+      "citySlug": "philadelphia-pa",
+      "eventUrl": "https://www.ticketmaster.com/rod-wave-dont-look-down-tour-philadelphia-pennsylvania-09-14-2026/event/300064D1BD383E26",
+      "lineup": [
+        "Rod Wave",
+        "FRIDAYY"
+      ]
+    },
+    {
+      "id": "ticketmaster:17A8v0G6CE3wQ8x",
+      "source": "ticketmaster",
+      "artist": "Young Thug",
+      "date": "2026-09-15T23:30:00Z",
+      "venueName": "The Anthem",
+      "venueCity": "Washington",
+      "venueState": "DC",
+      "citySlug": "washington-dc",
+      "eventUrl": "https://www.ticketmaster.com/ysl-records-young-thug-presents-the-washington-district-of-columbia-09-15-2026/event/150064E9D2C9A422",
+      "lineup": [
+        "Young Thug",
+        "NAV"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1A7PJCK",
+      "source": "ticketmaster",
+      "artist": "H.E.R.",
+      "date": "2026-09-16T00:00:00Z",
+      "venueName": "The Eastern-GA",
+      "venueCity": "Atlanta",
+      "venueState": "GA",
+      "citySlug": "atlanta-ga",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7PJCK",
+      "lineup": [
+        "The Garden",
+        "Her New Knife"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5eVZ_ukY_pAF",
+      "source": "ticketmaster",
+      "artist": "Rod Wave",
+      "date": "2026-09-16T00:00:00Z",
+      "venueName": "Lenovo Center",
+      "venueCity": "Raleigh",
+      "venueState": "NC",
+      "citySlug": "raleigh-nc",
+      "eventUrl": "https://www.ticketmaster.com/rod-wave-dont-look-down-tour-raleigh-north-carolina-09-15-2026/event/2D0064D1B0656148",
+      "lineup": [
+        "Rod Wave",
+        "FRIDAYY"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG17Z_CEO4lzr",
+      "source": "ticketmaster",
+      "artist": "Young Thug",
+      "date": "2026-09-16T23:30:00Z",
+      "venueName": "The Dome by Rutter Mills",
+      "venueCity": "Virginia Beach",
+      "venueState": "VA",
+      "citySlug": "virginia-beach-va",
+      "eventUrl": "https://www.ticketmaster.com/ysl-records-young-thug-present-the-virginia-beach-virginia-09-16-2026/event/010064E9E056BE1E",
+      "lineup": [
+        "Young Thug",
+        "NAV"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1YZ_5_kUzpU",
+      "source": "ticketmaster",
+      "artist": "Kehlani",
+      "date": "2026-09-16T23:30:00Z",
+      "venueName": "Dos Equis Pavilion",
+      "venueCity": "Dallas",
+      "venueState": "TX",
+      "citySlug": "dallas-tx",
+      "eventUrl": "https://www.ticketmaster.com/the-kehlani-world-tour-north-america-dallas-texas-09-16-2026/event/0C0064B646DB85B6",
+      "lineup": [
+        "Kehlani",
+        "Durand Bernarr",
+        "TheARTI$t",
+        "WASEEL",
+        "Dixson"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5viZbye_a_hw",
+      "source": "ticketmaster",
+      "artist": "Anderson .Paak",
+      "date": "2026-09-17T00:00:00Z",
+      "venueName": "Caesars Superdome ",
+      "venueCity": "New Orleans",
+      "venueState": "LA",
+      "citySlug": "new-orleans-la",
+      "eventUrl": "https://www.ticketmaster.com/bruno-mars-the-romantic-tour-new-orleans-louisiana-09-16-2026/event/1B006390992596F2",
+      "lineup": [
+        "Bruno Mars",
+        "RAYE",
+        "DJ Pee .Wee"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1A7-k--",
+      "source": "ticketmaster",
+      "artist": "J. Cole",
+      "date": "2026-09-17T01:00:00Z",
+      "venueName": "Toyota Center - TX",
+      "venueCity": "Houston",
+      "venueState": "TX",
+      "citySlug": "houston-tx",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7-k--",
+      "lineup": [
+        "J. Cole"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5viZ_uqD9Khe",
+      "source": "ticketmaster",
+      "artist": "Drake",
+      "date": "2026-09-17T02:00:00Z",
+      "venueName": "Texas Club",
+      "venueCity": "Baton Rouge",
+      "venueState": "LA",
+      "citySlug": "baton-rouge-la",
+      "eventUrl": "https://www.ticketmaster.com/drake-white-baton-rouge-louisiana-09-16-2026/event/1B0064D77B5D36C2",
+      "lineup": [
+        "Drake White"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1A4Zt4d",
+      "source": "ticketmaster",
+      "artist": "Brandy",
+      "date": "2026-09-17T23:00:00Z",
+      "venueName": "The Bluebird Cafe",
+      "venueCity": "Nashville",
+      "venueState": "TN",
+      "citySlug": "nashville-tn",
+      "eventUrl": "https://www.ticketweb.com/event/americana-music-association-presents-brandy-the-bluebird-cafe-tickets/15029543",
+      "lineup": [
+        "Brandy"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5eVZ_3N1kJxd",
+      "source": "ticketmaster",
+      "artist": "Young Thug",
+      "date": "2026-09-17T23:30:00Z",
+      "venueName": "The Fillmore Charlotte",
+      "venueCity": "Charlotte",
+      "venueState": "NC",
+      "citySlug": "charlotte-nc",
+      "eventUrl": "https://www.ticketmaster.com/ysl-records-young-thug-present-the-charlotte-north-carolina-09-17-2026/event/2D006528CA1A6883",
+      "lineup": [
+        "Young Thug",
+        "NAV"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5eVZ_Cnmup1h",
+      "source": "ticketmaster",
+      "artist": "Young Thug",
+      "date": "2026-09-18T00:00:00Z",
+      "venueName": "The Fillmore Charlotte",
+      "venueCity": "Charlotte",
+      "venueState": "NC",
+      "citySlug": "charlotte-nc",
+      "eventUrl": "https://www.ticketmaster.com/ysl-records-young-thug-present-moved-charlotte-north-carolina-09-17-2026/event/2D0064EAAE35629B",
+      "lineup": [
+        "Young Thug",
+        "NAV"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1A7-6xb",
+      "source": "ticketmaster",
+      "artist": "J. Cole",
+      "date": "2026-09-18T01:00:00Z",
+      "venueName": "Toyota Center - TX",
+      "venueCity": "Houston",
+      "venueState": "TX",
+      "citySlug": "houston-tx",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7-6xb",
+      "lineup": [
+        "J. Cole"
+      ]
+    },
+    {
+      "id": "ticketmaster:17FZv0G6uk58vxc",
+      "source": "ticketmaster",
+      "artist": "Rod Wave",
+      "date": "2026-09-18T01:00:00Z",
+      "venueName": "Legacy Arena at the BJCC",
+      "venueCity": "Birmingham",
+      "venueState": "AL",
+      "citySlug": "birmingham-al",
+      "eventUrl": "https://www.ticketmaster.com/rod-wave-dont-look-down-tour-birmingham-alabama-09-17-2026/event/200064D18B4018AD",
+      "lineup": [
+        "Rod Wave",
+        "FRIDAYY"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1YZ_GUxBg-x",
+      "source": "ticketmaster",
+      "artist": "Isaiah Rashad",
+      "date": "2026-09-18T01:00:00Z",
+      "venueName": "South Side Ballroom",
+      "venueCity": "Dallas",
+      "venueState": "TX",
+      "citySlug": "dallas-tx",
+      "eventUrl": "https://www.ticketmaster.com/isaiah-rashad-lil-sunnys-awful-road-dallas-texas-09-17-2026/event/0C0064CDA2EB5862",
+      "lineup": [
+        "Isaiah Rashad",
+        "Alemeda"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1IZ_6NeftXr",
+      "source": "ticketmaster",
+      "artist": "Monica",
+      "date": "2026-09-18T01:30:00Z",
+      "venueName": "Petco Park",
+      "venueCity": "San Diego",
+      "venueState": "CA",
+      "citySlug": "san-diego-ca",
+      "eventUrl": "https://www.ticketmaster.com/jack-harlow-monica-tour-san-diego-california-09-17-2026/event/0A006478C2529F9E",
+      "lineup": [
+        "Jack Harlow",
+        "James Savage"
+      ]
+    },
+    {
+      "id": "ticketmaster:vv1AaZkfdGkd-_ibF",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-09-18T02:00:00Z",
+      "venueName": "The Peppermint Club",
+      "venueCity": "Los Angeles",
+      "venueState": "CA",
+      "citySlug": "los-angeles-ca",
+      "eventUrl": "https://www.ticketmaster.com/trey-magnifique-bebop-cowboy-album-release-los-angeles-california-09-17-2026/event/09006503E166C608",
+      "lineup": [
+        "Trey Magnifique",
+        "Dave Heatwave"
+      ]
+    },
+    {
+      "id": "ticketmaster:17AYvOG6GB2Jodd",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-09-18T03:00:00Z",
+      "venueName": "Chrome Showroom at Santa Fe Station Hotel & Casino",
+      "venueCity": "Las Vegas",
+      "venueState": "NV",
+      "citySlug": "las-vegas-nv",
+      "eventUrl": "https://www.ticketmaster.com/dave-masons-traffic-jam-las-vegas-nevada-09-17-2026/event/170060CE8F9910C3",
+      "lineup": [
+        "Dave Mason"
+      ]
+    },
+    {
+      "id": "ticketmaster:1AvbZbUGkRFlD0F",
+      "source": "ticketmaster",
+      "artist": "Summer Walker",
+      "date": "2026-09-18T16:00:00Z",
+      "venueName": "Kentucky Expo Center",
+      "venueCity": "Louisville",
+      "venueState": "KY",
+      "citySlug": "louisville-ky",
+      "eventUrl": "https://on.fgtix.com/trk/Rm3ec",
+      "lineup": [
+        "Louder Than Life",
+        "My Chemical Romance",
+        "Pierce The Veil",
+        "A Day To Remember",
+        "The Used",
+        "Coheed and Cambria",
+        "The Pretty Reckless",
+        "Taking Back Sunday",
+        "Sleeping With Sirens",
+        "The Warning",
+        "Cavalera",
+        "Badflower",
+        "We the Kings",
+        "Loathe",
+        "L.S. Dunes",
+        "PRESIDENT",
+        "Palaye Royale",
+        "Get Scared",
+        "Soulfly",
+        "Lacey Sturm",
+        "The Red Jumpsuit Apparatus",
+        "Haywire",
+        "ivri",
+        "Scene Queen",
+        "Caskets",
+        "Rain City Drive",
+        "Mushroomhead",
+        "Angel Du$t",
+        "Wind Walkers",
+        "Twitching Tongues",
+        "Powerman 5000",
+        "Jeff Hardy",
+        "Butcher Babies",
+        "Nevertel",
+        "Dry Kill Logic",
+        "Vana",
+        "Koyo",
+        "Primer 55",
+        "MISSING LINK",
+        "Showing Teeth",
+        "Earshot",
+        "40 Below Summer",
+        "Gates to Hell",
+        "Billy McNicol"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1A70go_",
+      "source": "ticketmaster",
+      "artist": "Kehlani",
+      "date": "2026-09-18T23:00:00Z",
+      "venueName": "OKC Zoo Amphitheatre",
+      "venueCity": "Oklahoma City",
+      "venueState": "OK",
+      "citySlug": "oklahoma-city-ok",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A70go_",
+      "lineup": [
+        "Kehlani",
+        "Durand Bernarr",
+        "Isaia Huron",
+        "TheARTI$t",
+        "WASEEL"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1AfaJQ7",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-09-19T00:00:00Z",
+      "venueName": "Blue Note Jazz Club",
+      "venueCity": "New York",
+      "venueState": "NY",
+      "citySlug": "new-york-ny",
+      "eventUrl": "https://www.ticketweb.com/event/chris-dave-x-meshell-ndegeocello-blue-note-jazz-club-tickets/14266684",
+      "lineup": [
+        "Meshell Ndegeocello",
+        "Eric Gales"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5dIZ_GmjLbWY",
+      "source": "ticketmaster",
+      "artist": "Isaiah Rashad",
+      "date": "2026-09-19T01:00:00Z",
+      "venueName": "Bayou Music Center",
+      "venueCity": "Houston",
+      "venueState": "TX",
+      "citySlug": "houston-tx",
+      "eventUrl": "https://www.ticketmaster.com/isaiah-rashad-lil-sunnys-awful-road-houston-texas-09-18-2026/event/3A0064CB9C7D8F70",
+      "lineup": [
+        "Isaiah Rashad",
+        "Alemeda"
+      ]
+    },
+    {
+      "id": "ticketmaster:1AvjZ_FGkMAFUxI",
+      "source": "ticketmaster",
+      "artist": "Chris Brown",
+      "date": "2026-09-19T02:00:00Z",
+      "venueName": "Allegiant Stadium",
+      "venueCity": "Las Vegas",
+      "venueState": "NV",
+      "citySlug": "las-vegas-nv",
+      "eventUrl": "https://www.ticketmaster.com/the-rb-tour-starring-usher-raymond-las-vegas-nevada-09-18-2026/event/1700648DC52368A8",
+      "lineup": [
+        "Usher Raymond & Chris Brown",
+        "USHER",
+        "Chris Brown"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5ezZbwJtEIZp",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-09-19T03:00:00Z",
+      "venueName": "Dolby Live",
+      "venueCity": "Las Vegas",
+      "venueState": "NV",
+      "citySlug": "las-vegas-nv",
+      "eventUrl": "https://www.ticketmaster.com/sammy-hagar-the-best-of-all-las-vegas-nevada-09-18-2026/event/2E006329A99E8016",
+      "lineup": [
+        "Sammy Hagar",
+        "Dave Hill"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5ezZ_oXtASa3",
+      "source": "ticketmaster",
+      "artist": "Cardi B",
+      "date": "2026-09-19T05:00:00Z",
+      "venueName": "On the Record",
+      "venueCity": "Las Vegas",
+      "venueState": "NV",
+      "citySlug": "las-vegas-nv",
+      "eventUrl": "https://www.ticketmaster.com/cardi-b-las-vegas-nevada-09-18-2026/event/2E00651FA9173252",
+      "lineup": [
+        "Cardi B"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1Af1740",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-09-19T05:00:00Z",
+      "venueName": "Dave & Buster's",
+      "venueCity": "Los Angeles",
+      "venueState": "CA",
+      "citySlug": "los-angeles-ca",
+      "eventUrl": "https://www.ticketweb.com/event/grave-busters-dave-busters-tickets/14284564",
+      "lineup": [
+        "Emo Nite"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1VZ_ekC64hS",
+      "source": "ticketmaster",
+      "artist": "Anderson .Paak",
+      "date": "2026-09-19T23:00:00Z",
+      "venueName": "Hard Rock Stadium",
+      "venueCity": "Miami",
+      "venueState": "FL",
+      "citySlug": "miami-fl",
+      "eventUrl": "https://www.ticketmaster.com/bruno-mars-the-romantic-tour-miami-florida-09-19-2026/event/0D0064218E1D56F3",
+      "lineup": [
+        "Bruno Mars",
+        "RAYE",
+        "DJ Pee .Wee"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1FZ_5UhQlaY",
+      "source": "ticketmaster",
+      "artist": "Bryson Tiller",
+      "date": "2026-09-19T23:30:00Z",
+      "venueName": "Prudential Center",
+      "venueCity": "Newark",
+      "venueState": "NJ",
+      "citySlug": "newark-nj",
+      "eventUrl": "https://www.ticketmaster.com/bryson-tiller-presents-the-neo-trapsoul-newark-new-jersey-09-19-2026/event/020064BD9B6AB270",
+      "lineup": [
+        "Bryson Tiller",
+        "Majid Jordan",
+        "Ty Dolla $ign",
+        "Austin Millz"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5eVZ_CEQd11U",
+      "source": "ticketmaster",
+      "artist": "Young Thug",
+      "date": "2026-09-20T00:00:00Z",
+      "venueName": "Red Hat Amphitheater",
+      "venueCity": "Raleigh",
+      "venueState": "NC",
+      "citySlug": "raleigh-nc",
+      "eventUrl": "https://www.ticketmaster.com/ysl-records-young-thug-presents-the-raleigh-north-carolina-09-19-2026/event/2D0064E9DA0CA2B6",
+      "lineup": [
+        "Young Thug",
+        "NAV"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1YZ_7ngiIvw",
+      "source": "ticketmaster",
+      "artist": "J. Cole",
+      "date": "2026-09-20T01:00:00Z",
+      "venueName": "American Airlines Center",
+      "venueCity": "Dallas",
+      "venueState": "TX",
+      "citySlug": "dallas-tx",
+      "eventUrl": "https://www.ticketmaster.com/j-cole-the-falloff-tour-dallas-texas-09-19-2026/event/0C00644AB5B28072",
+      "lineup": [
+        "J. Cole"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5viZ_ueWUnQ0",
+      "source": "ticketmaster",
+      "artist": "Rod Wave",
+      "date": "2026-09-20T01:00:00Z",
+      "venueName": "Smoothie King Center",
+      "venueCity": "New Orleans",
+      "venueState": "LA",
+      "citySlug": "new-orleans-la",
+      "eventUrl": "https://www.ticketmaster.com/rod-wave-dont-look-down-tour-new-orleans-louisiana-09-19-2026/event/1B0064D0BDDAA6A4",
+      "lineup": [
+        "Rod Wave",
+        "FRIDAYY"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5ezZbwJtIbZb",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-09-20T03:00:00Z",
+      "venueName": "Dolby Live",
+      "venueCity": "Las Vegas",
+      "venueState": "NV",
+      "citySlug": "las-vegas-nv",
+      "eventUrl": "https://www.ticketmaster.com/sammy-hagar-the-best-of-all-las-vegas-nevada-09-19-2026/event/2E006329A9A18018",
+      "lineup": [
+        "Sammy Hagar",
+        "Dave Hill"
+      ]
+    },
+    {
+      "id": "ticketmaster:1AvbZbUGkRallIZ",
+      "source": "ticketmaster",
+      "artist": "Future",
+      "date": "2026-09-20T16:00:00Z",
+      "venueName": "Kentucky Expo Center",
+      "venueCity": "Louisville",
+      "venueState": "KY",
+      "citySlug": "louisville-ky",
+      "eventUrl": "https://on.fgtix.com/trk/Rm3ec",
+      "lineup": [
+        "Louder Than Life",
+        "Tool",
+        "Gojira",
+        "The Prodigy",
+        "Danny Elfman",
+        "The Mars Volta",
+        "Mastodon",
+        "Black Label Society",
+        "Killswitch Engage",
+        "Ministry",
+        "Dethklok",
+        "Black Veil Brides",
+        "Underoath",
+        "Alexisonfire",
+        "Animals As Leaders",
+        "THRICE",
+        "The Home Team",
+        "Sleep Theory",
+        "Atreyu",
+        "Sunami",
+        "Filter",
+        "Between The Buried And Me",
+        "Toadies",
+        "Escape the Fate",
+        "Jutes",
+        "Haste the Day",
+        "Holywatr",
+        "LOCKED SHUT",
+        "I See Stars",
+        "The Word Alive",
+        "Emery",
+        "Maylene and the Sons of Disaster",
+        "Arrows In Action",
+        "The Pretty Wild",
+        "End It",
+        "Rivers of Nihil",
+        "200 Stab Wounds",
+        "156/Silence",
+        "sace6",
+        "Greyhaven",
+        "He Is Legend",
+        "Aviana",
+        "vianova",
+        "Future Palace",
+        "Corpse Pile",
+        "Bodybox",
+        "BOLTCUTTER",
+        "Resolve",
+        "Dreamwake"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1Af0o0N",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-09-20T21:30:00Z",
+      "venueName": "Birdland Jazz Club",
+      "venueCity": "New York",
+      "venueState": "NY",
+      "citySlug": "new-york-ny",
+      "eventUrl": "https://www.ticketweb.com/event/jon-de-lucias-dave-brubeck-birdland-jazz-club-tickets/14911923",
+      "lineup": [
+        "Scott Robinson & Bronze Nemesis"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1VZ_e-DkwJ_",
+      "source": "ticketmaster",
+      "artist": "Anderson .Paak",
+      "date": "2026-09-20T23:00:00Z",
+      "venueName": "Hard Rock Stadium",
+      "venueCity": "Miami",
+      "venueState": "FL",
+      "citySlug": "miami-fl",
+      "eventUrl": "https://www.ticketmaster.com/bruno-mars-the-romantic-tour-miami-florida-09-20-2026/event/0D0064287B1B2999",
+      "lineup": [
+        "Bruno Mars",
+        "RAYE",
+        "DJ Pee .Wee"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1zZ_Clu3Wym",
+      "source": "ticketmaster",
+      "artist": "Young Thug",
+      "date": "2026-09-21T00:00:00Z",
+      "venueName": "Lakewood Amphitheatre",
+      "venueCity": "Atlanta",
+      "venueState": "GA",
+      "citySlug": "atlanta-ga",
+      "eventUrl": "https://www.ticketmaster.com/ysl-records-young-thug-present-the-atlanta-georgia-09-20-2026/event/0E0064EACD4BDE6E",
+      "lineup": [
+        "Young Thug",
+        "NAV"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1AfaJQf",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-09-21T00:00:00Z",
+      "venueName": "Blue Note Jazz Club",
+      "venueCity": "New York",
+      "venueState": "NY",
+      "citySlug": "new-york-ny",
+      "eventUrl": "https://www.ticketweb.com/event/chris-dave-x-meshell-ndegeocello-blue-note-jazz-club-tickets/14266694",
+      "lineup": [
+        "Meshell Ndegeocello",
+        "Eric Gales"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5vzZ_5QtkzP6",
+      "source": "ticketmaster",
+      "artist": "Kehlani",
+      "date": "2026-09-21T00:30:00Z",
+      "venueName": "First Financial Credit Union Amphitheater",
+      "venueCity": "Albuquerque",
+      "venueState": "NM",
+      "citySlug": "albuquerque-nm",
+      "eventUrl": "https://www.ticketmaster.com/the-kehlani-world-tour-north-america-albuquerque-new-mexico-09-20-2026/event/1E0064B6A91B8947",
+      "lineup": [
+        "Kehlani",
+        "Durand Bernarr",
+        "TheARTI$t",
+        "WASEEL",
+        "Dixson"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1YZ_7nguETn",
+      "source": "ticketmaster",
+      "artist": "J. Cole",
+      "date": "2026-09-21T01:00:00Z",
+      "venueName": "American Airlines Center",
+      "venueCity": "Dallas",
+      "venueState": "TX",
+      "citySlug": "dallas-tx",
+      "eventUrl": "https://www.ticketmaster.com/j-cole-the-falloff-tour-dallas-texas-09-20-2026/event/0C00644AB5367FEA",
+      "lineup": [
+        "J. Cole"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1A7PPay",
+      "source": "ticketmaster",
+      "artist": "Rod Wave",
+      "date": "2026-09-22T01:00:00Z",
+      "venueName": "Toyota Center - TX",
+      "venueCity": "Houston",
+      "venueState": "TX",
+      "citySlug": "houston-tx",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7PPay",
+      "lineup": [
+        "Rod Wave",
+        "FRIDAYY"
+      ]
+    },
+    {
+      "id": "ticketmaster:17k8v0G65pFzfx-",
+      "source": "ticketmaster",
+      "artist": "Kehlani",
+      "date": "2026-09-22T01:30:00Z",
+      "venueName": "Talking Stick Resort Amphitheatre",
+      "venueCity": "Phoenix",
+      "venueState": "AZ",
+      "citySlug": "phoenix-az",
+      "eventUrl": "https://www.ticketmaster.com/the-kehlani-world-tour-north-america-phoenix-arizona-09-21-2026/event/190064B588E148A1",
+      "lineup": [
+        "Kehlani",
+        "Durand Bernarr",
+        "TheARTI$t",
+        "WASEEL",
+        "Dixon"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1AAZfq9",
+      "source": "ticketmaster",
+      "artist": "Rod Wave",
+      "date": "2026-09-23T01:00:00Z",
+      "venueName": "Toyota Center - TX",
+      "venueCity": "Houston",
+      "venueState": "TX",
+      "citySlug": "houston-tx",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1AAZfq9",
+      "lineup": [
+        "Rod Wave",
+        "FRIDAYY"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5vzZ_GwxMtOl",
+      "source": "ticketmaster",
+      "artist": "Isaiah Rashad",
+      "date": "2026-09-23T01:00:00Z",
+      "venueName": "Fillmore Auditorium (Denver)",
+      "venueCity": "Denver",
+      "venueState": "CO",
+      "citySlug": "denver-co",
+      "eventUrl": "https://www.ticketmaster.com/isaiah-rashad-lil-sunnys-awful-road-denver-colorado-09-22-2026/event/1E0064CCA2DE982B",
+      "lineup": [
+        "Isaiah Rashad",
+        "Alemeda"
+      ]
+    },
+    {
+      "id": "ticketmaster:vv170Z_8GknEXgB4",
+      "source": "ticketmaster",
+      "artist": "T.I.",
+      "date": "2026-09-23T04:30:00Z",
+      "venueName": "The Moroccan Lounge",
+      "venueCity": "Los Angeles",
+      "venueState": "CA",
+      "citySlug": "los-angeles-ca",
+      "eventUrl": "https://www.ticketmaster.com/chloe-tang-the-hoes-have-feelings-los-angeles-california-09-22-2026/event/0900650AA7FB5E95",
+      "lineup": [
+        "Chloe Tang",
+        "Ti Steele"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5eVZ_AeK8ME5",
+      "source": "ticketmaster",
+      "artist": "J. Cole",
+      "date": "2026-09-24T00:00:00Z",
+      "venueName": "Crown Coliseum",
+      "venueCity": "Fayetteville",
+      "venueState": "AR",
+      "citySlug": "fayetteville-ar",
+      "eventUrl": "https://www.ticketmaster.com/j-cole-the-falloff-tour-fayetteville-north-carolina-09-23-2026/event/2D006450934379CB",
+      "lineup": [
+        "J. Cole"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1IZ_5pqyJVv",
+      "source": "ticketmaster",
+      "artist": "Kehlani",
+      "date": "2026-09-24T01:30:00Z",
+      "venueName": "Viejas Arena at Aztec Bowl San Diego State University",
+      "venueCity": "San Diego",
+      "venueState": "CA",
+      "citySlug": "san-diego-ca",
+      "eventUrl": "https://www.ticketmaster.com/the-kehlani-world-tour-north-america-san-diego-california-09-23-2026/event/0A0064B59DE66D01",
+      "lineup": [
+        "Kehlani",
+        "Durand Bernarr",
+        "TheARTI$t",
+        "WASEEL",
+        "Dixson"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5vzZ_uvX_Kib",
+      "source": "ticketmaster",
+      "artist": "Isaiah Rashad",
+      "date": "2026-09-24T02:00:00Z",
+      "venueName": "The Complex",
+      "venueCity": "Salt Lake City",
+      "venueState": "UT",
+      "citySlug": "salt-lake-city-ut",
+      "eventUrl": "https://www.axs.com/events/1489872/isaiah-rashad-tickets",
+      "lineup": [
+        "Isaiah Rashad",
+        "Alemeda"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5ezZbwJtIzZQ",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-09-24T03:00:00Z",
+      "venueName": "Dolby Live",
+      "venueCity": "Las Vegas",
+      "venueState": "NV",
+      "citySlug": "las-vegas-nv",
+      "eventUrl": "https://www.ticketmaster.com/sammy-hagar-the-best-of-all-las-vegas-nevada-09-23-2026/event/2E006329A9A3801A",
+      "lineup": [
+        "Sammy Hagar",
+        "Dave Hill"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1AAZkGy",
+      "source": "ticketmaster",
+      "artist": "Common",
+      "date": "2026-09-25T00:00:00Z",
+      "venueName": "Terminal 5",
+      "venueCity": "New York",
+      "venueState": "NY",
+      "citySlug": "new-york-ny",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1AAZkGy",
+      "lineup": [
+        "Rainbow Kitten Surprise",
+        "Common People"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1A4Zzrd",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-09-25T00:30:00Z",
+      "venueName": "3rd and Lindsley",
+      "venueCity": "Nashville",
+      "venueState": "TN",
+      "citySlug": "nashville-tn",
+      "eventUrl": "https://www.ticketweb.com/event/kenny-greenberg-for-those-we-3rd-and-lindsley-tickets/15038783",
+      "lineup": [
+        "The McCrary Sisters",
+        "Linda Davis"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1A70tfP",
+      "source": "ticketmaster",
+      "artist": "H.E.R.",
+      "date": "2026-09-25T01:00:00Z",
+      "venueName": "Beer City Music Hall",
+      "venueCity": "Oklahoma City",
+      "venueState": "OK",
+      "citySlug": "oklahoma-city-ok",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A70tfP",
+      "lineup": [
+        "In Her Own Words",
+        "Every Avenue"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1AfaA87",
+      "source": "ticketmaster",
+      "artist": "Drake",
+      "date": "2026-09-26T01:00:00Z",
+      "venueName": "Joe's on Weed Street",
+      "venueCity": "Chicago",
+      "venueState": "IL",
+      "citySlug": "chicago-il",
+      "eventUrl": "https://www.ticketweb.com/event/drake-white-joes-on-weed-street-tickets/14245404",
+      "lineup": [
+        "Drake White"
+      ]
+    },
+    {
+      "id": "ticketmaster:17FZv0G6Cn0qexn",
+      "source": "ticketmaster",
+      "artist": "Young Thug",
+      "date": "2026-09-26T01:00:00Z",
+      "venueName": "Coca-Cola Amphitheater",
+      "venueCity": "Birmingham",
+      "venueState": "AL",
+      "citySlug": "birmingham-al",
+      "eventUrl": "https://www.ticketmaster.com/ysl-records-young-thug-present-the-birmingham-alabama-09-25-2026/event/200064EAA47428AA",
+      "lineup": [
+        "Young Thug",
+        "NAV"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5ezZbwJttbZj",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-09-26T03:00:00Z",
+      "venueName": "Dolby Live",
+      "venueCity": "Las Vegas",
+      "venueState": "NV",
+      "citySlug": "las-vegas-nv",
+      "eventUrl": "https://www.ticketmaster.com/sammy-hagar-the-best-of-all-las-vegas-nevada-09-25-2026/event/2E006329A9A5801C",
+      "lineup": [
+        "Sammy Hagar",
+        "Dave Hill"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG17Z_598WFlW",
+      "source": "ticketmaster",
+      "artist": "H.E.R.",
+      "date": "2026-09-26T16:00:00Z",
+      "venueName": "Veterans United Home Loans Amphitheater at Virginia Beach",
+      "venueCity": "Virginia Beach",
+      "venueState": "VA",
+      "citySlug": "virginia-beach-va",
+      "eventUrl": "https://www.ticketmaster.com/farm-aid-2026-virginia-beach-virginia-09-26-2026/event/010064B5D0F48AFD",
+      "lineup": [
+        "Farm Aid",
+        "Willie Nelson",
+        "Neil Young and The Chrome Hearts",
+        "John Mellencamp",
+        "Dave Matthews and Tim Reynolds",
+        "Margo Price",
+        "Nathaniel Rateliff",
+        "Turnpike Troubadours",
+        "Lukas Nelson",
+        "Mike Campbell & The Dirty Knobs",
+        "Jesse Welles",
+        "Sierra Ferrell",
+        "Mon Rovia",
+        "I'm With Her",
+        "Amythyst Kiah",
+        "Lily Meola",
+        "Chris Pierce"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1AfbM4d",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-09-26T17:30:00Z",
+      "venueName": "3rd and Lindsley",
+      "venueCity": "Nashville",
+      "venueState": "TN",
+      "citySlug": "nashville-tn",
+      "eventUrl": "https://www.ticketweb.com/event/backstage-nashville-daytime-hit-songwriters-3rd-and-lindsley-tickets/14637543",
+      "lineup": [
+        "Dave"
+      ]
+    },
+    {
+      "id": "ticketmaster:k7v1kvPv34dZ7GG8e",
+      "source": "ticketmaster",
+      "artist": "Victoria Monet",
+      "date": "2026-09-26T20:00:00Z",
+      "venueName": "Great Lawn at Central Park",
+      "venueCity": "New York",
+      "venueState": "NY",
+      "citySlug": "new-york-ny",
+      "eventUrl": "https://www.ticketmaster.com/global-citizen-festival-new-york-new-york-09-26-2026/event/000065052543BBF1",
+      "lineup": [
+        "Global Citizen Festival",
+        "Ms. Lauryn Hill",
+        "Wyclef Jean",
+        "Lenny Kravitz",
+        "John Legend",
+        "Lainey Wilson",
+        "Shaboozey",
+        "Tomorrow X Together",
+        "Victoria Monet",
+        "Alicia Keys"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1AAZIPN",
+      "source": "ticketmaster",
+      "artist": "Future",
+      "date": "2026-09-27T00:00:00Z",
+      "venueName": "Buffalo Iron Works",
+      "venueCity": "Buffalo",
+      "venueState": "NY",
+      "citySlug": "buffalo-ny",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1AAZIPN",
+      "lineup": [
+        "Octave Cat",
+        "Future Joy"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5eVZ_CxKsa1X",
+      "source": "ticketmaster",
+      "artist": "H.E.R.",
+      "date": "2026-09-27T00:00:00Z",
+      "venueName": "The Carolina",
+      "venueCity": "Charlotte",
+      "venueState": "NC",
+      "citySlug": "charlotte-nc",
+      "eventUrl": "https://www.ticketmaster.com/an-evening-with-lucinda-williams-and-charlotte-north-carolina-09-26-2026/event/2D0064E893C492BE",
+      "lineup": [
+        "Lucinda Williams"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1YZ_ukBu12Y",
+      "source": "ticketmaster",
+      "artist": "Rod Wave",
+      "date": "2026-09-27T01:00:00Z",
+      "venueName": "American Airlines Center",
+      "venueCity": "Dallas",
+      "venueState": "TX",
+      "citySlug": "dallas-tx",
+      "eventUrl": "https://www.ticketmaster.com/rod-wave-dont-look-down-tour-dallas-texas-09-26-2026/event/0C0064D1BA34A3F0",
+      "lineup": [
+        "Rod Wave",
+        "FRIDAYY"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1HZ_53gfuEw",
+      "source": "ticketmaster",
+      "artist": "Kehlani",
+      "date": "2026-09-27T01:30:00Z",
+      "venueName": "Moda Center",
+      "venueCity": "Portland",
+      "venueState": "OR",
+      "citySlug": "portland-or",
+      "eventUrl": "https://www.ticketmaster.com/the-kehlani-world-tour-north-america-portland-oregon-09-26-2026/event/0F0064B4B550D9F2",
+      "lineup": [
+        "Kehlani",
+        "Durand Bernarr",
+        "TheARTI$t",
+        "WASEEL",
+        "Dixson"
+      ]
+    },
+    {
+      "id": "ticketmaster:17AYv0G6GmQjaP6",
+      "source": "ticketmaster",
+      "artist": "Isaiah Rashad",
+      "date": "2026-09-27T02:00:00Z",
+      "venueName": "Brooklyn Bowl Las Vegas",
+      "venueCity": "Las Vegas",
+      "venueState": "NV",
+      "citySlug": "las-vegas-nv",
+      "eventUrl": "https://www.ticketmaster.com/isaiah-rashad-lil-sunnys-awful-road-las-vegas-nevada-09-26-2026/event/170064CB9A709947",
+      "lineup": [
+        "Isaiah Rashad",
+        "Alemeda"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5ezZbwJtnzZr",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-09-27T03:00:00Z",
+      "venueName": "Dolby Live",
+      "venueCity": "Las Vegas",
+      "venueState": "NV",
+      "citySlug": "las-vegas-nv",
+      "eventUrl": "https://www.ticketmaster.com/sammy-hagar-the-best-of-all-las-vegas-nevada-09-26-2026/event/2E006329A9AB801E",
+      "lineup": [
+        "Sammy Hagar",
+        "Dave Hill"
+      ]
+    },
+    {
+      "id": "ticketmaster:1AvbZbUGkR_RG-w",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-09-27T16:00:00Z",
+      "venueName": "Kentucky Expo Center",
+      "venueCity": "Louisville",
+      "venueState": "KY",
+      "citySlug": "louisville-ky",
+      "eventUrl": "https://on.fgtix.com/trk/Es3ec",
+      "lineup": [
+        "Bourbon & Beyond",
+        "Dave Matthews Band",
+        "Hootie & the Blowfish",
+        "Counting Crows",
+        "Jesse Welles",
+        "Portugal. The Man",
+        "Max McNown",
+        "Fitz and The Tantrums",
+        "Sons of Legion",
+        "Better Than Ezra",
+        "Lisa Loeb",
+        "Daniel Donato",
+        "Uncle Lucius",
+        "Paula Cole",
+        "Vertical Horizon",
+        "Tonic",
+        "Joan Osborne",
+        "The Verve Pipe",
+        "Stella Lefty",
+        "Our Lady Peace",
+        "S.G. Goodman",
+        "Clover County",
+        "The Steel Wheels",
+        "Ryman",
+        "Vickie Vaughn Band"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1A70yqp",
+      "source": "ticketmaster",
+      "artist": "Denzel Curry",
+      "date": "2026-09-27T21:00:00Z",
+      "venueName": "Majestic Theatre-MI",
+      "venueCity": "Detroit",
+      "venueState": "MI",
+      "citySlug": "detroit-mi",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A70yqp",
+      "lineup": [
+        "Knocked Loose",
+        "Denzel Curry"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5dIZ_C02uEVJ",
+      "source": "ticketmaster",
+      "artist": "Young Thug",
+      "date": "2026-09-28T01:00:00Z",
+      "venueName": "713 Music Hall",
+      "venueCity": "Houston",
+      "venueState": "TX",
+      "citySlug": "houston-tx",
+      "eventUrl": "https://www.ticketmaster.com/ysl-records-young-thug-present-the-houston-texas-09-27-2026/event/3A0064E90F367D26",
+      "lineup": [
+        "Young Thug",
+        "NAV"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1YZ_u1nTzv8",
+      "source": "ticketmaster",
+      "artist": "Rod Wave",
+      "date": "2026-09-28T01:00:00Z",
+      "venueName": "American Airlines Center",
+      "venueCity": "Dallas",
+      "venueState": "TX",
+      "citySlug": "dallas-tx",
+      "eventUrl": "https://www.ticketmaster.com/rod-wave-dont-look-down-tour-dallas-texas-09-27-2026/event/0C0064D2AAFF8050",
+      "lineup": [
+        "Rod Wave",
+        "FRIDAYY"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1HZ_5pXUjXS",
+      "source": "ticketmaster",
+      "artist": "Kehlani",
+      "date": "2026-09-28T01:30:00Z",
+      "venueName": "Climate Pledge Arena",
+      "venueCity": "Seattle",
+      "venueState": "WA",
+      "citySlug": "seattle-wa",
+      "eventUrl": "https://www.ticketmaster.com/the-kehlani-world-tour-north-america-seattle-washington-09-27-2026/event/0F0064B5BED9CFB3",
+      "lineup": [
+        "Kehlani",
+        "Durand Bernarr",
+        "TheARTI$t",
+        "WASEEL",
+        "Dixson"
+      ]
+    },
+    {
+      "id": "ticketmaster:17k8v0G6GSqUBNQ",
+      "source": "ticketmaster",
+      "artist": "Isaiah Rashad",
+      "date": "2026-09-28T03:00:00Z",
+      "venueName": "The Van Buren",
+      "venueCity": "Phoenix",
+      "venueState": "AZ",
+      "citySlug": "phoenix-az",
+      "eventUrl": "https://www.ticketmaster.com/isaiah-rashad-lil-sunnys-awful-road-phoenix-arizona-09-27-2026/event/190064CCDDDBA8DA",
+      "lineup": [
+        "Isaiah Rashad",
+        "Alemeda"
+      ]
+    },
+    {
+      "id": "ticketmaster:17k8v0G6Gwcd9Mo",
+      "source": "ticketmaster",
+      "artist": "Isaiah Rashad",
+      "date": "2026-09-29T03:00:00Z",
+      "venueName": "Rialto Theatre-Tucson",
+      "venueCity": "Tucson",
+      "venueState": "AZ",
+      "citySlug": "tucson-az",
+      "eventUrl": "https://www.ticketmaster.com/isaiah-rashad-lil-sunnys-awful-road-tucson-arizona-09-28-2026/event/190064CCAD0D7DD1",
+      "lineup": [
+        "Isaiah Rashad",
+        "Alemeda"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1AAvZ8E",
+      "source": "ticketmaster",
+      "artist": "Don Toliver",
+      "date": "2026-09-29T03:00:00Z",
+      "venueName": "TAO Chicago",
+      "venueCity": "Chicago",
+      "venueState": "IL",
+      "citySlug": "chicago-il",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1AAvZ8E",
+      "lineup": [
+        "Don Toliver"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1jZ_5lC2goQ",
+      "source": "ticketmaster",
+      "artist": "Bryson Tiller",
+      "date": "2026-09-30T00:30:00Z",
+      "venueName": "American Family Insurance Amphitheater - Summerfest Grounds",
+      "venueCity": "Milwaukee",
+      "venueState": "WI",
+      "citySlug": "milwaukee-wi",
+      "eventUrl": "https://www.ticketmaster.com/bryson-tiller-presents-the-neo-trapsoul-milwaukee-wisconsin-09-29-2026/event/070064BACE3F545A",
+      "lineup": [
+        "Bryson Tiller",
+        "Majid Jordan",
+        "Ty Dolla $ign",
+        "Austin Millz"
+      ]
+    },
+    {
+      "id": "ticketmaster:17A8v0G6CxIFJ8Q",
+      "source": "ticketmaster",
+      "artist": "H.E.R.",
+      "date": "2026-09-30T23:00:00Z",
+      "venueName": "9:30 CLUB",
+      "venueCity": "Washington",
+      "venueState": "DC",
+      "citySlug": "washington-dc",
+      "eventUrl": "https://www.ticketmaster.com/lucinda-williams-and-her-band-washington-district-of-columbia-09-30-2026/event/150064E8A822641A",
+      "lineup": [
+        "Lucinda Williams"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG18Z_5l-eH_O",
+      "source": "ticketmaster",
+      "artist": "Denzel Curry",
+      "date": "2026-09-30T23:00:00Z",
+      "venueName": "The Salt Shed Outdoors (Fairgrounds)",
+      "venueCity": "Chicago",
+      "venueState": "IL",
+      "citySlug": "chicago-il",
+      "eventUrl": "https://www.ticketmaster.com/knocked-loose-denzel-curry-chicago-illinois-09-30-2026/event/040064BAE10BC660",
+      "lineup": [
+        "Knocked Loose",
+        "Denzel Curry",
+        "Superheaven",
+        "Boundaries"
+      ]
+    },
+    {
+      "id": "ticketmaster:vv17OZbSGkI0b7TI",
+      "source": "ticketmaster",
+      "artist": "Doja Cat",
+      "date": "2026-10-01T23:30:00Z",
+      "venueName": "Little Caesars Arena",
+      "venueCity": "Detroit",
+      "venueState": "MI",
+      "citySlug": "detroit-mi",
+      "eventUrl": "https://www.ticketmaster.com/doja-cat-tour-ma-vie-world-detroit-michigan-10-01-2026/event/0800633A24604FE8",
+      "lineup": [
+        "Doja Cat",
+        "Latto"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1AfFak7",
+      "source": "ticketmaster",
+      "artist": "Future",
+      "date": "2026-10-02T00:00:00Z",
+      "venueName": "The Pyramid Scheme",
+      "venueCity": "Grand Rapids",
+      "venueState": "MI",
+      "citySlug": "grand-rapids-mi",
+      "eventUrl": "https://www.ticketweb.com/event/octave-cat-future-joy-the-pyramid-scheme-tickets/14209184",
+      "lineup": [
+        "Future"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1A7J_qY",
+      "source": "ticketmaster",
+      "artist": "Drake",
+      "date": "2026-10-02T00:30:00Z",
+      "venueName": "Tulsa Expo Center",
+      "venueCity": "Tulsa",
+      "venueState": "OK",
+      "citySlug": "tulsa-ok",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_qY",
+      "lineup": [
+        "Drake White"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG10Z_1TbHFx3",
+      "source": "ticketmaster",
+      "artist": "H.E.R.",
+      "date": "2026-10-02T02:00:00Z",
+      "venueName": "Echoplex",
+      "venueCity": "Los Angeles",
+      "venueState": "CA",
+      "citySlug": "los-angeles-ca",
+      "eventUrl": "https://www.ticketmaster.com/in-her-own-words-x-every-los-angeles-california-10-01-2026/event/090064AFD8F08892",
+      "lineup": [
+        "In Her Own Words",
+        "Every Avenue",
+        "Felicity",
+        "Public Works",
+        "SUNBURNT"
+      ]
+    },
+    {
+      "id": "ticketmaster:1A_ZkoPGkd1gnm6",
+      "source": "ticketmaster",
+      "artist": "Nas",
+      "date": "2026-10-02T03:00:00Z",
+      "venueName": "Rialto Theatre-Tucson",
+      "venueCity": "Tucson",
+      "venueState": "AZ",
+      "citySlug": "tucson-az",
+      "eventUrl": "https://www.ticketmaster.com/earl-sweatshirt-mike-home-on-the-tucson-arizona-10-01-2026/event/19006465CAD6AB87",
+      "lineup": [
+        "Earl Sweatshirt",
+        "MIKE",
+        "Surf Gang",
+        "Na-Kel Smith"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1FZ_5m-XRbW",
+      "source": "ticketmaster",
+      "artist": "Denzel Curry",
+      "date": "2026-10-02T23:00:00Z",
+      "venueName": "Stateside Live!",
+      "venueCity": "Philadelphia",
+      "venueState": "PA",
+      "citySlug": "philadelphia-pa",
+      "eventUrl": "https://www.axs.com/events/1465634/knocked-loose-and-denzel-curry-tickets?skin=statesidelive",
+      "lineup": [
+        "Knocked Loose",
+        "Denzel Curry"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5viZ_2DCJCcQ",
+      "source": "ticketmaster",
+      "artist": "Drake",
+      "date": "2026-10-03T01:00:00Z",
+      "venueName": "Minglewood Hall",
+      "venueCity": "Memphis",
+      "venueState": "TN",
+      "citySlug": "memphis-tn",
+      "eventUrl": "https://www.ticketmaster.com/drake-white-memphis-tennessee-10-02-2026/event/1B0064FECE98EB5A",
+      "lineup": [
+        "Drake White"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1A7JFjf",
+      "source": "ticketmaster",
+      "artist": "Nas",
+      "date": "2026-10-03T01:00:00Z",
+      "venueName": "El Rey - NM",
+      "venueCity": "Albuquerque",
+      "venueState": "NM",
+      "citySlug": "albuquerque-nm",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7JFjf",
+      "lineup": [
+        "Earl Sweatshirt",
+        "MIKE",
+        "Na-Kel Smith",
+        "Surf Gang"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1AfOt-N",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-10-03T02:30:00Z",
+      "venueName": "Tractor",
+      "venueCity": "Seattle",
+      "venueState": "WA",
+      "citySlug": "seattle-wa",
+      "eventUrl": "https://www.ticketweb.com/event/tractor-presents-dave-hause-tractor-tickets/14829863",
+      "lineup": [
+        "Dave Hause & The Mermaid",
+        "American Steel"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1AAZwA7",
+      "source": "ticketmaster",
+      "artist": "H.E.R.",
+      "date": "2026-10-03T03:00:00Z",
+      "venueName": "Casbah-San Diego",
+      "venueCity": "San Diego",
+      "venueState": "CA",
+      "citySlug": "san-diego-ca",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1AAZwA7",
+      "lineup": [
+        "In Her Own Words",
+        "Every Avenue"
+      ]
+    },
+    {
+      "id": "ticketmaster:17k8v0G6C0nOijt",
+      "source": "ticketmaster",
+      "artist": "Young Thug",
+      "date": "2026-10-03T03:00:00Z",
+      "venueName": "Arizona Financial Theatre",
+      "venueCity": "Phoenix",
+      "venueState": "AZ",
+      "citySlug": "phoenix-az",
+      "eventUrl": "https://www.ticketmaster.com/ysl-records-young-thug-present-the-phoenix-arizona-10-02-2026/event/190064E92A82C729",
+      "lineup": [
+        "Young Thug",
+        "NAV"
+      ]
+    },
+    {
+      "id": "ticketmaster:17A8v0G65NzZihy",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-10-03T17:00:00Z",
+      "venueName": "Merriweather Post Pavilion",
+      "venueCity": "Columbia",
+      "venueState": "MD",
+      "citySlug": "columbia-md",
+      "eventUrl": "https://www.ticketmaster.com/power-to-the-people-festival-columbia-maryland-10-03-2026/event/150064B8F802C6F9",
+      "lineup": [
+        "Power to the People",
+        "Bruce Springsteen",
+        "Foo Fighters",
+        "Dave Matthews",
+        "Tom Morello",
+        "Joan Baez",
+        "Public Enemy",
+        "Jack Black",
+        "Dropkick Murphys",
+        "Cypress Hill",
+        "Killer Mike",
+        "Serj Tankian",
+        "Brittany Howard",
+        "Taylor Momsen",
+        "The Linda Lindas",
+        "Darryl \"DMC\" McDaniels",
+        "Matt Cameron",
+        "grandson",
+        "The Neighborhood Kids"
+      ]
+    },
+    {
+      "id": "ticketmaster:17A8v0G653lwaJA",
+      "source": "ticketmaster",
+      "artist": "Denzel Curry",
+      "date": "2026-10-03T23:00:00Z",
+      "venueName": "The Anthem",
+      "venueCity": "Washington",
+      "venueState": "DC",
+      "citySlug": "washington-dc",
+      "eventUrl": "https://www.ticketmaster.com/knocked-loose-denzel-curry-washington-district-of-columbia-10-03-2026/event/150064B4ABC89985",
+      "lineup": [
+        "Knocked Loose",
+        "Denzel Curry",
+        "Superheaven",
+        "Boundaries"
+      ]
+    },
+    {
+      "id": "ticketmaster:vv178ZbSGknyfVeS",
+      "source": "ticketmaster",
+      "artist": "Doja Cat",
+      "date": "2026-10-04T00:30:00Z",
+      "venueName": "United Center",
+      "venueCity": "Chicago",
+      "venueState": "IL",
+      "citySlug": "chicago-il",
+      "eventUrl": "https://www.ticketmaster.com/doja-cat-tour-ma-vie-world-chicago-illinois-10-03-2026/event/0400633AB95340B3",
+      "lineup": [
+        "Doja Cat",
+        "Latto"
+      ]
+    },
+    {
+      "id": "ticketmaster:vv1A7ZkfvGkdpLqxD",
+      "source": "ticketmaster",
+      "artist": "Latto",
+      "date": "2026-10-04T00:30:00Z",
+      "venueName": "United Center",
+      "venueCity": "Chicago",
+      "venueState": "IL",
+      "citySlug": "chicago-il",
+      "eventUrl": "https://www.ticketmaster.com/latto-vip-upgrades-event-ticket-not-chicago-illinois-10-03-2026/event/04006501D67DD8BB",
+      "lineup": [
+        "Latto"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1AfOdFN",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-10-04T02:30:00Z",
+      "venueName": "Tractor",
+      "venueCity": "Seattle",
+      "venueState": "WA",
+      "citySlug": "seattle-wa",
+      "eventUrl": "https://www.ticketweb.com/event/tractor-presents-dave-hause-tractor-tickets/14803223",
+      "lineup": [
+        "Dave Hause & The Mermaid",
+        "American Steel"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1zZ_u5_rr5k",
+      "source": "ticketmaster",
+      "artist": "Jacquees",
+      "date": "2026-10-04T23:00:00Z",
+      "venueName": "Lakewood Amphitheatre",
+      "venueCity": "Atlanta",
+      "venueState": "GA",
+      "citySlug": "atlanta-ga",
+      "eventUrl": "https://www.ticketmaster.com/jacquees-and-k-camp-us-over-atlanta-georgia-10-04-2026/event/0E0064D2D979E2C6",
+      "lineup": [
+        "Jacquees",
+        "K Camp",
+        "Lihtz"
+      ]
+    },
+    {
+      "id": "ticketmaster:vv17bZbSGknj3VY9",
+      "source": "ticketmaster",
+      "artist": "Doja Cat",
+      "date": "2026-10-05T00:30:00Z",
+      "venueName": "Target Center",
+      "venueCity": "Minneapolis",
+      "venueState": "MN",
+      "citySlug": "minneapolis-mn",
+      "eventUrl": "https://www.ticketmaster.com/doja-cat-tour-ma-vie-world-minneapolis-minnesota-10-04-2026/event/0600633A9C4B4C17",
+      "lineup": [
+        "Doja Cat",
+        "Latto"
+      ]
+    },
+    {
+      "id": "ticketmaster:17F8v0G65SCFSSj",
+      "source": "ticketmaster",
+      "artist": "Bryson Tiller",
+      "date": "2026-10-05T00:30:00Z",
+      "venueName": "Morton Amphitheater",
+      "venueCity": "Kansas City",
+      "venueState": "MO",
+      "citySlug": "kansas-city-mo",
+      "eventUrl": "https://www.ticketmaster.com/bryson-tiller-presents-the-neo-trapsoul-kansas-city-missouri-10-04-2026/event/210064BCCE233CDC",
+      "lineup": [
+        "Bryson Tiller",
+        "Majid Jordan",
+        "Ty Dolla $ign",
+        "Austin Millz"
+      ]
+    },
+    {
+      "id": "ticketmaster:17k8v0G6ukUNFAz",
+      "source": "ticketmaster",
+      "artist": "Rod Wave",
+      "date": "2026-10-05T03:00:00Z",
+      "venueName": "Mortgage Matchup Center",
+      "venueCity": "Phoenix",
+      "venueState": "AZ",
+      "citySlug": "phoenix-az",
+      "eventUrl": "https://www.ticketmaster.com/rod-wave-dont-look-down-tour-phoenix-arizona-10-04-2026/event/190064D1B68C8178",
+      "lineup": [
+        "Rod Wave",
+        "FRIDAYY"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1A7JAPo",
+      "source": "ticketmaster",
+      "artist": "Nas",
+      "date": "2026-10-06T01:00:00Z",
+      "venueName": "Ogden Theatre",
+      "venueCity": "Denver",
+      "venueState": "CO",
+      "citySlug": "denver-co",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7JAPo",
+      "lineup": [
+        "Earl Sweatshirt",
+        "MIKE",
+        "Na-Kel Smith"
+      ]
+    },
+    {
+      "id": "ticketmaster:1AvbZ_aGkDtBLPP",
+      "source": "ticketmaster",
+      "artist": "Future",
+      "date": "2026-10-07T00:00:00Z",
+      "venueName": "Lexington Opera House",
+      "venueCity": "Lexington",
+      "venueState": "KY",
+      "citySlug": "lexington-ky",
+      "eventUrl": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-lexington-kentucky-10-06-2026/event/1600649EE9E9F965",
+      "lineup": [
+        "Scott Bradlee's Postmodern Jukebox"
+      ]
+    },
+    {
+      "id": "ticketmaster:vv17bZbSGkwNTdvB",
+      "source": "ticketmaster",
+      "artist": "Doja Cat",
+      "date": "2026-10-07T00:30:00Z",
+      "venueName": "T-Mobile Center",
+      "venueCity": "Kansas City",
+      "venueState": "MO",
+      "citySlug": "kansas-city-mo",
+      "eventUrl": "https://www.ticketmaster.com/doja-cat-tour-ma-vie-world-kansas-city-missouri-10-06-2026/event/0600633CA3FC307A",
+      "lineup": [
+        "Doja Cat",
+        "Latto"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5viZ_59RCpIO",
+      "source": "ticketmaster",
+      "artist": "Bryson Tiller",
+      "date": "2026-10-07T00:30:00Z",
+      "venueName": "FedExForum",
+      "venueCity": "Memphis",
+      "venueState": "TN",
+      "citySlug": "memphis-tn",
+      "eventUrl": "https://www.ticketmaster.com/bryson-tiller-presents-the-neo-trapsoul-memphis-tennessee-10-06-2026/event/1B0064B5EF396A20",
+      "lineup": [
+        "Bryson Tiller",
+        "Majid Jordan",
+        "Ty Dolla $ign",
+        "Austin Millz"
+      ]
+    },
+    {
+      "id": "ticketmaster:17AOv0G65nc9Edv",
+      "source": "ticketmaster",
+      "artist": "Bryson Tiller",
+      "date": "2026-10-07T23:30:00Z",
+      "venueName": "KFC Yum! Center",
+      "venueCity": "Louisville",
+      "venueState": "KY",
+      "citySlug": "louisville-ky",
+      "eventUrl": "https://www.ticketmaster.com/bryson-tiller-presents-the-neo-trapsoul-louisville-kentucky-10-07-2026/event/160064BAAD5E70C1",
+      "lineup": [
+        "Bryson Tiller",
+        "Majid Jordan",
+        "Ty Dolla $ign",
+        "Austin Millz"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1VZb81XwfvF",
+      "source": "ticketmaster",
+      "artist": "Tank",
+      "date": "2026-10-08T00:00:00Z",
+      "venueName": "Kaseya Center",
+      "venueCity": "Miami",
+      "venueState": "FL",
+      "citySlug": "miami-fl",
+      "eventUrl": "https://www.ticketmaster.com/rb-forever-tour-bell-biv-devoe-miami-florida-10-07-2026/event/0D006102BEC94048",
+      "lineup": [
+        "R&B Forever Tour",
+        "Bell Biv Devoe",
+        "TGT: Tyrese, Ginuwine and Tank",
+        "Silk"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1AfxoCK",
+      "source": "ticketmaster",
+      "artist": "Common",
+      "date": "2026-10-09T01:00:00Z",
+      "venueName": "The Basement East",
+      "venueCity": "Nashville",
+      "venueState": "TN",
+      "citySlug": "nashville-tn",
+      "eventUrl": "https://www.ticketweb.com/event/sold-out-finn-wolfhard-the-basement-east-tickets/14891393",
+      "lineup": [
+        "Finn Wolfhard"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5vzZbSEFO0An",
+      "source": "ticketmaster",
+      "artist": "Doja Cat",
+      "date": "2026-10-09T01:30:00Z",
+      "venueName": "Ball Arena",
+      "venueCity": "Denver",
+      "venueState": "CO",
+      "citySlug": "denver-co",
+      "eventUrl": "https://www.ticketmaster.com/doja-cat-tour-ma-vie-world-denver-colorado-10-08-2026/event/1E006339C882416A",
+      "lineup": [
+        "Doja Cat",
+        "Latto"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1A7PZ3e",
+      "source": "ticketmaster",
+      "artist": "Denzel Curry",
+      "date": "2026-10-09T23:00:00Z",
+      "venueName": "Palladium-MA",
+      "venueCity": "Worcester",
+      "venueState": "MA",
+      "citySlug": "worcester-ma",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7PZ3e",
+      "lineup": [
+        "Knocked Loose",
+        "Denzel Curry"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5dIZ_FMgrCt-",
+      "source": "ticketmaster",
+      "artist": "Chris Brown",
+      "date": "2026-10-10T00:00:00Z",
+      "venueName": "Reliant Stadium",
+      "venueCity": "Houston",
+      "venueState": "TX",
+      "citySlug": "houston-tx",
+      "eventUrl": "https://www.ticketmaster.com/the-rb-tour-starring-usher-raymond-houston-texas-10-09-2026/event/3A00648DF578EA61",
+      "lineup": [
+        "Usher Raymond & Chris Brown",
+        "USHER",
+        "Chris Brown"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1Afag_V",
+      "source": "ticketmaster",
+      "artist": "Brandy",
+      "date": "2026-10-10T01:00:00Z",
+      "venueName": "3rd and Lindsley",
+      "venueCity": "Nashville",
+      "venueState": "TN",
+      "citySlug": "nashville-tn",
+      "eventUrl": "https://www.ticketweb.com/event/a-nashville-tribute-and-birthday-3rd-and-lindsley-tickets/14275674",
+      "lineup": [
+        "Brian Wright",
+        "Brandy Zdan"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1Af09bK",
+      "source": "ticketmaster",
+      "artist": "H.E.R.",
+      "date": "2026-10-10T03:00:00Z",
+      "venueName": "The District",
+      "venueCity": "Spokane",
+      "venueState": "WA",
+      "citySlug": "spokane-wa",
+      "eventUrl": "https://www.ticketweb.com/event/in-her-own-words-the-district-tickets/14917613",
+      "lineup": [
+        "In Her Own Words",
+        "Every Avenue"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5dIZ_aeZnAxU",
+      "source": "ticketmaster",
+      "artist": "Chris Brown",
+      "date": "2026-10-11T00:00:00Z",
+      "venueName": "Reliant Stadium",
+      "venueCity": "Houston",
+      "venueState": "TX",
+      "citySlug": "houston-tx",
+      "eventUrl": "https://www.ticketmaster.com/the-rb-tour-starring-usher-raymond-houston-texas-10-10-2026/event/3A00649080A858B6",
+      "lineup": [
+        "Usher Raymond & Chris Brown",
+        "USHER",
+        "Chris Brown"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5vzZbSlbgAvF",
+      "source": "ticketmaster",
+      "artist": "Doja Cat",
+      "date": "2026-10-11T01:30:00Z",
+      "venueName": "Canyon View Credit Union Stage at Maverik Center",
+      "venueCity": "West Valley City",
+      "venueState": "UT",
+      "citySlug": "west-valley-city-ut",
+      "eventUrl": "https://www.ticketmaster.com/doja-cat-tour-ma-vie-world-west-valley-city-utah-10-10-2026/event/1E00633AD8D45048",
+      "lineup": [
+        "Doja Cat",
+        "Latto"
+      ]
+    },
+    {
+      "id": "ticketmaster:1718v0G624eZY0M",
+      "source": "ticketmaster",
+      "artist": "H.E.R.",
+      "date": "2026-10-11T01:30:00Z",
+      "venueName": "Reggies Bananna's Shack ",
+      "venueCity": "Chicago",
+      "venueState": "IL",
+      "citySlug": "chicago-il",
+      "eventUrl": "https://www.ticketweb.com/event/lily-vakili-her-band-reggies-banannas-shack-tickets/14274224?REFERRAL_ID=tmfeed",
+      "lineup": [
+        "H.E.R."
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1Af04aS",
+      "source": "ticketmaster",
+      "artist": "H.E.R.",
+      "date": "2026-10-11T03:00:00Z",
+      "venueName": "Dante's",
+      "venueCity": "Portland",
+      "venueState": "OR",
+      "citySlug": "portland-or",
+      "eventUrl": "https://www.ticketweb.com/event/in-her-own-words-dantes-tickets/14915273",
+      "lineup": [
+        "In Her Own Words",
+        "Every Avenue"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1bZ_ukKHzGh",
+      "source": "ticketmaster",
+      "artist": "Rod Wave",
+      "date": "2026-10-13T01:00:00Z",
+      "venueName": "Enterprise Center",
+      "venueCity": "St. Louis",
+      "venueState": "MO",
+      "citySlug": "st-louis-mo",
+      "eventUrl": "https://www.ticketmaster.com/rod-wave-dont-look-down-tour-saint-louis-missouri-10-12-2026/event/060064D193F3831B",
+      "lineup": [
+        "Rod Wave",
+        "FRIDAYY"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1Afxf0S",
+      "source": "ticketmaster",
+      "artist": "Common",
+      "date": "2026-10-13T02:30:00Z",
+      "venueName": "Crescent Ballroom",
+      "venueCity": "Phoenix",
+      "venueState": "AZ",
+      "citySlug": "phoenix-az",
+      "eventUrl": "https://www.ticketweb.com/event/finn-wolfhard-the-crescent-ballroom-tickets/14894933",
+      "lineup": [
+        "Finn Wolfhard"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5vzZ_51W4ap1",
+      "source": "ticketmaster",
+      "artist": "H.E.R.",
+      "date": "2026-10-14T01:30:00Z",
+      "venueName": "HQ",
+      "venueCity": "Denver",
+      "venueState": "CO",
+      "citySlug": "denver-co",
+      "eventUrl": "https://hqdenver.holdmyticket.com/tickets/463016",
+      "lineup": [
+        "In Her Own Words",
+        "Every Avenue",
+        "Felicity",
+        "Public Works"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5eVZ_aBlG4Jj",
+      "source": "ticketmaster",
+      "artist": "Future",
+      "date": "2026-10-15T00:00:00Z",
+      "venueName": "The Charleston Music Hall",
+      "venueCity": "Charleston",
+      "venueState": "SC",
+      "citySlug": "charleston-sc",
+      "eventUrl": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-charleston-south-carolina-10-14-2026/event/2D00649EAB31599C",
+      "lineup": [
+        "Scott Bradlee's Postmodern Jukebox"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5viZ_u63PWEP",
+      "source": "ticketmaster",
+      "artist": "Rod Wave",
+      "date": "2026-10-15T01:00:00Z",
+      "venueName": "Bridgestone Arena",
+      "venueCity": "Nashville",
+      "venueState": "TN",
+      "citySlug": "nashville-tn",
+      "eventUrl": "https://www.ticketmaster.com/rod-wave-dont-look-down-tour-nashville-tennessee-10-14-2026/event/1B0064D1D297D9E5",
+      "lineup": [
+        "Rod Wave",
+        "FRIDAYY"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1A4Z9aK",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-10-15T03:00:00Z",
+      "venueName": "Tractor",
+      "venueCity": "Seattle",
+      "venueState": "WA",
+      "citySlug": "seattle-wa",
+      "eventUrl": "https://www.ticketweb.com/event/sold-out-dave-alvin-new-tractor-tickets/15017253",
+      "lineup": [
+        "Dave Alvin"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1A7xvZA",
+      "source": "ticketmaster",
+      "artist": "Tank",
+      "date": "2026-10-16T00:00:00Z",
+      "venueName": "Terminal West",
+      "venueCity": "Atlanta",
+      "venueState": "GA",
+      "citySlug": "atlanta-ga",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7xvZA",
+      "lineup": [
+        "Tank and the Bangas"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1HZbSlq8gOt",
+      "source": "ticketmaster",
+      "artist": "Doja Cat",
+      "date": "2026-10-16T02:30:00Z",
+      "venueName": "Climate Pledge Arena",
+      "venueCity": "Seattle",
+      "venueState": "WA",
+      "citySlug": "seattle-wa",
+      "eventUrl": "https://www.ticketmaster.com/doja-cat-tour-ma-vie-world-seattle-washington-10-15-2026/event/0F00633ADD435829",
+      "lineup": [
+        "Doja Cat",
+        "Latto"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1AfqYaK",
+      "source": "ticketmaster",
+      "artist": "Common",
+      "date": "2026-10-16T21:00:00Z",
+      "venueName": "Mariner’s Point Park",
+      "venueCity": "San Diego",
+      "venueState": "CA",
+      "citySlug": "san-diego-ca",
+      "eventUrl": "https://www.ticketweb.com/event/mission-bayfest-2026-mariners-point-park-tickets/14770253",
+      "lineup": [
+        "The Offspring",
+        "Rebelution",
+        "Kolohe Kai",
+        "Steel Pulse",
+        "The Movement",
+        "Common Kings",
+        "SOJA",
+        "The Interrupters",
+        "Goldfinger",
+        "Surfer Girl",
+        "The Expendables",
+        "Eureka Sound",
+        "For Peace Band",
+        "Kanaka Fyah",
+        "Jakobs Castle",
+        "Sitting On Saturn",
+        "Kyle Smith",
+        "The Ries Brothers",
+        "The Last Call",
+        "sullvn"
+      ]
+    },
+    {
+      "id": "ticketmaster:17A8v0G6ueLkUwW",
+      "source": "ticketmaster",
+      "artist": "Rod Wave",
+      "date": "2026-10-17T00:00:00Z",
+      "venueName": "Capital One Arena",
+      "venueCity": "Washington",
+      "venueState": "DC",
+      "citySlug": "washington-dc",
+      "eventUrl": "https://www.ticketmaster.com/rod-wave-dont-look-down-tour-washington-district-of-columbia-10-16-2026/event/150064D09F1B6CBD",
+      "lineup": [
+        "Rod Wave",
+        "FRIDAYY"
+      ]
+    },
+    {
+      "id": "ticketmaster:17A8v0G6CBR4tGT",
+      "source": "ticketmaster",
+      "artist": "T.I.",
+      "date": "2026-10-17T00:00:00Z",
+      "venueName": "Chesapeake Employers Insurance Arena",
+      "venueCity": "Baltimore",
+      "venueState": "MD",
+      "citySlug": "baltimore-md",
+      "eventUrl": "https://www.ticketmaster.com/the-royal-takeover-w-ti-fabolous-baltimore-maryland-10-16-2026/event/150064EEAF56933F",
+      "lineup": [
+        "T.I.",
+        "Fabolous",
+        "Trina"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1A7xvZk",
+      "source": "ticketmaster",
+      "artist": "Tank",
+      "date": "2026-10-17T00:00:00Z",
+      "venueName": "Terminal West",
+      "venueCity": "Atlanta",
+      "venueState": "GA",
+      "citySlug": "atlanta-ga",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7xvZk",
+      "lineup": [
+        "Tank and the Bangas"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5viZ_1Q-8uDa",
+      "source": "ticketmaster",
+      "artist": "Future",
+      "date": "2026-10-17T00:30:00Z",
+      "venueName": "The Truth",
+      "venueCity": "Nashville",
+      "venueState": "TN",
+      "citySlug": "nashville-tn",
+      "eventUrl": "https://www.ticketmaster.com/tedeschi-trucks-band-future-soul-2026-nashville-tennessee-10-16-2026/event/1B0064A6A140DEC9",
+      "lineup": [
+        "Tedeschi Trucks Band"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG18Z_urOiEcT",
+      "source": "ticketmaster",
+      "artist": "Summer Walker",
+      "date": "2026-10-17T00:30:00Z",
+      "venueName": "Credit Union 1 Arena at UIC",
+      "venueCity": "Chicago",
+      "venueState": "IL",
+      "citySlug": "chicago-il",
+      "eventUrl": "https://www.ticketmaster.com/summer-walker-chicago-illinois-10-16-2026/event/040064D7A0B27B7F",
+      "lineup": [
+        "Summer Walker",
+        "DaniLeigh",
+        "Zeddy Will"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1A4v7Fd",
+      "source": "ticketmaster",
+      "artist": "Nas",
+      "date": "2026-10-17T04:59:00Z",
+      "venueName": "Tipitina's",
+      "venueCity": "New Orleans",
+      "venueState": "LA",
+      "citySlug": "new-orleans-la",
+      "eventUrl": "https://www.ticketweb.com/event/let-me-stand-next-to-tipitinas-tickets/15044203",
+      "lineup": [
+        "Eric Bolivar",
+        "Stanton Moore",
+        "Robert Walter",
+        "Chali 2na",
+        "Tony Hall"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1AfqYFS",
+      "source": "ticketmaster",
+      "artist": "Common",
+      "date": "2026-10-17T19:00:00Z",
+      "venueName": "Mariner’s Point Park",
+      "venueCity": "San Diego",
+      "venueState": "CA",
+      "citySlug": "san-diego-ca",
+      "eventUrl": "https://www.ticketweb.com/event/mission-bayfest-2026-mariners-point-park-tickets/14770233",
+      "lineup": [
+        "Kolohe Kai",
+        "Common Kings",
+        "SOJA",
+        "For Peace Band",
+        "Kanaka Fyah"
+      ]
+    },
+    {
+      "id": "ticketmaster:1kA8vP7ZGAuJBpQ",
+      "source": "ticketmaster",
+      "artist": "Chris Brown",
+      "date": "2026-10-17T23:00:00Z",
+      "venueName": "M&T Bank Stadium",
+      "venueCity": "Baltimore",
+      "venueState": "MD",
+      "citySlug": "baltimore-md",
+      "eventUrl": "https://seatgeek.com/the-r-and-b-tour-tickets/baltimore-maryland-m-t-bank-stadium-2026-10-17-7-30-pm/concert/18477741",
+      "lineup": [
+        "Usher Raymond & Chris Brown",
+        "Chris Brown",
+        "USHER"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1A7PVfA",
+      "source": "ticketmaster",
+      "artist": "City Girls",
+      "date": "2026-10-17T23:00:00Z",
+      "venueName": "Criterion Theater - Oklahoma City",
+      "venueCity": "Oklahoma City",
+      "venueState": "OK",
+      "citySlug": "oklahoma-city-ok",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7PVfA",
+      "lineup": [
+        "Indigo Girls"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1zZ_okuU7DE",
+      "source": "ticketmaster",
+      "artist": "N.E.R.D",
+      "date": "2026-10-17T23:00:00Z",
+      "venueName": "The Masquerade  - Altar",
+      "venueCity": "Atlanta",
+      "venueState": "GA",
+      "citySlug": "atlanta-ga",
+      "eventUrl": "https://www.ticketmaster.com/adjust-the-sails-atlanta-georgia-10-17-2026/event/0E0065118DD84EE7",
+      "lineup": [
+        "Adjust the Sails",
+        "Worst Party Ever",
+        "Equipment",
+        "Ogbert the Nerd"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5viZ_1Q-ouD2",
+      "source": "ticketmaster",
+      "artist": "Future",
+      "date": "2026-10-18T00:30:00Z",
+      "venueName": "The Truth",
+      "venueCity": "Nashville",
+      "venueState": "TN",
+      "citySlug": "nashville-tn",
+      "eventUrl": "https://www.ticketmaster.com/tedeschi-trucks-band-future-soul-2026-nashville-tennessee-10-17-2026/event/1B0064A6A144DECF",
+      "lineup": [
+        "Tedeschi Trucks Band"
+      ]
+    },
+    {
+      "id": "ticketmaster:1k18v04VGAC_31k",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-10-18T01:00:00Z",
+      "venueName": "Reggies Bananna's Shack ",
+      "venueCity": "Chicago",
+      "venueState": "IL",
+      "citySlug": "chicago-il",
+      "eventUrl": "https://www.ticketweb.com/event/oz-noy-trio-ft-dave-reggies-banannas-shack-tickets/14186834?REFERRAL_ID=tmfeed",
+      "lineup": [
+        "Oz Noy Trio"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5viZ_66AZKft",
+      "source": "ticketmaster",
+      "artist": "Tank",
+      "date": "2026-10-18T01:00:00Z",
+      "venueName": "Brooklyn Bowl Nashville",
+      "venueCity": "Nashville",
+      "venueState": "TN",
+      "citySlug": "nashville-tn",
+      "eventUrl": "https://www.ticketmaster.com/tank-and-the-bangas-the-last-nashville-tennessee-10-17-2026/event/1B006471C5013529",
+      "lineup": [
+        "Tank and the Bangas",
+        "Ariel J."
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1HZbSnaneIS",
+      "source": "ticketmaster",
+      "artist": "Doja Cat",
+      "date": "2026-10-18T02:30:00Z",
+      "venueName": "Moda Center",
+      "venueCity": "Portland",
+      "venueState": "OR",
+      "citySlug": "portland-or",
+      "eventUrl": "https://www.ticketmaster.com/doja-cat-tour-ma-vie-world-portland-oregon-10-17-2026/event/0F00633A89A82A33",
+      "lineup": [
+        "Doja Cat",
+        "Latto"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1zZ_1TFVghq",
+      "source": "ticketmaster",
+      "artist": "H.E.R.",
+      "date": "2026-10-18T22:30:00Z",
+      "venueName": "The Masquerade - Purgatory",
+      "venueCity": "Atlanta",
+      "venueState": "GA",
+      "citySlug": "atlanta-ga",
+      "eventUrl": "https://www.ticketmaster.com/in-her-own-words-every-avenue-atlanta-georgia-10-18-2026/event/0E0064AFC8D356DD",
+      "lineup": [
+        "In Her Own Words",
+        "Every Avenue",
+        "Fluorescents",
+        "Neutral Snap"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5vzZ_5m9qyKz",
+      "source": "ticketmaster",
+      "artist": "Bryson Tiller",
+      "date": "2026-10-19T01:30:00Z",
+      "venueName": "First Financial Credit Union Amphitheater",
+      "venueCity": "Albuquerque",
+      "venueState": "NM",
+      "citySlug": "albuquerque-nm",
+      "eventUrl": "https://www.ticketmaster.com/bryson-tiller-presents-the-neo-trapsoul-albuquerque-new-mexico-10-18-2026/event/1E0064BB977794F8",
+      "lineup": [
+        "Bryson Tiller",
+        "Majid Jordan",
+        "Ty Dolla $ign",
+        "Austin Millz"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1OZ_udpjh0t",
+      "source": "ticketmaster",
+      "artist": "Rod Wave",
+      "date": "2026-10-20T00:00:00Z",
+      "venueName": "Little Caesars Arena",
+      "venueCity": "Detroit",
+      "venueState": "MI",
+      "citySlug": "detroit-mi",
+      "eventUrl": "https://www.ticketmaster.com/rod-wave-dont-look-down-tour-detroit-michigan-10-19-2026/event/080064D0D671B929",
+      "lineup": [
+        "Rod Wave",
+        "FRIDAYY"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1A7Pd4s",
+      "source": "ticketmaster",
+      "artist": "Denzel Curry",
+      "date": "2026-10-20T00:00:00Z",
+      "venueName": "The Pinnacle - TN",
+      "venueCity": "Nashville",
+      "venueState": "TN",
+      "citySlug": "nashville-tn",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pd4s",
+      "lineup": [
+        "Knocked Loose",
+        "Denzel Curry"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1zZ_G0dc5wD",
+      "source": "ticketmaster",
+      "artist": "Vince Staples",
+      "date": "2026-10-20T00:00:00Z",
+      "venueName": "Tabernacle Presented by iTHINK Financial",
+      "venueCity": "Atlanta",
+      "venueState": "GA",
+      "citySlug": "atlanta-ga",
+      "eventUrl": "https://www.ticketmaster.com/vince-staples-cry-baby-tour-atlanta-georgia-10-19-2026/event/0E0064C903B4BCBB",
+      "lineup": [
+        "Vince Staples"
+      ]
+    },
+    {
+      "id": "ticketmaster:1AvbZ_kGkwG8POI",
+      "source": "ticketmaster",
+      "artist": "Future",
+      "date": "2026-10-20T23:00:00Z",
+      "venueName": "Citizens Live at The Wylie",
+      "venueCity": "Pittsburgh",
+      "venueState": "PA",
+      "citySlug": "pittsburgh-pa",
+      "eventUrl": "https://www.ticketmaster.com/tedeschi-trucks-band-future-soul-2026-pittsburgh-pennsylvania-10-20-2026/event/1600646C8C425828",
+      "lineup": [
+        "Tedeschi Trucks Band"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1OZ_u2vrzRv",
+      "source": "ticketmaster",
+      "artist": "Rod Wave",
+      "date": "2026-10-21T00:00:00Z",
+      "venueName": "Little Caesars Arena",
+      "venueCity": "Detroit",
+      "venueState": "MI",
+      "citySlug": "detroit-mi",
+      "eventUrl": "https://www.ticketmaster.com/rod-wave-dont-look-down-tour-detroit-michigan-10-20-2026/event/080064D3C17B8BC1",
+      "lineup": [
+        "Rod Wave",
+        "FRIDAYY"
+      ]
+    },
+    {
+      "id": "ticketmaster:vv1A6ZkosGkddzJ62",
+      "source": "ticketmaster",
+      "artist": "Tank",
+      "date": "2026-10-21T01:00:00Z",
+      "venueName": "Majestic Theatre",
+      "venueCity": "Madison",
+      "venueState": "WI",
+      "citySlug": "madison-wi",
+      "eventUrl": "https://www.ticketmaster.com/tank-and-the-bangas-the-last-madison-wisconsin-10-20-2026/event/07006471C3E261CF",
+      "lineup": [
+        "Tank and the Bangas",
+        "Ariel J.",
+        "DJ Zeus"
+      ]
+    },
+    {
+      "id": "ticketmaster:17k8v0G65lC9IRs",
+      "source": "ticketmaster",
+      "artist": "Bryson Tiller",
+      "date": "2026-10-21T02:30:00Z",
+      "venueName": "Talking Stick Resort Amphitheatre",
+      "venueCity": "Phoenix",
+      "venueState": "AZ",
+      "citySlug": "phoenix-az",
+      "eventUrl": "https://www.ticketmaster.com/bryson-tiller-presents-the-neo-trapsoul-phoenix-arizona-10-20-2026/event/190064BACE5E8BF1",
+      "lineup": [
+        "Bryson Tiller",
+        "Majid Jordan",
+        "Ty Dolla $ign",
+        "Austin Millz"
+      ]
+    },
+    {
+      "id": "ticketmaster:vv1A6Zk8gGkdkFE3x",
+      "source": "ticketmaster",
+      "artist": "Future",
+      "date": "2026-10-22T00:00:00Z",
+      "venueName": "Landmark Credit Union Live",
+      "venueCity": "Milwaukee",
+      "venueState": "WI",
+      "citySlug": "milwaukee-wi",
+      "eventUrl": "https://www.ticketmaster.com/tedeschi-trucks-band-future-soul-2026-milwaukee-wisconsin-10-21-2026/event/07006435C62274A2",
+      "lineup": [
+        "Tedeschi Trucks Band"
+      ]
+    },
+    {
+      "id": "ticketmaster:17F8v0G65E8CSOJ",
+      "source": "ticketmaster",
+      "artist": "Denzel Curry",
+      "date": "2026-10-22T00:30:00Z",
+      "venueName": "The Factory",
+      "venueCity": "St. Louis",
+      "venueState": "MO",
+      "citySlug": "st-louis-mo",
+      "eventUrl": "https://www.ticketmaster.com/knocked-loose-denzel-curry-saint-louis-missouri-10-21-2026/event/210064B9D03B3826",
+      "lineup": [
+        "Knocked Loose",
+        "Denzel Curry",
+        "Superheaven",
+        "Boundaries"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5dIZ_GlCYOzJ",
+      "source": "ticketmaster",
+      "artist": "Vince Staples",
+      "date": "2026-10-22T01:00:00Z",
+      "venueName": "Bayou Music Center",
+      "venueCity": "Houston",
+      "venueState": "TX",
+      "citySlug": "houston-tx",
+      "eventUrl": "https://www.ticketmaster.com/vince-staples-cry-baby-tour-houston-texas-10-21-2026/event/3A0064CACEC20E26",
+      "lineup": [
+        "Vince Staples"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1zZ_oxINnK7",
+      "source": "ticketmaster",
+      "artist": "H.E.R.",
+      "date": "2026-10-22T22:30:00Z",
+      "venueName": "The Masquerade - Hell",
+      "venueCity": "Atlanta",
+      "venueState": "GA",
+      "citySlug": "atlanta-ga",
+      "eventUrl": "https://www.ticketmaster.com/texas-is-the-reason-atlanta-georgia-10-22-2026/event/0E006518A88EA4C4",
+      "lineup": [
+        "Texas Is the Reason",
+        "Algernon Cadwallader",
+        "Her Head’s On Fire"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1fZ_u68l-X-",
+      "source": "ticketmaster",
+      "artist": "Rod Wave",
+      "date": "2026-10-23T00:00:00Z",
+      "venueName": "Schottenstein Center",
+      "venueCity": "Columbus",
+      "venueState": "OH",
+      "citySlug": "columbus-oh",
+      "eventUrl": "https://www.ticketmaster.com/rod-wave-dont-look-down-tour-columbus-ohio-10-22-2026/event/050064D1D0AE1FA1",
+      "lineup": [
+        "Rod Wave",
+        "FRIDAYY"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1Af0_0d",
+      "source": "ticketmaster",
+      "artist": "H.E.R.",
+      "date": "2026-10-23T00:30:00Z",
+      "venueName": "Bottom Lounge",
+      "venueCity": "Chicago",
+      "venueState": "IL",
+      "citySlug": "chicago-il",
+      "eventUrl": "https://www.ticketweb.com/event/every-avenue-x-in-her-bottom-lounge-tickets/14919903",
+      "lineup": [
+        "Every Avenue",
+        "In Her Own Words"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5vzZ_ulGxDZW",
+      "source": "ticketmaster",
+      "artist": "Nas",
+      "date": "2026-10-23T01:00:00Z",
+      "venueName": "Ophelia's Electric Soapbox",
+      "venueCity": "Denver",
+      "venueState": "CO",
+      "citySlug": "denver-co",
+      "eventUrl": "https://www.ticketmaster.com/alejo-x-3na-nerves-av-with-denver-colorado-10-22-2026/event/1E0064DACC8BB03D",
+      "lineup": [
+        "Nas"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1bZ_5nC5gBQ",
+      "source": "ticketmaster",
+      "artist": "Denzel Curry",
+      "date": "2026-10-23T01:00:00Z",
+      "venueName": "Uptown Theater",
+      "venueCity": "Kansas City",
+      "venueState": "MO",
+      "citySlug": "kansas-city-mo",
+      "eventUrl": "https://www.ticketmaster.com/knocked-loose-denzel-curry-kansas-city-missouri-10-22-2026/event/060064BA8E2F5E9A",
+      "lineup": [
+        "Knocked Loose",
+        "Denzel Curry",
+        "Superheaven",
+        "Boundaries"
+      ]
+    },
+    {
+      "id": "ticketmaster:17AOv0G6uky4i7Y",
+      "source": "ticketmaster",
+      "artist": "Rod Wave",
+      "date": "2026-10-24T00:00:00Z",
+      "venueName": "PPG Paints Arena",
+      "venueCity": "Pittsburgh",
+      "venueState": "PA",
+      "citySlug": "pittsburgh-pa",
+      "eventUrl": "https://www.ticketmaster.com/rod-wave-dont-look-down-tour-pittsburgh-pennsylvania-10-23-2026/event/160064D1B956C130",
+      "lineup": [
+        "Rod Wave",
+        "FRIDAYY"
+      ]
+    },
+    {
+      "id": "ticketmaster:vv17FZ_aGkiXWcUo",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-10-24T00:00:00Z",
+      "venueName": "The Fillmore Philadelphia",
+      "venueCity": "Philadelphia",
+      "venueState": "PA",
+      "citySlug": "philadelphia-pa",
+      "eventUrl": "https://www.ticketmaster.com/horsegiirl-nature-is-healing-tour-philadelphia-pennsylvania-10-23-2026/event/0200649B3EF6DD91",
+      "lineup": [
+        "horsegiirL",
+        "DJ_Dave"
+      ]
+    },
+    {
+      "id": "ticketmaster:vv1A6Zk8UGkelxUxF",
+      "source": "ticketmaster",
+      "artist": "Future",
+      "date": "2026-10-24T00:30:00Z",
+      "venueName": "The Chicago Theatre",
+      "venueCity": "Chicago",
+      "venueState": "IL",
+      "citySlug": "chicago-il",
+      "eventUrl": "https://www.ticketmaster.com/tedeschi-trucks-band-future-soul-2026-chicago-illinois-10-23-2026/event/07006436AB8B6888",
+      "lineup": [
+        "Tedeschi Trucks Band"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1YZ_GUqR4ku",
+      "source": "ticketmaster",
+      "artist": "Vince Staples",
+      "date": "2026-10-24T01:00:00Z",
+      "venueName": "South Side Ballroom",
+      "venueCity": "Dallas",
+      "venueState": "TX",
+      "citySlug": "dallas-tx",
+      "eventUrl": "https://www.ticketmaster.com/vince-staples-cry-baby-tour-dallas-texas-10-23-2026/event/0C0064CD9DBD518D",
+      "lineup": [
+        "Vince Staples"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5ezZ_a9Kk31m",
+      "source": "ticketmaster",
+      "artist": "Mary J. Blige",
+      "date": "2026-10-24T03:00:00Z",
+      "venueName": "Dolby Live",
+      "venueCity": "Las Vegas",
+      "venueState": "NV",
+      "citySlug": "las-vegas-nv",
+      "eventUrl": "https://www.ticketmaster.com/mary-j-blige-my-life-my-las-vegas-nevada-10-23-2026/event/2E006495D31922AE",
+      "lineup": [
+        "Mary J. Blige"
+      ]
+    },
+    {
+      "id": "ticketmaster:17AOv0G6uecUypE",
+      "source": "ticketmaster",
+      "artist": "T.I.",
+      "date": "2026-10-24T23:00:00Z",
+      "venueName": "L&N Federal Credit Union Stadium",
+      "venueCity": "Louisville",
+      "venueState": "KY",
+      "citySlug": "louisville-ky",
+      "eventUrl": "https://www.ticketmaster.com/the-crown-live-in-the-ville-louisville-kentucky-10-24-2026/event/160064D0ADDB95A7",
+      "lineup": [
+        "Ludacris",
+        "T.I.",
+        "BigXthaPlug",
+        "Rick Ross"
+      ]
+    },
+    {
+      "id": "ticketmaster:vv1A6Zk8UGkel0kxi",
+      "source": "ticketmaster",
+      "artist": "Future",
+      "date": "2026-10-25T00:30:00Z",
+      "venueName": "The Chicago Theatre",
+      "venueCity": "Chicago",
+      "venueState": "IL",
+      "citySlug": "chicago-il",
+      "eventUrl": "https://www.ticketmaster.com/tedeschi-trucks-band-future-soul-2026-chicago-illinois-10-24-2026/event/07006436AB9068AC",
+      "lineup": [
+        "Tedeschi Trucks Band"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1Af0_AK",
+      "source": "ticketmaster",
+      "artist": "H.E.R.",
+      "date": "2026-10-25T01:00:00Z",
+      "venueName": "Shank Hall",
+      "venueCity": "Milwaukee",
+      "venueState": "WI",
+      "citySlug": "milwaukee-wi",
+      "eventUrl": "https://www.ticketweb.com/event/in-her-own-words-x-shank-hall-tickets/14919153",
+      "lineup": [
+        "H.E.R."
+      ]
+    },
+    {
+      "id": "ticketmaster:vv1kvOvPAFGAC-MAb",
+      "source": "ticketmaster",
+      "artist": "Moneybagg Yo",
+      "date": "2026-10-25T01:00:00Z",
+      "venueName": "Chaifetz Arena",
+      "venueCity": "St. Louis",
+      "venueState": "MO",
+      "citySlug": "st-louis-mo",
+      "eventUrl": "https://www.ticketmaster.com/show-me-fest-pt2-saint-louis-missouri-10-24-2026/event/060065148E877158",
+      "lineup": [
+        "DaBaby",
+        "Moneybagg Yo"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1AfrfFS",
+      "source": "ticketmaster",
+      "artist": "Tank",
+      "date": "2026-10-25T01:00:00Z",
+      "venueName": "Thalia Hall",
+      "venueCity": "Chicago",
+      "venueState": "IL",
+      "citySlug": "chicago-il",
+      "eventUrl": "https://www.ticketweb.com/event/tank-and-the-bangas-thalia-hall-tickets/14794233",
+      "lineup": [
+        "Tank and the Bangas"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5ezZ_a9K6x1M",
+      "source": "ticketmaster",
+      "artist": "Mary J. Blige",
+      "date": "2026-10-25T03:00:00Z",
+      "venueName": "Dolby Live",
+      "venueCity": "Las Vegas",
+      "venueState": "NV",
+      "citySlug": "las-vegas-nv",
+      "eventUrl": "https://www.ticketmaster.com/mary-j-blige-my-life-my-las-vegas-nevada-10-24-2026/event/2E006495D31E22B7",
+      "lineup": [
+        "Mary J. Blige"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5eVZ_GmNsTa3",
+      "source": "ticketmaster",
+      "artist": "Vince Staples",
+      "date": "2026-10-25T23:00:00Z",
+      "venueName": "The Ritz",
+      "venueCity": "Raleigh",
+      "venueState": "NC",
+      "citySlug": "raleigh-nc",
+      "eventUrl": "https://www.ticketmaster.com/vince-staples-cry-baby-tour-raleigh-north-carolina-10-25-2026/event/2D0064CBA3C7F252",
+      "lineup": [
+        "Vince Staples"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1GZ_15bIvsi",
+      "source": "ticketmaster",
+      "artist": "Future",
+      "date": "2026-10-26T00:00:00Z",
+      "venueName": "Town Hall",
+      "venueCity": "New York",
+      "venueState": "NY",
+      "citySlug": "new-york-ny",
+      "eventUrl": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-new-york-new-york-10-25-2026/event/030064A2D8A01C6C",
+      "lineup": [
+        "Scott Bradlee's Postmodern Jukebox"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG17Z_ueRk22E",
+      "source": "ticketmaster",
+      "artist": "Rod Wave",
+      "date": "2026-10-26T00:00:00Z",
+      "venueName": "TD Garden",
+      "venueCity": "Boston",
+      "venueState": "MA",
+      "citySlug": "boston-ma",
+      "eventUrl": "https://www.ticketmaster.com/rod-wave-dont-look-down-tour-boston-massachusetts-10-25-2026/event/010064D0AF18F3E7",
+      "lineup": [
+        "Rod Wave",
+        "FRIDAYY"
+      ]
+    },
+    {
+      "id": "ticketmaster:vv1A7Zk3oGkeXbBuR",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-10-26T00:00:00Z",
+      "venueName": "House of Blues Chicago",
+      "venueCity": "Chicago",
+      "venueState": "IL",
+      "citySlug": "chicago-il",
+      "eventUrl": "https://www.ticketmaster.com/streetlight-manifesto-the-presence-of-the-chicago-illinois-10-25-2026/event/04006491BE63A36F",
+      "lineup": [
+        "Streetlight Manifesto",
+        "Dave Hause"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1A704jp",
+      "source": "ticketmaster",
+      "artist": "Tank",
+      "date": "2026-10-26T01:00:00Z",
+      "venueName": "Off Broadway",
+      "venueCity": "St. Louis",
+      "venueState": "MO",
+      "citySlug": "st-louis-mo",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A704jp",
+      "lineup": [
+        "Tank and the Bangas"
+      ]
+    },
+    {
+      "id": "ticketmaster:vv1A6Zk8UGkelPpxM",
+      "source": "ticketmaster",
+      "artist": "Future",
+      "date": "2026-10-27T00:30:00Z",
+      "venueName": "The Chicago Theatre",
+      "venueCity": "Chicago",
+      "venueState": "IL",
+      "citySlug": "chicago-il",
+      "eventUrl": "https://www.ticketmaster.com/tedeschi-trucks-band-future-soul-2026-chicago-illinois-10-26-2026/event/07006436AB9568B7",
+      "lineup": [
+        "Tedeschi Trucks Band",
+        "Cris Jacobs"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1A4v67N",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-10-27T02:00:00Z",
+      "venueName": "Blue Note Los Angeles",
+      "venueCity": "Los Angeles",
+      "venueState": "CA",
+      "citySlug": "los-angeles-ca",
+      "eventUrl": "https://www.ticketweb.com/event/reuben-james-featuring-chris-dave-blue-note-los-angeles-tickets/15047123",
+      "lineup": [
+        "Dave"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1Af1oOV",
+      "source": "ticketmaster",
+      "artist": "H.E.R.",
+      "date": "2026-10-27T03:00:00Z",
+      "venueName": "Showdown Saloon",
+      "venueCity": "Portland",
+      "venueState": "OR",
+      "citySlug": "portland-or",
+      "eventUrl": "https://www.ticketweb.com/event/abby-webster-her-imaginary-showdown-saloon-tickets/14291834",
+      "lineup": [
+        "H.E.R."
+      ]
+    },
+    {
+      "id": "ticketmaster:vv177Z_aGkSCo6zr",
+      "source": "ticketmaster",
+      "artist": "Future",
+      "date": "2026-10-28T00:00:00Z",
+      "venueName": "The Wilbur",
+      "venueCity": "Boston",
+      "venueState": "MA",
+      "citySlug": "boston-ma",
+      "eventUrl": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-boston-massachusetts-10-27-2026/event/0100649CCE447E1E",
+      "lineup": [
+        "Scott Bradlee's Postmodern Jukebox"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5eVZ_3NPNcOA",
+      "source": "ticketmaster",
+      "artist": "Victoria Monet",
+      "date": "2026-10-28T00:00:00Z",
+      "venueName": "Red Hat Amphitheater",
+      "venueCity": "Raleigh",
+      "venueState": "NC",
+      "citySlug": "raleigh-nc",
+      "eventUrl": "https://www.ticketmaster.com/victoria-monet-frequency-of-love-tour-raleigh-north-carolina-10-27-2026/event/2D006528E58ED805",
+      "lineup": [
+        "Victoria Monet"
+      ]
+    },
+    {
+      "id": "ticketmaster:vv1A6Zk8UGkelJJxW",
+      "source": "ticketmaster",
+      "artist": "Future",
+      "date": "2026-10-28T00:30:00Z",
+      "venueName": "The Chicago Theatre",
+      "venueCity": "Chicago",
+      "venueState": "IL",
+      "citySlug": "chicago-il",
+      "eventUrl": "https://www.ticketmaster.com/tedeschi-trucks-band-future-soul-2026-chicago-illinois-10-27-2026/event/07006436AB9A68BD",
+      "lineup": [
+        "Tedeschi Trucks Band"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1IZbSi8_kno",
+      "source": "ticketmaster",
+      "artist": "Doja Cat",
+      "date": "2026-10-28T02:30:00Z",
+      "venueName": "Viejas Arena at Aztec Bowl San Diego State University",
+      "venueCity": "San Diego",
+      "venueState": "CA",
+      "citySlug": "san-diego-ca",
+      "eventUrl": "https://www.ticketmaster.com/doja-cat-tour-ma-vie-world-san-diego-california-10-27-2026/event/0A00633B10646A91",
+      "lineup": [
+        "Doja Cat",
+        "Latto"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5eVZ_3NKdbnI",
+      "source": "ticketmaster",
+      "artist": "Victoria Monet",
+      "date": "2026-10-29T00:00:00Z",
+      "venueName": "Skyla Credit Union Amphitheatre",
+      "venueCity": "Charlotte",
+      "venueState": "NC",
+      "citySlug": "charlotte-nc",
+      "eventUrl": "https://www.ticketmaster.com/frequency-of-love-tour-charlotte-north-carolina-10-28-2026/event/2D006528D30D8AA8",
+      "lineup": [
+        "Victoria Monet"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1A4ZbJK",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-10-29T02:30:00Z",
+      "venueName": "Blue Note Jazz Club",
+      "venueCity": "New York",
+      "venueState": "NY",
+      "citySlug": "new-york-ny",
+      "eventUrl": "https://www.ticketweb.com/event/robert-glasper-feat-derrick-hodge-blue-note-jazz-club-tickets/15018993",
+      "lineup": [
+        "Robert Glasper"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5ezZ_a9Kae55",
+      "source": "ticketmaster",
+      "artist": "Mary J. Blige",
+      "date": "2026-10-29T03:00:00Z",
+      "venueName": "Dolby Live",
+      "venueCity": "Las Vegas",
+      "venueState": "NV",
+      "citySlug": "las-vegas-nv",
+      "eventUrl": "https://www.ticketmaster.com/mary-j-blige-my-life-my-las-vegas-nevada-10-28-2026/event/2E006495D32422CB",
+      "lineup": [
+        "Mary J. Blige"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1fZ_GmYO5fY",
+      "source": "ticketmaster",
+      "artist": "Chris Brown",
+      "date": "2026-10-29T23:00:00Z",
+      "venueName": "Brown County Music Center",
+      "venueCity": "Nashville",
+      "venueState": "TN",
+      "citySlug": "nashville-tn",
+      "eventUrl": "https://www.ticketmaster.com/daughtry-20-years-unplugged-tour-nashville-indiana-10-29-2026/event/050064CBB080B530",
+      "lineup": [
+        "Daughtry",
+        "Ryan Perdz"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5eVZ_8lqyg3q",
+      "source": "ticketmaster",
+      "artist": "Chris Brown",
+      "date": "2026-10-29T23:30:00Z",
+      "venueName": "Williams-Brice Stadium",
+      "venueCity": "Columbia",
+      "venueState": "SC",
+      "citySlug": "columbia-sc",
+      "eventUrl": "https://www.ticketmaster.com/the-rb-tour-starring-usher-raymond-columbia-south-carolina-10-29-2026/event/2D00650ADDE7549D",
+      "lineup": [
+        "Usher Raymond & Chris Brown",
+        "USHER",
+        "Chris Brown"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1A4Z_Zd",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-10-30T00:00:00Z",
+      "venueName": "Blue Note Jazz Club",
+      "venueCity": "New York",
+      "venueState": "NY",
+      "citySlug": "new-york-ny",
+      "eventUrl": "https://www.ticketweb.com/event/robert-glasper-feat-derrick-hodge-blue-note-jazz-club-tickets/15019003",
+      "lineup": [
+        "Robert Glasper"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1zZ_ANbXIAp",
+      "source": "ticketmaster",
+      "artist": "Brandy",
+      "date": "2026-10-30T00:00:00Z",
+      "venueName": "Buckhead Theatre",
+      "venueCity": "Atlanta",
+      "venueState": "GA",
+      "citySlug": "atlanta-ga",
+      "eventUrl": "https://www.ticketmaster.com/brandy-clark-atlanta-georgia-10-29-2026/event/0E006458D8FA8156",
+      "lineup": [
+        "Brandy Clark"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1A70yjs",
+      "source": "ticketmaster",
+      "artist": "Denzel Curry",
+      "date": "2026-10-30T02:00:00Z",
+      "venueName": "Shrine LA Outdoors",
+      "venueCity": "Los Angeles",
+      "venueState": "CA",
+      "citySlug": "los-angeles-ca",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A70yjs",
+      "lineup": [
+        "Knocked Loose",
+        "Denzel Curry"
+      ]
+    },
+    {
+      "id": "ticketmaster:1Av0ZbSGknh-N_Z",
+      "source": "ticketmaster",
+      "artist": "Doja Cat",
+      "date": "2026-10-30T02:30:00Z",
+      "venueName": "Mortgage Matchup Center",
+      "venueCity": "Phoenix",
+      "venueState": "AZ",
+      "citySlug": "phoenix-az",
+      "eventUrl": "https://www.ticketmaster.com/doja-cat-tour-ma-vie-world-phoenix-arizona-10-29-2026/event/1900633A9B863640",
+      "lineup": [
+        "Doja Cat",
+        "Latto"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1HZ_5pO9BdO",
+      "source": "ticketmaster",
+      "artist": "Bryson Tiller",
+      "date": "2026-10-30T02:30:00Z",
+      "venueName": "Veterans Memorial Coliseum",
+      "venueCity": "Portland",
+      "venueState": "OR",
+      "citySlug": "portland-or",
+      "eventUrl": "https://www.ticketmaster.com/bryson-tiller-presents-the-neo-trapsoul-portland-oregon-10-29-2026/event/0F0064B5A05FA0E0",
+      "lineup": [
+        "Bryson Tiller",
+        "Majid Jordan",
+        "Ty Dolla $ign",
+        "Austin Millz"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1A7PwoY",
+      "source": "ticketmaster",
+      "artist": "H.E.R.",
+      "date": "2026-10-30T22:00:00Z",
+      "venueName": "Ace of Cups",
+      "venueCity": "Columbus",
+      "venueState": "OH",
+      "citySlug": "columbus-oh",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7PwoY",
+      "lineup": [
+        "In Her Own Words"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5viZ_3O5bpUd",
+      "source": "ticketmaster",
+      "artist": "Victoria Monet",
+      "date": "2026-10-31T00:00:00Z",
+      "venueName": "The Fillmore New Orleans",
+      "venueCity": "New Orleans",
+      "venueState": "LA",
+      "citySlug": "new-orleans-la",
+      "eventUrl": "https://www.ticketmaster.com/victoria-monet-frequency-of-love-tour-new-orleans-louisiana-10-30-2026/event/1B0065280B616D83",
+      "lineup": [
+        "Victoria Monet"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1A7PE8V",
+      "source": "ticketmaster",
+      "artist": "Vince Staples",
+      "date": "2026-10-31T00:00:00Z",
+      "venueName": "Franklin Music Hall",
+      "venueCity": "Philadelphia",
+      "venueState": "PA",
+      "citySlug": "philadelphia-pa",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7PE8V",
+      "lineup": [
+        "Vince Staples"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1AfA607",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-10-31T00:30:00Z",
+      "venueName": "Iridium",
+      "venueCity": "New York",
+      "venueState": "NY",
+      "citySlug": "new-york-ny",
+      "eventUrl": "https://www.ticketweb.com/event/oz-noy-and-dave-weckl-iridium-tickets/14147904",
+      "lineup": [
+        "Dave"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1bZ_2xL5QHc",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-10-31T01:00:00Z",
+      "venueName": "State Theatre",
+      "venueCity": "Minneapolis",
+      "venueState": "MN",
+      "citySlug": "minneapolis-mn",
+      "eventUrl": "https://www.ticketmaster.com/an-evening-w-charlie-parr-ft-minneapolis-minnesota-10-30-2026/event/060064F89F2DAF2D",
+      "lineup": [
+        "Charlie Parr",
+        "Dave King"
+      ]
+    },
+    {
+      "id": "ticketmaster:17AYv0G65Q3dTVj",
+      "source": "ticketmaster",
+      "artist": "6LACK",
+      "date": "2026-10-31T02:00:00Z",
+      "venueName": "Brooklyn Bowl Las Vegas",
+      "venueCity": "Las Vegas",
+      "venueState": "NV",
+      "citySlug": "las-vegas-nv",
+      "eventUrl": "https://www.ticketmaster.com/10-years-of-6lack-tour-las-vegas-nevada-10-30-2026/event/170064B6920FFD1C",
+      "lineup": [
+        "6LACK",
+        "Eem Triplin"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1IZ_5_L1ogS",
+      "source": "ticketmaster",
+      "artist": "Denzel Curry",
+      "date": "2026-10-31T02:00:00Z",
+      "venueName": "Petco Park",
+      "venueCity": "San Diego",
+      "venueState": "CA",
+      "citySlug": "san-diego-ca",
+      "eventUrl": "https://www.ticketmaster.com/knocked-loose-denzel-curry-san-diego-california-10-30-2026/event/0A0064B65F291D73",
+      "lineup": [
+        "Knocked Loose",
+        "Denzel Curry",
+        "Superheaven",
+        "Boundaries"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5ezZ_a9K135f",
+      "source": "ticketmaster",
+      "artist": "Mary J. Blige",
+      "date": "2026-10-31T03:00:00Z",
+      "venueName": "Dolby Live",
+      "venueCity": "Las Vegas",
+      "venueState": "NV",
+      "citySlug": "las-vegas-nv",
+      "eventUrl": "https://www.ticketmaster.com/mary-j-blige-my-life-my-las-vegas-nevada-10-30-2026/event/2E006495D32922D4",
+      "lineup": [
+        "Mary J. Blige"
+      ]
+    },
+    {
+      "id": "ticketmaster:vv17fZ_8GkmsnFvt",
+      "source": "ticketmaster",
+      "artist": "Chris Brown",
+      "date": "2026-10-31T23:30:00Z",
+      "venueName": "Lucas Oil Stadium",
+      "venueCity": "Indianapolis",
+      "venueState": "IN",
+      "citySlug": "indianapolis-in",
+      "eventUrl": "https://www.ticketmaster.com/the-rb-tour-starring-usher-raymond-indianapolis-indiana-10-31-2026/event/0500650BB1A88069",
+      "lineup": [
+        "Usher Raymond & Chris Brown",
+        "USHER",
+        "Chris Brown"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1A7Pxv4",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-11-01T00:00:00Z",
+      "venueName": "Franklin Music Hall",
+      "venueCity": "Philadelphia",
+      "venueState": "PA",
+      "citySlug": "philadelphia-pa",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pxv4",
+      "lineup": [
+        "Boy Harsher",
+        "Model/Actriz",
+        "Dave P",
+        "Marie Davidson",
+        "Conducta",
+        "Kassie Krut"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1AfA60f",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-11-01T00:30:00Z",
+      "venueName": "Iridium",
+      "venueCity": "New York",
+      "venueState": "NY",
+      "citySlug": "new-york-ny",
+      "eventUrl": "https://www.ticketweb.com/event/oz-noy-and-dave-weckl-iridium-tickets/14147914",
+      "lineup": [
+        "Dave"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG18Z_udha5EP",
+      "source": "ticketmaster",
+      "artist": "Rod Wave",
+      "date": "2026-11-01T01:00:00Z",
+      "venueName": "United Center",
+      "venueCity": "Chicago",
+      "venueState": "IL",
+      "citySlug": "chicago-il",
+      "eventUrl": "https://www.ticketmaster.com/rod-wave-dont-look-down-tour-chicago-illinois-10-31-2026/event/040064D0DB24B9E5",
+      "lineup": [
+        "Rod Wave",
+        "FRIDAYY"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5dIZ_oSqZJfE",
+      "source": "ticketmaster",
+      "artist": "Kanye West",
+      "date": "2026-11-01T01:00:00Z",
+      "venueName": "Reliant Stadium",
+      "venueCity": "Houston",
+      "venueState": "TX",
+      "citySlug": "houston-tx",
+      "eventUrl": "https://www.ticketmaster.com/ye-live-in-houston-houston-texas-10-31-2026/event/3A00651CDD026527",
+      "lineup": [
+        "Ye"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5dIZ_33ccQFw",
+      "source": "ticketmaster",
+      "artist": "Victoria Monet",
+      "date": "2026-11-01T01:00:00Z",
+      "venueName": "713 Music Hall",
+      "venueCity": "Houston",
+      "venueState": "TX",
+      "citySlug": "houston-tx",
+      "eventUrl": "https://www.ticketmaster.com/victoria-monet-frequency-of-love-tour-houston-texas-10-31-2026/event/3A006524ADB5A232",
+      "lineup": [
+        "Victoria Monet"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1A7jS4U",
+      "source": "ticketmaster",
+      "artist": "Doja Cat",
+      "date": "2026-11-01T02:30:00Z",
+      "venueName": "T-Mobile Arena",
+      "venueCity": "Las Vegas",
+      "venueState": "NV",
+      "citySlug": "las-vegas-nv",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7jS4U",
+      "lineup": [
+        "Doja Cat"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5ezZ_a9K5x5I",
+      "source": "ticketmaster",
+      "artist": "Mary J. Blige",
+      "date": "2026-11-01T03:00:00Z",
+      "venueName": "Dolby Live",
+      "venueCity": "Las Vegas",
+      "venueState": "NV",
+      "citySlug": "las-vegas-nv",
+      "eventUrl": "https://www.ticketmaster.com/mary-j-blige-my-life-my-las-vegas-nevada-10-31-2026/event/2E006495D32E22E8",
+      "lineup": [
+        "Mary J. Blige"
+      ]
+    },
+    {
+      "id": "ticketmaster:vv1AaZkffGkdkTheX",
+      "source": "ticketmaster",
+      "artist": "Future",
+      "date": "2026-11-01T05:00:00Z",
+      "venueName": "Teragram Ballroom",
+      "venueCity": "Los Angeles",
+      "venueState": "CA",
+      "citySlug": "los-angeles-ca",
+      "eventUrl": "https://www.ticketmaster.com/yoi-toki-a-future-funk-halloween-los-angeles-california-10-31-2026/event/09006514C6FDB0BE",
+      "lineup": [
+        "Yoi Toki",
+        "Saint Pepsi",
+        "Vantage"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1A7PE8w",
+      "source": "ticketmaster",
+      "artist": "Vince Staples",
+      "date": "2026-11-02T01:00:00Z",
+      "venueName": "Roadrunner-Boston",
+      "venueCity": "Boston",
+      "venueState": "MA",
+      "citySlug": "boston-ma",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7PE8w",
+      "lineup": [
+        "Vince Staples"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG18Z_uQCj0ym",
+      "source": "ticketmaster",
+      "artist": "Rod Wave",
+      "date": "2026-11-02T02:00:00Z",
+      "venueName": "United Center",
+      "venueCity": "Chicago",
+      "venueState": "IL",
+      "citySlug": "chicago-il",
+      "eventUrl": "https://www.ticketmaster.com/rod-wave-dont-look-down-tour-chicago-illinois-11-01-2026/event/040064D68E724E6E",
+      "lineup": [
+        "Rod Wave",
+        "FRIDAYY"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1HZ_5lLgXaJ",
+      "source": "ticketmaster",
+      "artist": "Bryson Tiller",
+      "date": "2026-11-02T03:30:00Z",
+      "venueName": "Climate Pledge Arena",
+      "venueCity": "Seattle",
+      "venueState": "WA",
+      "citySlug": "seattle-wa",
+      "eventUrl": "https://www.ticketmaster.com/bryson-tiller-presents-the-neo-trapsoul-seattle-washington-11-01-2026/event/0F0064BADFD7E266",
+      "lineup": [
+        "Bryson Tiller",
+        "Majid Jordan",
+        "Ty Dolla $ign",
+        "Austin Millz"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1A4Z_vK",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-11-02T03:30:00Z",
+      "venueName": "Blue Note Jazz Club",
+      "venueCity": "New York",
+      "venueState": "NY",
+      "citySlug": "new-york-ny",
+      "eventUrl": "https://www.ticketweb.com/event/robert-glasper-x-finale-with-blue-note-jazz-club-tickets/15019053",
+      "lineup": [
+        "Robert Glasper"
+      ]
+    },
+    {
+      "id": "ticketmaster:1AvbZ_kGkiQzdJn",
+      "source": "ticketmaster",
+      "artist": "GloRilla",
+      "date": "2026-11-03T01:00:00Z",
+      "venueName": "Citizens Live at The Wylie",
+      "venueCity": "Pittsburgh",
+      "venueState": "PA",
+      "citySlug": "pittsburgh-pa",
+      "eventUrl": "https://www.ticketmaster.com/glorilla-pittsburgh-pennsylvania-11-02-2026/event/1600646B1AE039AA",
+      "lineup": [
+        "GloRilla"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5vzZ_53uNJyF",
+      "source": "ticketmaster",
+      "artist": "Denzel Curry",
+      "date": "2026-11-03T01:30:00Z",
+      "venueName": "The Union",
+      "venueCity": "Salt Lake City",
+      "venueState": "UT",
+      "citySlug": "salt-lake-city-ut",
+      "eventUrl": "https://www.ticketmaster.com/knocked-loose-denzel-curry-salt-lake-city-utah-11-02-2026/event/1E0064B48D8E6E48",
+      "lineup": [
+        "Knocked Loose",
+        "Denzel Curry",
+        "Superheaven",
+        "Boundaries"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1YZ_3N9Clqe",
+      "source": "ticketmaster",
+      "artist": "Victoria Monet",
+      "date": "2026-11-03T02:00:00Z",
+      "venueName": "South Side Ballroom",
+      "venueCity": "Dallas",
+      "venueState": "TX",
+      "citySlug": "dallas-tx",
+      "eventUrl": "https://www.ticketmaster.com/victoria-monet-frequency-of-love-tour-dallas-texas-11-02-2026/event/0C006528D73AB742",
+      "lineup": [
+        "Victoria Monet"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5vzZ_5nhWFMO",
+      "source": "ticketmaster",
+      "artist": "Denzel Curry",
+      "date": "2026-11-04T00:30:00Z",
+      "venueName": "Fillmore Auditorium (Denver)",
+      "venueCity": "Denver",
+      "venueState": "CO",
+      "citySlug": "denver-co",
+      "eventUrl": "https://www.ticketmaster.com/knocked-loose-denzel-curry-denver-colorado-11-03-2026/event/1E0064BA9BF48DE0",
+      "lineup": [
+        "Knocked Loose",
+        "Denzel Curry",
+        "Superheaven",
+        "Boundaries"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5eVZ_uk3_hwQ",
+      "source": "ticketmaster",
+      "artist": "Rod Wave",
+      "date": "2026-11-04T01:00:00Z",
+      "venueName": "Spectrum Center",
+      "venueCity": "Charlotte",
+      "venueState": "NC",
+      "citySlug": "charlotte-nc",
+      "eventUrl": "https://www.ticketmaster.com/rod-wave-dont-look-down-tour-charlotte-north-carolina-11-03-2026/event/2D0064D19265BC9A",
+      "lineup": [
+        "Rod Wave",
+        "FRIDAYY"
+      ]
+    },
+    {
+      "id": "ticketmaster:k7vGFbi58JxHg",
+      "source": "ticketmaster",
+      "artist": "Drake",
+      "date": "2026-11-04T23:00:00Z",
+      "venueName": "Mercury Lounge",
+      "venueCity": "New York",
+      "venueState": "NY",
+      "citySlug": "new-york-ny",
+      "eventUrl": "https://www.ticketmaster.com/eleni-drake-new-york-new-york-11-04-2026/event/000062C2D09A2F35",
+      "lineup": [
+        "Eleni Drake"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1zZ_3n4PEV9",
+      "source": "ticketmaster",
+      "artist": "Victoria Monet",
+      "date": "2026-11-05T01:00:00Z",
+      "venueName": "Fox Theatre Atlanta",
+      "venueCity": "Atlanta",
+      "venueState": "GA",
+      "citySlug": "atlanta-ga",
+      "eventUrl": "https://www.ticketmaster.com/victoria-monet-frequency-of-love-tour-atlanta-georgia-11-04-2026/event/0E00652A95967D17",
+      "lineup": [
+        "Victoria Monet"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1YZbStqyOHD",
+      "source": "ticketmaster",
+      "artist": "Doja Cat",
+      "date": "2026-11-05T01:30:00Z",
+      "venueName": "American Airlines Center",
+      "venueCity": "Dallas",
+      "venueState": "TX",
+      "citySlug": "dallas-tx",
+      "eventUrl": "https://www.ticketmaster.com/doja-cat-tour-ma-vie-world-dallas-texas-11-04-2026/event/0C00633A5DE60F3B",
+      "lineup": [
+        "Doja Cat",
+        "Latto"
+      ]
+    },
+    {
+      "id": "ticketmaster:vv1A6ZkfoGkeIgwR2",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-11-05T01:30:00Z",
+      "venueName": "Kohl Center",
+      "venueCity": "Madison",
+      "venueState": "WI",
+      "citySlug": "madison-wi",
+      "eventUrl": "https://uwbadgers.evenue.net/events/DMB",
+      "lineup": [
+        "Dave Matthews Band"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5viZ_kmjzGZH",
+      "source": "ticketmaster",
+      "artist": "GloRilla",
+      "date": "2026-11-05T02:00:00Z",
+      "venueName": "The Truth",
+      "venueCity": "Nashville",
+      "venueState": "TN",
+      "citySlug": "nashville-tn",
+      "eventUrl": "https://www.ticketmaster.com/glorilla-nashville-tennessee-11-04-2026/event/1B00646B9CE0C03C",
+      "lineup": [
+        "GloRilla"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1HZ_3JuYAJ0",
+      "source": "ticketmaster",
+      "artist": "Isaiah Rashad",
+      "date": "2026-11-05T04:00:00Z",
+      "venueName": "McMenamins Crystal Ballroom",
+      "venueCity": "Portland",
+      "venueState": "OR",
+      "citySlug": "portland-or",
+      "eventUrl": "http://etix.com/ticket/p/91748539/isaiah-rashadlil-sunnys-awful-road-trip-portland-mcmenamins-crystal-ballroom",
+      "lineup": [
+        "Isaiah Rashad"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1zZ_atQMSvQ",
+      "source": "ticketmaster",
+      "artist": "Chris Brown",
+      "date": "2026-11-06T00:00:00Z",
+      "venueName": "Mercedes-Benz Stadium",
+      "venueCity": "Atlanta",
+      "venueState": "GA",
+      "citySlug": "atlanta-ga",
+      "eventUrl": "https://www.ticketmaster.com/the-rb-tour-starring-usher-raymond-atlanta-georgia-11-05-2026/event/0E00649A5ADF305A",
+      "lineup": [
+        "Usher Raymond & Chris Brown",
+        "USHER",
+        "Chris Brown"
+      ]
+    },
+    {
+      "id": "ticketmaster:vv17jZ_aGkM8RbtH",
+      "source": "ticketmaster",
+      "artist": "Future",
+      "date": "2026-11-06T02:00:00Z",
+      "venueName": "Orpheum Theater",
+      "venueCity": "Madison",
+      "venueState": "WI",
+      "citySlug": "madison-wi",
+      "eventUrl": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-madison-wisconsin-11-05-2026/event/0700649DD0BD8A7C",
+      "lineup": [
+        "Scott Bradlee's Postmodern Jukebox"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1A7P3qU",
+      "source": "ticketmaster",
+      "artist": "Tank",
+      "date": "2026-11-06T02:00:00Z",
+      "venueName": "The Truman - Kansas City",
+      "venueCity": "Kansas City",
+      "venueState": "MO",
+      "citySlug": "kansas-city-mo",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7P3qU",
+      "lineup": [
+        "Tank and the Bangas",
+        "Zeus"
+      ]
+    },
+    {
+      "id": "ticketmaster:17k8v0G658Q5mu4",
+      "source": "ticketmaster",
+      "artist": "6LACK",
+      "date": "2026-11-06T03:00:00Z",
+      "venueName": "The Van Buren",
+      "venueCity": "Phoenix",
+      "venueState": "AZ",
+      "citySlug": "phoenix-az",
+      "eventUrl": "https://www.ticketmaster.com/10-years-of-6lack-tour-phoenix-arizona-11-05-2026/event/190064B41A2EE355",
+      "lineup": [
+        "6LACK",
+        "Eem Triplin"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1zZ_6x_XUXa",
+      "source": "ticketmaster",
+      "artist": "Chris Brown",
+      "date": "2026-11-07T00:00:00Z",
+      "venueName": "Mercedes-Benz Stadium",
+      "venueCity": "Atlanta",
+      "venueState": "GA",
+      "citySlug": "atlanta-ga",
+      "eventUrl": "https://www.ticketmaster.com/the-rb-tour-starring-usher-raymond-atlanta-georgia-11-06-2026/event/0E00647899FB6F89",
+      "lineup": [
+        "Usher Raymond & Chris Brown",
+        "USHER",
+        "Chris Brown"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1FZ_1Se_WKH",
+      "source": "ticketmaster",
+      "artist": "H.E.R.",
+      "date": "2026-11-07T01:00:00Z",
+      "venueName": "The Queen",
+      "venueCity": "Wilmington",
+      "venueState": "DE",
+      "citySlug": "wilmington-de",
+      "eventUrl": "https://www.ticketmaster.com/in-her-own-words-x-every-wilmington-delaware-11-06-2026/event/020064ACC267D4FC",
+      "lineup": [
+        "In Her Own Words",
+        "Every Avenue",
+        "Fluorescents",
+        "Goalkeeper"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5eVZ_udQUqaS",
+      "source": "ticketmaster",
+      "artist": "Rod Wave",
+      "date": "2026-11-07T01:00:00Z",
+      "venueName": "Colonial Life Arena",
+      "venueCity": "Columbia",
+      "venueState": "SC",
+      "citySlug": "columbia-sc",
+      "eventUrl": "https://www.ticketmaster.com/rod-wave-dont-look-down-tour-columbia-south-carolina-11-06-2026/event/2D0064D0DAD9D273",
+      "lineup": [
+        "Rod Wave",
+        "FRIDAYY"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5viZ_2ZnWmQM",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-11-07T01:30:00Z",
+      "venueName": "Bridgestone Arena",
+      "venueCity": "Nashville",
+      "venueState": "TN",
+      "citySlug": "nashville-tn",
+      "eventUrl": "https://www.ticketmaster.com/dave-matthews-band-nashville-tennessee-11-06-2026/event/1B0064F02AF6E6B7",
+      "lineup": [
+        "Dave Matthews Band"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG10Z_16VDlYZ",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-11-07T03:00:00Z",
+      "venueName": "The Peppermint Club",
+      "venueCity": "Los Angeles",
+      "venueState": "CA",
+      "citySlug": "los-angeles-ca",
+      "eventUrl": "https://www.ticketmaster.com/dave-hause-the-mermaid-los-angeles-california-11-06-2026/event/090064A1F4EEBC00",
+      "lineup": [
+        "Dave Hause & The Mermaid"
+      ]
+    },
+    {
+      "id": "ticketmaster:1kAYvPAFGA579z_",
+      "source": "ticketmaster",
+      "artist": "Nas",
+      "date": "2026-11-07T04:00:00Z",
+      "venueName": "Sams Town Live",
+      "venueCity": "Las Vegas",
+      "venueState": "NV",
+      "citySlug": "las-vegas-nv",
+      "eventUrl": "https://www.ticketmaster.com/pinoy-na-krismas-las-vegas-nevada-11-06-2026/event/170065148B117E19",
+      "lineup": [
+        "Jose Mari Chan"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5vzZ_3x3TNHx",
+      "source": "ticketmaster",
+      "artist": "Isaiah Rashad",
+      "date": "2026-11-07T04:00:00Z",
+      "venueName": "Knitting Factory - Spokane",
+      "venueCity": "Spokane",
+      "venueState": "WA",
+      "citySlug": "spokane-wa",
+      "eventUrl": "https://www.ticketmaster.com/isaiah-rashad-lil-sunnys-awful-road-spokane-washington-11-06-2026/event/1E00652892FE3F22",
+      "lineup": [
+        "Isaiah Rashad"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1A7Pwpb",
+      "source": "ticketmaster",
+      "artist": "Vince Staples",
+      "date": "2026-11-08T00:00:00Z",
+      "venueName": "Majestic Theatre-MI",
+      "venueCity": "Detroit",
+      "venueState": "MI",
+      "citySlug": "detroit-mi",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pwpb",
+      "lineup": [
+        "Vince Staples"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG18Z_CDE9wdz",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-11-08T01:30:00Z",
+      "venueName": "United Center",
+      "venueCity": "Chicago",
+      "venueState": "IL",
+      "citySlug": "chicago-il",
+      "eventUrl": "https://www.ticketmaster.com/dave-matthews-band-chicago-illinois-11-07-2026/event/040064EEE75F20F8",
+      "lineup": [
+        "Dave Matthews Band"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1A7jS4g",
+      "source": "ticketmaster",
+      "artist": "Doja Cat",
+      "date": "2026-11-08T02:00:00Z",
+      "venueName": "Toyota Center - TX",
+      "venueCity": "Houston",
+      "venueState": "TX",
+      "citySlug": "houston-tx",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7jS4g",
+      "lineup": [
+        "Doja Cat"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5vzZ_C2jydLm",
+      "source": "ticketmaster",
+      "artist": "Miguel",
+      "date": "2026-11-08T02:00:00Z",
+      "venueName": "Route 66 Casino",
+      "venueCity": "Albuquerque",
+      "venueState": "NM",
+      "citySlug": "albuquerque-nm",
+      "eventUrl": "https://www.ticketmaster.com/amanda-miguel-albuquerque-new-mexico-11-07-2026/event/1E0064E3DCE437EE",
+      "lineup": [
+        "Amanda Miguel"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5vzZ_5QulPp0",
+      "source": "ticketmaster",
+      "artist": "6LACK",
+      "date": "2026-11-08T02:00:00Z",
+      "venueName": "Fillmore Auditorium (Denver)",
+      "venueCity": "Denver",
+      "venueState": "CO",
+      "citySlug": "denver-co",
+      "eventUrl": "https://www.ticketmaster.com/10-years-of-6lack-tour-denver-colorado-11-07-2026/event/1E0064B68DAE55A4",
+      "lineup": [
+        "6LACK",
+        "Eem Triplin"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1Af1Zrf",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-11-08T22:30:00Z",
+      "venueName": "Birdland Jazz Club",
+      "venueCity": "New York",
+      "venueState": "NY",
+      "citySlug": "new-york-ny",
+      "eventUrl": "https://www.ticketweb.com/event/dave-pietro-quintet-birdland-jazz-club-tickets/14280794",
+      "lineup": [
+        "Dave Pietro"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1zZ_6xQmEAU",
+      "source": "ticketmaster",
+      "artist": "Chris Brown",
+      "date": "2026-11-09T00:00:00Z",
+      "venueName": "Mercedes-Benz Stadium",
+      "venueCity": "Atlanta",
+      "venueState": "GA",
+      "citySlug": "atlanta-ga",
+      "eventUrl": "https://www.ticketmaster.com/the-rb-tour-starring-usher-raymond-atlanta-georgia-11-08-2026/event/0E0064789ABA7176",
+      "lineup": [
+        "Usher Raymond & Chris Brown",
+        "USHER",
+        "Chris Brown"
+      ]
+    },
+    {
+      "id": "ticketmaster:vv1kOZ_FrfG7WVqu",
+      "source": "ticketmaster",
+      "artist": "Future",
+      "date": "2026-11-09T01:00:00Z",
+      "venueName": "DeVos Performance Hall",
+      "venueCity": "Grand Rapids",
+      "venueState": "MI",
+      "citySlug": "grand-rapids-mi",
+      "eventUrl": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-grand-rapids-michigan-11-08-2026/event/0800648794F7474D",
+      "lineup": [
+        "Scott Bradlee's Postmodern Jukebox"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1A7Ptjs",
+      "source": "ticketmaster",
+      "artist": "Vince Staples",
+      "date": "2026-11-09T01:30:00Z",
+      "venueName": "Riviera Theatre- IL",
+      "venueCity": "Chicago",
+      "venueState": "IL",
+      "citySlug": "chicago-il",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7Ptjs",
+      "lineup": [
+        "Vince Staples"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1AAZwAN",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-11-09T03:30:00Z",
+      "venueName": "Casbah-San Diego",
+      "venueCity": "San Diego",
+      "venueState": "CA",
+      "citySlug": "san-diego-ca",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1AAZwAN",
+      "lineup": [
+        "Dave Hause & The Mermaid"
+      ]
+    },
+    {
+      "id": "ticketmaster:17A8v0G61pc6FdB",
+      "source": "ticketmaster",
+      "artist": "H.E.R.",
+      "date": "2026-11-10T00:00:00Z",
+      "venueName": "9:30 CLUB",
+      "venueCity": "Washington",
+      "venueState": "DC",
+      "citySlug": "washington-dc",
+      "eventUrl": "https://www.ticketmaster.com/slow-pulp-washington-district-of-columbia-11-09-2026/event/150064A5AD1C80FA",
+      "lineup": [
+        "Slow Pulp",
+        "Her New Knife"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG17Z_2pIw04C",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-11-10T00:30:00Z",
+      "venueName": "Amica Mutual Pavilion",
+      "venueCity": "Providence",
+      "venueState": "RI",
+      "citySlug": "providence-ri",
+      "eventUrl": "https://www.ticketmaster.com/dave-matthews-band-providence-rhode-island-11-09-2026/event/010064F5A8CA454E",
+      "lineup": [
+        "Dave Matthews Band"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1zZ_aKxrL70",
+      "source": "ticketmaster",
+      "artist": "Chris Brown",
+      "date": "2026-11-11T00:00:00Z",
+      "venueName": "Mercedes-Benz Stadium",
+      "venueCity": "Atlanta",
+      "venueState": "GA",
+      "citySlug": "atlanta-ga",
+      "eventUrl": "https://www.ticketmaster.com/the-rb-tour-starring-usher-raymond-atlanta-georgia-11-10-2026/event/0E006494E279F124",
+      "lineup": [
+        "Usher Raymond & Chris Brown",
+        "USHER",
+        "Chris Brown"
+      ]
+    },
+    {
+      "id": "ticketmaster:1kA8vPevGAuW1qW",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-11-11T00:30:00Z",
+      "venueName": "CFG Bank Arena",
+      "venueCity": "Baltimore",
+      "venueState": "MD",
+      "citySlug": "baltimore-md",
+      "eventUrl": "https://www.ticketmaster.com/dave-matthews-band-baltimore-maryland-11-10-2026/event/150065081DF4A77D",
+      "lineup": [
+        "Dave Matthews Band"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1YZ_5Q99zUi",
+      "source": "ticketmaster",
+      "artist": "6LACK",
+      "date": "2026-11-11T02:00:00Z",
+      "venueName": "South Side Ballroom",
+      "venueCity": "Dallas",
+      "venueState": "TX",
+      "citySlug": "dallas-tx",
+      "eventUrl": "https://www.ticketmaster.com/10-years-of-6lack-tour-dallas-texas-11-10-2026/event/0C0064B6975F8DAC",
+      "lineup": [
+        "6LACK",
+        "Eem Triplin"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1Afr4Pd",
+      "source": "ticketmaster",
+      "artist": "Tank",
+      "date": "2026-11-11T04:00:00Z",
+      "venueName": "The Crocodile",
+      "venueCity": "Seattle",
+      "venueState": "WA",
+      "citySlug": "seattle-wa",
+      "eventUrl": "https://www.ticketweb.com/event/tank-and-the-bangas-the-crocodile-tickets/14795943",
+      "lineup": [
+        "Tank and the Bangas"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1HZ_3K6crIg",
+      "source": "ticketmaster",
+      "artist": "Isaiah Rashad",
+      "date": "2026-11-11T04:00:00Z",
+      "venueName": "Paramount Theatre",
+      "venueCity": "Seattle",
+      "venueState": "WA",
+      "citySlug": "seattle-wa",
+      "eventUrl": "https://www.ticketmaster.com/isaiah-rashad-lil-sunnys-awful-road-seattle-washington-11-10-2026/event/0F006524C7B5EA35",
+      "lineup": [
+        "Isaiah Rashad"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1zZ_aKxOT7w",
+      "source": "ticketmaster",
+      "artist": "Chris Brown",
+      "date": "2026-11-12T00:00:00Z",
+      "venueName": "Mercedes-Benz Stadium",
+      "venueCity": "Atlanta",
+      "venueState": "GA",
+      "citySlug": "atlanta-ga",
+      "eventUrl": "https://www.ticketmaster.com/the-rb-tour-starring-usher-raymond-atlanta-georgia-11-11-2026/event/0E006494E283F132",
+      "lineup": [
+        "Usher Raymond & Chris Brown",
+        "USHER",
+        "Chris Brown"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1VZbS0fdfw5",
+      "source": "ticketmaster",
+      "artist": "Doja Cat",
+      "date": "2026-11-12T00:30:00Z",
+      "venueName": "Kaseya Center",
+      "venueCity": "Miami",
+      "venueState": "FL",
+      "citySlug": "miami-fl",
+      "eventUrl": "https://www.ticketmaster.com/doja-cat-tour-ma-vie-world-miami-florida-11-11-2026/event/0D006339140D4C8B",
+      "lineup": [
+        "Doja Cat",
+        "Latto"
+      ]
+    },
+    {
+      "id": "ticketmaster:vv17bZ_aGkSJ0ULP",
+      "source": "ticketmaster",
+      "artist": "Future",
+      "date": "2026-11-12T02:00:00Z",
+      "venueName": "State Theatre",
+      "venueCity": "Minneapolis",
+      "venueState": "MN",
+      "citySlug": "minneapolis-mn",
+      "eventUrl": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-minneapolis-minnesota-11-11-2026/event/0600649CE69367E5",
+      "lineup": [
+        "Scott Bradlee's Postmodern Jukebox"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5dIZ_5QUUuoY",
+      "source": "ticketmaster",
+      "artist": "6LACK",
+      "date": "2026-11-12T02:00:00Z",
+      "venueName": "Bayou Music Center",
+      "venueCity": "Houston",
+      "venueState": "TX",
+      "citySlug": "houston-tx",
+      "eventUrl": "https://www.ticketmaster.com/10-years-of-6lack-tour-houston-texas-11-11-2026/event/3A0064B6B6D8D470",
+      "lineup": [
+        "6LACK",
+        "Eem Triplin"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5vzZ_GRvDuty",
+      "source": "ticketmaster",
+      "artist": "Vince Staples",
+      "date": "2026-11-12T02:00:00Z",
+      "venueName": "Fillmore Auditorium (Denver)",
+      "venueCity": "Denver",
+      "venueState": "CO",
+      "citySlug": "denver-co",
+      "eventUrl": "https://www.ticketmaster.com/vince-staples-cry-baby-tour-denver-colorado-11-11-2026/event/1E0064CBC1ECDA79",
+      "lineup": [
+        "Vince Staples"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1AAZ6PO",
+      "source": "ticketmaster",
+      "artist": "Tank",
+      "date": "2026-11-12T04:00:00Z",
+      "venueName": "Revolution Hall - Portland",
+      "venueCity": "Portland",
+      "venueState": "OR",
+      "citySlug": "portland-or",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ6PO",
+      "lineup": [
+        "Tank and the Bangas"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5diZ_2NJWaf8",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-11-13T00:30:00Z",
+      "venueName": "Madison Square Garden",
+      "venueCity": "New York",
+      "venueState": "NY",
+      "citySlug": "new-york-ny",
+      "eventUrl": "https://www.ticketmaster.com/dave-matthews-band-new-york-new-york-11-12-2026/event/3B0064F8E6F49510",
+      "lineup": [
+        "Dave Matthews Band"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1A70OQA",
+      "source": "ticketmaster",
+      "artist": "H.E.R.",
+      "date": "2026-11-13T01:00:00Z",
+      "venueName": "Union Transfer",
+      "venueCity": "Philadelphia",
+      "venueState": "PA",
+      "citySlug": "philadelphia-pa",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A70OQA",
+      "lineup": [
+        "Slow Pulp",
+        "Her New Knife"
+      ]
+    },
+    {
+      "id": "ticketmaster:vv1AeZkfxGkegbVoJ",
+      "source": "ticketmaster",
+      "artist": "Victoria Monet",
+      "date": "2026-11-13T01:00:00Z",
+      "venueName": "The Met Presented by Highmark",
+      "venueCity": "Philadelphia",
+      "venueState": "PA",
+      "citySlug": "philadelphia-pa",
+      "eventUrl": "https://www.ticketmaster.com/victoria-monet-frequency-of-love-tour-philadelphia-pennsylvania-11-12-2026/event/02006522B5634466",
+      "lineup": [
+        "Victoria Monet"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1A7PKr9",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-11-13T03:00:00Z",
+      "venueName": "The Rebel Lounge",
+      "venueCity": "Phoenix",
+      "venueState": "AZ",
+      "citySlug": "phoenix-az",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7PKr9",
+      "lineup": [
+        "Dave Hause & The Mermaid"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG17Z_1rB3avF",
+      "source": "ticketmaster",
+      "artist": "Common",
+      "date": "2026-11-14T00:00:00Z",
+      "venueName": "Paradise Rock Club presented by Citizens",
+      "venueCity": "Boston",
+      "venueState": "MA",
+      "citySlug": "boston-ma",
+      "eventUrl": "https://www.ticketmaster.com/the-bends-boston-massachusetts-11-13-2026/event/010064A7BA489048",
+      "lineup": [
+        "The Bends",
+        "Common People"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5diZ_2NJDtfA",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-11-14T00:30:00Z",
+      "venueName": "Madison Square Garden",
+      "venueCity": "New York",
+      "venueState": "NY",
+      "citySlug": "new-york-ny",
+      "eventUrl": "https://www.ticketmaster.com/dave-matthews-band-new-york-new-york-11-13-2026/event/3B0064F8E6EE9505",
+      "lineup": [
+        "Dave Matthews Band"
+      ]
+    },
+    {
+      "id": "ticketmaster:vv1AvZkfPGkdyBXE-",
+      "source": "ticketmaster",
+      "artist": "Victoria Monet",
+      "date": "2026-11-14T01:00:00Z",
+      "venueName": "MGM Music Hall at Fenway",
+      "venueCity": "Boston",
+      "venueState": "MA",
+      "citySlug": "boston-ma",
+      "eventUrl": "https://www.ticketmaster.com/victoria-monet-frequency-of-love-tour-boston-massachusetts-11-13-2026/event/01006525F9EBE9E1",
+      "lineup": [
+        "Victoria Monet"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5viZ_5b425r9",
+      "source": "ticketmaster",
+      "artist": "6LACK",
+      "date": "2026-11-14T01:00:00Z",
+      "venueName": "The Fillmore New Orleans",
+      "venueCity": "New Orleans",
+      "venueState": "LA",
+      "citySlug": "new-orleans-la",
+      "eventUrl": "https://www.ticketmaster.com/10-years-of-6lack-tour-new-orleans-louisiana-11-13-2026/event/1B0064B6153CB797",
+      "lineup": [
+        "6LACK",
+        "Eem Triplin"
+      ]
+    },
+    {
+      "id": "ticketmaster:17F8v0G61Kum4NQ",
+      "source": "ticketmaster",
+      "artist": "Future",
+      "date": "2026-11-14T02:00:00Z",
+      "venueName": "The Factory",
+      "venueCity": "St. Louis",
+      "venueState": "MO",
+      "citySlug": "st-louis-mo",
+      "eventUrl": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-saint-louis-missouri-11-13-2026/event/210064A4CDB958DA",
+      "lineup": [
+        "Scott Bradlee's Postmodern Jukebox"
+      ]
+    },
+    {
+      "id": "ticketmaster:17k8v0G6GR0KbDO",
+      "source": "ticketmaster",
+      "artist": "Vince Staples",
+      "date": "2026-11-14T03:00:00Z",
+      "venueName": "The Van Buren",
+      "venueCity": "Phoenix",
+      "venueState": "AZ",
+      "citySlug": "phoenix-az",
+      "eventUrl": "https://www.ticketmaster.com/vince-staples-cry-baby-tour-phoenix-arizona-11-13-2026/event/190064CBE44D8EE0",
+      "lineup": [
+        "Vince Staples"
+      ]
+    },
+    {
+      "id": "ticketmaster:k7vGF_FlEd3Kq",
+      "source": "ticketmaster",
+      "artist": "Common",
+      "date": "2026-11-15T00:00:00Z",
+      "venueName": "Irving Plaza Powered By Verizon 5G",
+      "venueCity": "New York",
+      "venueState": "NY",
+      "citySlug": "new-york-ny",
+      "eventUrl": "https://www.ticketmaster.com/the-bends-new-york-new-york-11-14-2026/event/0000648AE70D24DD",
+      "lineup": [
+        "The Bends",
+        "Common People"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5vzZ_13TbrQr",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-11-15T03:00:00Z",
+      "venueName": "Skylark Lounge",
+      "venueCity": "Denver",
+      "venueState": "CO",
+      "citySlug": "denver-co",
+      "eventUrl": "https://link.dice.fm/Ib920e17c551",
+      "lineup": [
+        "Dave Hause & The Mermaid"
+      ]
+    },
+    {
+      "id": "ticketmaster:vv1kvZvP1oGA2gcW8",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-11-15T03:00:00Z",
+      "venueName": "Outset",
+      "venueCity": "Chicago",
+      "venueState": "IL",
+      "citySlug": "chicago-il",
+      "eventUrl": "https://www.ticketmaster.com/only-fire-chicago-illinois-11-14-2026/event/040065291FD6DF50",
+      "lineup": [
+        "Only Fire",
+        "DJ_Dave",
+        "Alice Longyu Gao"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG10Z_2UwIzir",
+      "source": "ticketmaster",
+      "artist": "Jorja Smith",
+      "date": "2026-11-15T04:00:00Z",
+      "venueName": "Orpheum Theatre",
+      "venueCity": "Los Angeles",
+      "venueState": "CA",
+      "citySlug": "los-angeles-ca",
+      "eventUrl": "https://www.ticketmaster.com/jorja-smith-los-angeles-california-11-14-2026/event/090064FDB2A38B1E",
+      "lineup": [
+        "Jorja Smith"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1Af0fPK",
+      "source": "ticketmaster",
+      "artist": "Tank",
+      "date": "2026-11-15T05:30:00Z",
+      "venueName": "Blue Note Los Angeles",
+      "venueCity": "Los Angeles",
+      "venueState": "CA",
+      "citySlug": "los-angeles-ca",
+      "eventUrl": "https://www.ticketweb.com/event/tank-and-the-bangas-blue-note-los-angeles-tickets/14914953",
+      "lineup": [
+        "Tank and the Bangas"
+      ]
+    },
+    {
+      "id": "ticketmaster:vv1AFZkfEGkdCYViJ",
+      "source": "ticketmaster",
+      "artist": "Victoria Monet",
+      "date": "2026-11-16T00:30:00Z",
+      "venueName": "Fox Theatre Detroit",
+      "venueCity": "Detroit",
+      "venueState": "MI",
+      "citySlug": "detroit-mi",
+      "eventUrl": "https://www.ticketmaster.com/victoria-monet-frequency-of-love-tour-detroit-michigan-11-15-2026/event/08006527CEC34B26",
+      "lineup": [
+        "Victoria Monet"
+      ]
+    },
+    {
+      "id": "ticketmaster:vv17FZ_FGklWGy4k",
+      "source": "ticketmaster",
+      "artist": "Common",
+      "date": "2026-11-16T01:00:00Z",
+      "venueName": "The Foundry",
+      "venueCity": "Philadelphia",
+      "venueState": "PA",
+      "citySlug": "philadelphia-pa",
+      "eventUrl": "https://www.ticketmaster.com/the-bends-philadelphia-pennsylvania-11-15-2026/event/0200648AFD339546",
+      "lineup": [
+        "The Bends",
+        "Common People"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1zZ_5Q52Jza",
+      "source": "ticketmaster",
+      "artist": "6LACK",
+      "date": "2026-11-16T01:00:00Z",
+      "venueName": "Coca-Cola Roxy",
+      "venueCity": "Atlanta",
+      "venueState": "GA",
+      "citySlug": "atlanta-ga",
+      "eventUrl": "https://www.ticketmaster.com/10-years-of-6lack-tour-atlanta-georgia-11-15-2026/event/0E0064B68B3E6E09",
+      "lineup": [
+        "6LACK",
+        "Eem Triplin"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1Af0fPN",
+      "source": "ticketmaster",
+      "artist": "Tank",
+      "date": "2026-11-16T05:30:00Z",
+      "venueName": "Blue Note Los Angeles",
+      "venueCity": "Los Angeles",
+      "venueState": "CA",
+      "citySlug": "los-angeles-ca",
+      "eventUrl": "https://www.ticketweb.com/event/tank-and-the-bangas-blue-note-los-angeles-tickets/14914963",
+      "lineup": [
+        "Tank and the Bangas"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1AAvAZk",
+      "source": "ticketmaster",
+      "artist": "Drake",
+      "date": "2026-11-17T01:30:00Z",
+      "venueName": "Ryman Auditorium",
+      "venueCity": "Nashville",
+      "venueState": "TN",
+      "citySlug": "nashville-tn",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1AAvAZk",
+      "lineup": [
+        "Drake White"
+      ]
+    },
+    {
+      "id": "ticketmaster:vv1kjZ_3f4G7VnWV",
+      "source": "ticketmaster",
+      "artist": "Victoria Monet",
+      "date": "2026-11-17T01:30:00Z",
+      "venueName": "Landmark Credit Union Live",
+      "venueCity": "Milwaukee",
+      "venueState": "WI",
+      "citySlug": "milwaukee-wi",
+      "eventUrl": "https://www.ticketmaster.com/victoria-monet-frequency-of-love-tour-milwaukee-wisconsin-11-16-2026/event/0700652515D2AF74",
+      "lineup": [
+        "Victoria Monet"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1Af1v0f",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-11-17T03:30:00Z",
+      "venueName": "Jack London Revue",
+      "venueCity": "Portland",
+      "venueState": "OR",
+      "citySlug": "portland-or",
+      "eventUrl": "https://www.ticketweb.com/event/oz-noy-trio-w-brian-jack-london-revue-tickets/14281914",
+      "lineup": [
+        "Oz Noy Trio"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1OZ_1K64jki",
+      "source": "ticketmaster",
+      "artist": "H.E.R.",
+      "date": "2026-11-18T00:00:00Z",
+      "venueName": "Saint Andrew's Hall",
+      "venueCity": "Detroit",
+      "venueState": "MI",
+      "citySlug": "detroit-mi",
+      "eventUrl": "https://www.ticketmaster.com/slow-pulp-detroit-michigan-11-17-2026/event/080064A4C755C1AC",
+      "lineup": [
+        "Slow Pulp",
+        "Her New Knife"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1A7PUQo",
+      "source": "ticketmaster",
+      "artist": "Common",
+      "date": "2026-11-18T00:00:00Z",
+      "venueName": "Union Stage",
+      "venueCity": "Washington",
+      "venueState": "DC",
+      "citySlug": "washington-dc",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7PUQo",
+      "lineup": [
+        "The Bends",
+        "Common People"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1zZbSle3UGD",
+      "source": "ticketmaster",
+      "artist": "Doja Cat",
+      "date": "2026-11-18T00:30:00Z",
+      "venueName": "State Farm Arena",
+      "venueCity": "Atlanta",
+      "venueState": "GA",
+      "citySlug": "atlanta-ga",
+      "eventUrl": "https://www.ticketmaster.com/doja-cat-tour-ma-vie-world-atlanta-georgia-11-17-2026/event/0E00633AC24B633B",
+      "lineup": [
+        "Doja Cat",
+        "Latto"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1zZ_aB9UGaT",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-11-18T01:00:00Z",
+      "venueName": "Vinyl",
+      "venueCity": "Atlanta",
+      "venueState": "GA",
+      "citySlug": "atlanta-ga",
+      "eventUrl": "https://www.ticketmaster.com/dave-hause-the-mermaid-atlanta-georgia-11-17-2026/event/0E00649E97D8C27F",
+      "lineup": [
+        "Dave Hause & The Mermaid"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5dIZ_3kyDu1b",
+      "source": "ticketmaster",
+      "artist": "Toosii",
+      "date": "2026-11-18T01:00:00Z",
+      "venueName": "House of Blues Houston",
+      "venueCity": "Houston",
+      "venueState": "TX",
+      "citySlug": "houston-tx",
+      "eventUrl": "https://www.ticketmaster.com/toosii-platinum-nights-houston-texas-11-17-2026/event/3A006521B9ECD298",
+      "lineup": [
+        "Toosii"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1AfOZ_S",
+      "source": "ticketmaster",
+      "artist": "Tank",
+      "date": "2026-11-18T02:30:00Z",
+      "venueName": "Crescent Ballroom",
+      "venueCity": "Phoenix",
+      "venueState": "AZ",
+      "citySlug": "phoenix-az",
+      "eventUrl": "https://www.ticketweb.com/event/tank-and-the-bangas-crescent-ballroom-tickets/14800673",
+      "lineup": [
+        "Tank and the Bangas"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1Afx77d",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-11-18T03:30:00Z",
+      "venueName": "Jack London Revue",
+      "venueCity": "Portland",
+      "venueState": "OR",
+      "citySlug": "portland-or",
+      "eventUrl": "https://www.ticketweb.com/event/oz-noy-trio-w-brian-jack-london-revue-tickets/14884103",
+      "lineup": [
+        "Oz Noy Trio"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1IZ_3JCrgRz",
+      "source": "ticketmaster",
+      "artist": "Isaiah Rashad",
+      "date": "2026-11-18T04:00:00Z",
+      "venueName": "SOMA",
+      "venueCity": "San Diego",
+      "venueState": "CA",
+      "citySlug": "san-diego-ca",
+      "eventUrl": "https://www.ticketweb.com/event/isaiah-rashad-lil-sunnys-awful-soma-mainstage-tickets/14307454?pl=soma",
+      "lineup": [
+        "Isaiah Rashad"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5eVZbSEmDaLV",
+      "source": "ticketmaster",
+      "artist": "Doja Cat",
+      "date": "2026-11-19T00:30:00Z",
+      "venueName": "Spectrum Center",
+      "venueCity": "Charlotte",
+      "venueState": "NC",
+      "citySlug": "charlotte-nc",
+      "eventUrl": "https://www.ticketmaster.com/doja-cat-tour-ma-vie-world-charlotte-north-carolina-11-18-2026/event/2D006339EEEC97F4",
+      "lineup": [
+        "Doja Cat",
+        "Latto"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1zZ_uZryHLw",
+      "source": "ticketmaster",
+      "artist": "Rod Wave",
+      "date": "2026-11-19T01:00:00Z",
+      "venueName": "State Farm Arena",
+      "venueCity": "Atlanta",
+      "venueState": "GA",
+      "citySlug": "atlanta-ga",
+      "eventUrl": "https://www.ticketmaster.com/rod-wave-dont-look-down-tour-atlanta-georgia-11-18-2026/event/0E0064D01EE7C7F2",
+      "lineup": [
+        "Rod Wave",
+        "FRIDAYY"
+      ]
+    },
+    {
+      "id": "ticketmaster:1kA8vxb-GA15UVL",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-11-19T01:00:00Z",
+      "venueName": "Warner Theatre",
+      "venueCity": "Washington",
+      "venueState": "DC",
+      "citySlug": "washington-dc",
+      "eventUrl": "https://www.ticketmaster.com/bill-murray-his-blood-brothers-washington-district-of-columbia-11-18-2026/event/150062621A2F6D1F",
+      "lineup": [
+        "Bill Murray & His Blood Brothers",
+        "Dave Hill"
+      ]
+    },
+    {
+      "id": "ticketmaster:vv1k8Z_3bAG7XJoo",
+      "source": "ticketmaster",
+      "artist": "Victoria Monet",
+      "date": "2026-11-19T01:00:00Z",
+      "venueName": "Aragon Ballroom",
+      "venueCity": "Chicago",
+      "venueState": "IL",
+      "citySlug": "chicago-il",
+      "eventUrl": "https://www.ticketmaster.com/victoria-monet-frequency-of-love-tour-chicago-illinois-11-18-2026/event/0400652605FA6451",
+      "lineup": [
+        "Victoria Monet"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5viZ_oS_Rw8O",
+      "source": "ticketmaster",
+      "artist": "Toosii",
+      "date": "2026-11-19T01:00:00Z",
+      "venueName": "House of Blues New Orleans ",
+      "venueCity": "New Orleans",
+      "venueState": "LA",
+      "citySlug": "new-orleans-la",
+      "eventUrl": "https://www.ticketmaster.com/toosii-platinum-nights-new-orleans-louisiana-11-18-2026/event/1B00651CD9BF2420",
+      "lineup": [
+        "Toosii"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5vzZ_aBwilEA",
+      "source": "ticketmaster",
+      "artist": "Future",
+      "date": "2026-11-19T03:00:00Z",
+      "venueName": "Paramount Theatre",
+      "venueCity": "Denver",
+      "venueState": "CO",
+      "citySlug": "denver-co",
+      "eventUrl": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-denver-colorado-11-18-2026/event/1E00649EB2B2B9C5",
+      "lineup": [
+        "Scott Bradlee's Postmodern Jukebox"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1zZ_uQsZFce",
+      "source": "ticketmaster",
+      "artist": "Rod Wave",
+      "date": "2026-11-20T01:00:00Z",
+      "venueName": "State Farm Arena",
+      "venueCity": "Atlanta",
+      "venueState": "GA",
+      "citySlug": "atlanta-ga",
+      "eventUrl": "https://www.ticketmaster.com/rod-wave-dont-look-down-tour-atlanta-georgia-11-19-2026/event/0E0064D6B1008B42",
+      "lineup": [
+        "Rod Wave",
+        "FRIDAYY"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG18Z_1N6xT5T",
+      "source": "ticketmaster",
+      "artist": "H.E.R.",
+      "date": "2026-11-20T02:00:00Z",
+      "venueName": "The Salt Shed Indoors (Shed)",
+      "venueCity": "Chicago",
+      "venueState": "IL",
+      "citySlug": "chicago-il",
+      "eventUrl": "https://www.ticketmaster.com/slow-pulp-chicago-illinois-11-19-2026/event/040064A8C78BF2FF",
+      "lineup": [
+        "Slow Pulp",
+        "Her New Knife",
+        "Current Union TM"
+      ]
+    },
+    {
+      "id": "ticketmaster:1AvfZbSGknFRe1X",
+      "source": "ticketmaster",
+      "artist": "Doja Cat",
+      "date": "2026-11-21T00:30:00Z",
+      "venueName": "CFG Bank Arena",
+      "venueCity": "Baltimore",
+      "venueState": "MD",
+      "citySlug": "baltimore-md",
+      "eventUrl": "https://www.ticketmaster.com/doja-cat-tour-ma-vie-world-baltimore-maryland-11-20-2026/event/1500633A88BC22BE",
+      "lineup": [
+        "Doja Cat",
+        "Latto"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5viZ_6VNOb-8",
+      "source": "ticketmaster",
+      "artist": "Chris Brown",
+      "date": "2026-11-21T01:00:00Z",
+      "venueName": "Caesars Superdome ",
+      "venueCity": "New Orleans",
+      "venueState": "LA",
+      "citySlug": "new-orleans-la",
+      "eventUrl": "https://www.ticketmaster.com/the-rb-tour-starring-usher-raymond-new-orleans-louisiana-11-20-2026/event/1B00647D23818850",
+      "lineup": [
+        "Usher Raymond & Chris Brown",
+        "USHER",
+        "Chris Brown"
+      ]
+    },
+    {
+      "id": "ticketmaster:1A4ZkGyGkdPgPRp",
+      "source": "ticketmaster",
+      "artist": "Doja Cat",
+      "date": "2026-11-22T00:30:00Z",
+      "venueName": "Capital One Arena",
+      "venueCity": "Washington",
+      "venueState": "DC",
+      "citySlug": "washington-dc",
+      "eventUrl": "https://www.ticketmaster.com/doja-cat-tour-ma-vie-world-washington-district-of-columbia-11-21-2026/event/15006339E5D65BD6",
+      "lineup": [
+        "Doja Cat",
+        "Latto"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5viZ_aoDPf8i",
+      "source": "ticketmaster",
+      "artist": "Chris Brown",
+      "date": "2026-11-22T01:00:00Z",
+      "venueName": "Caesars Superdome ",
+      "venueCity": "New Orleans",
+      "venueState": "LA",
+      "citySlug": "new-orleans-la",
+      "eventUrl": "https://www.ticketmaster.com/the-rb-tour-starring-usher-raymond-new-orleans-louisiana-11-21-2026/event/1B0064947B95442C",
+      "lineup": [
+        "Usher Raymond & Chris Brown",
+        "USHER",
+        "Chris Brown"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5eVZ_5QJbqdX",
+      "source": "ticketmaster",
+      "artist": "6LACK",
+      "date": "2026-11-22T01:00:00Z",
+      "venueName": "The Fillmore Charlotte",
+      "venueCity": "Charlotte",
+      "venueState": "NC",
+      "citySlug": "charlotte-nc",
+      "eventUrl": "https://www.ticketmaster.com/10-years-of-6lack-tour-charlotte-north-carolina-11-21-2026/event/2D0064B6A661D0FE",
+      "lineup": [
+        "6LACK",
+        "Eem Triplin"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1jZ_19bCEWp",
+      "source": "ticketmaster",
+      "artist": "H.E.R.",
+      "date": "2026-11-22T02:00:00Z",
+      "venueName": "The Sylvee",
+      "venueCity": "Madison",
+      "venueState": "WI",
+      "citySlug": "madison-wi",
+      "eventUrl": "https://www.ticketmaster.com/slow-pulp-madison-wisconsin-11-21-2026/event/070064A5D83A7F56",
+      "lineup": [
+        "Slow Pulp",
+        "Her New Knife",
+        "Graham Hunt"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5eVZ_5QiPWTk",
+      "source": "ticketmaster",
+      "artist": "6LACK",
+      "date": "2026-11-23T00:00:00Z",
+      "venueName": "The Ritz",
+      "venueCity": "Raleigh",
+      "venueState": "NC",
+      "citySlug": "raleigh-nc",
+      "eventUrl": "https://www.ticketmaster.com/10-years-of-6lack-tour-raleigh-north-carolina-11-22-2026/event/2D0064B6AC97DFC6",
+      "lineup": [
+        "6LACK",
+        "Eem Triplin"
+      ]
+    },
+    {
+      "id": "ticketmaster:1ApZkftGkexNgTR",
+      "source": "ticketmaster",
+      "artist": "Victoria Monet",
+      "date": "2026-11-23T01:00:00Z",
+      "venueName": "Citizens Live at The Wylie",
+      "venueCity": "Pittsburgh",
+      "venueState": "PA",
+      "citySlug": "pittsburgh-pa",
+      "eventUrl": "https://www.ticketmaster.com/victoria-monet-frequency-of-love-tour-pittsburgh-pennsylvania-11-22-2026/event/16006529A28F5FEF",
+      "lineup": [
+        "Victoria Monet"
+      ]
+    },
+    {
+      "id": "ticketmaster:vv17FZ_oGkT_IJiK",
+      "source": "ticketmaster",
+      "artist": "Toosii",
+      "date": "2026-11-23T01:00:00Z",
+      "venueName": "Theatre of Living Arts",
+      "venueCity": "Philadelphia",
+      "venueState": "PA",
+      "citySlug": "philadelphia-pa",
+      "eventUrl": "https://www.ticketmaster.com/toosii-philadelphia-pennsylvania-11-22-2026/event/0200651FD9A26B13",
+      "lineup": [
+        "Toosii"
+      ]
+    },
+    {
+      "id": "ticketmaster:vv1F7ZbS09vyZd227",
+      "source": "ticketmaster",
+      "artist": "Doja Cat",
+      "date": "2026-11-24T00:30:00Z",
+      "venueName": "TD Garden",
+      "venueCity": "Boston",
+      "venueState": "MA",
+      "citySlug": "boston-ma",
+      "eventUrl": "https://www.ticketmaster.com/doja-cat-tour-ma-vie-world-boston-massachusetts-11-23-2026/event/0100633917079EE3",
+      "lineup": [
+        "Doja Cat",
+        "Latto"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1Af1pAf",
+      "source": "ticketmaster",
+      "artist": "Toosii",
+      "date": "2026-11-24T01:00:00Z",
+      "venueName": "Howard Theatre",
+      "venueCity": "Washington",
+      "venueState": "DC",
+      "citySlug": "washington-dc",
+      "eventUrl": "https://www.ticketweb.com/event/toosii-platinum-nights-howard-theatre-tickets/14296154",
+      "lineup": [
+        "Toosii"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1AAZ_Zb",
+      "source": "ticketmaster",
+      "artist": "Jorja Smith",
+      "date": "2026-11-24T02:00:00Z",
+      "venueName": "Riviera Theatre- IL",
+      "venueCity": "Chicago",
+      "venueState": "IL",
+      "citySlug": "chicago-il",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ_Zb",
+      "lineup": [
+        "Jorja Smith"
+      ]
+    },
+    {
+      "id": "ticketmaster:vv17OZ_oGkSLJAaH",
+      "source": "ticketmaster",
+      "artist": "Toosii",
+      "date": "2026-11-25T00:00:00Z",
+      "venueName": "Saint Andrew's Hall",
+      "venueCity": "Detroit",
+      "venueState": "MI",
+      "citySlug": "detroit-mi",
+      "eventUrl": "https://www.ticketmaster.com/toosii-platinum-nights-detroit-michigan-11-24-2026/event/0800651CDF98527C",
+      "lineup": [
+        "Toosii"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5dIZ_aee_Pnn",
+      "source": "ticketmaster",
+      "artist": "Chris Brown",
+      "date": "2026-11-25T01:00:00Z",
+      "venueName": "Reliant Stadium",
+      "venueCity": "Houston",
+      "venueState": "TX",
+      "citySlug": "houston-tx",
+      "eventUrl": "https://www.ticketmaster.com/the-rb-tour-starring-usher-raymond-houston-texas-11-24-2026/event/3A00649082665AAA",
+      "lineup": [
+        "Usher Raymond & Chris Brown",
+        "USHER",
+        "Chris Brown"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5diZ_3C1Vwav",
+      "source": "ticketmaster",
+      "artist": "Victoria Monet",
+      "date": "2026-11-25T01:00:00Z",
+      "venueName": "Infosys Theater at Madison Square Garden",
+      "venueCity": "New York",
+      "venueState": "NY",
+      "citySlug": "new-york-ny",
+      "eventUrl": "https://www.ticketmaster.com/victoria-monet-frequency-of-love-tour-new-york-new-york-11-24-2026/event/3B0065238AD32241",
+      "lineup": [
+        "Victoria Monet"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG17Z_5Q_uDnY",
+      "source": "ticketmaster",
+      "artist": "6LACK",
+      "date": "2026-11-25T01:00:00Z",
+      "venueName": "The Dome by Rutter Mills",
+      "venueCity": "Virginia Beach",
+      "venueState": "VA",
+      "citySlug": "virginia-beach-va",
+      "eventUrl": "https://www.ticketmaster.com/10-years-of-6lack-tour-virginia-beach-virginia-11-24-2026/event/010064B69937BAB0",
+      "lineup": [
+        "6LACK",
+        "Eem Triplin"
+      ]
+    },
+    {
+      "id": "ticketmaster:1AOZkf0Gkd3pfVx",
+      "source": "ticketmaster",
+      "artist": "Isaiah Rashad",
+      "date": "2026-11-25T02:00:00Z",
+      "venueName": "Iron City",
+      "venueCity": "Birmingham",
+      "venueState": "AL",
+      "citySlug": "birmingham-al",
+      "eventUrl": "https://www.ticketmaster.com/isaiah-rashad-lil-sunnys-awful-road-birmingham-alabama-11-24-2026/event/20006524D2594D22",
+      "lineup": [
+        "Isaiah Rashad"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1A4v6eK",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-11-25T03:30:00Z",
+      "venueName": "Blue Note Jazz Club",
+      "venueCity": "New York",
+      "venueState": "NY",
+      "citySlug": "new-york-ny",
+      "eventUrl": "https://www.ticketweb.com/event/reuben-james-featuring-chris-dave-blue-note-jazz-club-tickets/15047093",
+      "lineup": [
+        "Dave"
+      ]
+    },
+    {
+      "id": "ticketmaster:1A4ZkfIGkeU6I0B",
+      "source": "ticketmaster",
+      "artist": "Victoria Monet",
+      "date": "2026-11-28T01:00:00Z",
+      "venueName": "The Anthem",
+      "venueCity": "Washington",
+      "venueState": "DC",
+      "citySlug": "washington-dc",
+      "eventUrl": "https://www.ticketmaster.com/victoria-monet-frequency-of-love-tour-washington-district-of-columbia-11-27-2026/event/15006528B61E893A",
+      "lineup": [
+        "Victoria Monet"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1FZ_5Qu8Ugs",
+      "source": "ticketmaster",
+      "artist": "6LACK",
+      "date": "2026-11-28T01:00:00Z",
+      "venueName": "The Fillmore Philadelphia",
+      "venueCity": "Philadelphia",
+      "venueState": "PA",
+      "citySlug": "philadelphia-pa",
+      "eventUrl": "https://www.ticketmaster.com/10-years-of-6lack-tour-philadelphia-pennsylvania-11-27-2026/event/020064B68D436D71",
+      "lineup": [
+        "6LACK",
+        "Eem Triplin"
+      ]
+    },
+    {
+      "id": "ticketmaster:1AvjZ_aGkwDCWWs",
+      "source": "ticketmaster",
+      "artist": "Future",
+      "date": "2026-11-28T04:00:00Z",
+      "venueName": "Encore Theater at Wynn Las Vegas",
+      "venueCity": "Las Vegas",
+      "venueState": "NV",
+      "citySlug": "las-vegas-nv",
+      "eventUrl": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-las-vegas-nevada-11-27-2026/event/1700649CBB3BDF71",
+      "lineup": [
+        "Scott Bradlee's Postmodern Jukebox"
+      ]
+    },
+    {
+      "id": "ticketmaster:k7vGF_ux4RWhd",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-11-29T02:00:00Z",
+      "venueName": "Buffalo Convention Center",
+      "venueCity": "Buffalo",
+      "venueState": "NY",
+      "citySlug": "buffalo-ny",
+      "eventUrl": "https://www.ticketmaster.com/the-worlds-largest-discogeneral-admission-presented-buffalo-new-york-11-28-2026/event/000064D895BFD6C3",
+      "lineup": [
+        "World's Largest Disco"
+      ]
+    },
+    {
+      "id": "ticketmaster:1AdZZbSGkldzVUa",
+      "source": "ticketmaster",
+      "artist": "Doja Cat",
+      "date": "2026-11-30T00:30:00Z",
+      "venueName": "Xfinity Mobile Arena",
+      "venueCity": "Philadelphia",
+      "venueState": "PA",
+      "citySlug": "philadelphia-pa",
+      "eventUrl": "https://www.ticketmaster.com/doja-cat-tour-ma-vie-world-philadelphia-pennsylvania-11-29-2026/event/3000633AC3E34D89",
+      "lineup": [
+        "Doja Cat",
+        "Latto"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5viZ_3rDnbD2",
+      "source": "ticketmaster",
+      "artist": "Victoria Monet",
+      "date": "2026-12-01T02:00:00Z",
+      "venueName": "The Truth",
+      "venueCity": "Nashville",
+      "venueState": "TN",
+      "citySlug": "nashville-tn",
+      "eventUrl": "https://www.ticketmaster.com/victoria-monet-frequency-of-love-tour-nashville-tennessee-11-30-2026/event/1B006527BBA98ECF",
+      "lineup": [
+        "Victoria Monet"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG17Z_5QxVWEi",
+      "source": "ticketmaster",
+      "artist": "6LACK",
+      "date": "2026-12-02T00:00:00Z",
+      "venueName": "Citizens House of Blues Boston",
+      "venueCity": "Boston",
+      "venueState": "MA",
+      "citySlug": "boston-ma",
+      "eventUrl": "https://www.ticketmaster.com/10-years-of-6lack-tour-boston-massachusetts-12-01-2026/event/010064B6A2D3D9EC",
+      "lineup": [
+        "6LACK",
+        "Eem Triplin"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5diZbSINTKZt",
+      "source": "ticketmaster",
+      "artist": "Doja Cat",
+      "date": "2026-12-02T00:30:00Z",
+      "venueName": "Madison Square Garden",
+      "venueCity": "New York",
+      "venueState": "NY",
+      "citySlug": "new-york-ny",
+      "eventUrl": "https://www.ticketmaster.com/doja-cat-tour-ma-vie-world-new-york-new-york-12-01-2026/event/3B00633A23FD3029",
+      "lineup": [
+        "Doja Cat",
+        "Latto"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1VZ_67jBzIg",
+      "source": "ticketmaster",
+      "artist": "Chris Brown",
+      "date": "2026-12-04T00:00:00Z",
+      "venueName": "Hard Rock Stadium",
+      "venueCity": "Miami",
+      "venueState": "FL",
+      "citySlug": "miami-fl",
+      "eventUrl": "https://www.ticketmaster.com/the-rb-tour-starring-usher-raymond-miami-florida-12-03-2026/event/0D0064711CEB8A35",
+      "lineup": [
+        "Usher Raymond & Chris Brown",
+        "USHER",
+        "Chris Brown"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG18Z_541e6wt",
+      "source": "ticketmaster",
+      "artist": "6LACK",
+      "date": "2026-12-04T02:00:00Z",
+      "venueName": "Aragon Ballroom",
+      "venueCity": "Chicago",
+      "venueState": "IL",
+      "citySlug": "chicago-il",
+      "eventUrl": "https://www.ticketmaster.com/10-years-of-6lack-tour-chicago-illinois-12-03-2026/event/040064B54A087CA9",
+      "lineup": [
+        "6LACK",
+        "Eem Triplin"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1VZ_FMhEi0r",
+      "source": "ticketmaster",
+      "artist": "Chris Brown",
+      "date": "2026-12-06T00:00:00Z",
+      "venueName": "Hard Rock Stadium",
+      "venueCity": "Miami",
+      "venueState": "FL",
+      "citySlug": "miami-fl",
+      "eventUrl": "https://www.ticketmaster.com/the-rb-tour-starring-usher-raymond-miami-florida-12-05-2026/event/0D00648DDB9EC91E",
+      "lineup": [
+        "Usher Raymond & Chris Brown",
+        "USHER",
+        "Chris Brown"
+      ]
+    },
+    {
+      "id": "ticketmaster:1Fk8vPadufZ7CCuC",
+      "source": "ticketmaster",
+      "artist": "Victoria Monet",
+      "date": "2026-12-06T03:00:00Z",
+      "venueName": "Arizona Financial Theatre",
+      "venueCity": "Phoenix",
+      "venueState": "AZ",
+      "citySlug": "phoenix-az",
+      "eventUrl": "https://www.ticketmaster.com/victoria-monet-frequency-of-love-tour-phoenix-arizona-12-05-2026/event/190065243354DDCD",
+      "lineup": [
+        "Victoria Monet"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1VZ_FMqYHYK",
+      "source": "ticketmaster",
+      "artist": "Chris Brown",
+      "date": "2026-12-07T00:00:00Z",
+      "venueName": "Hard Rock Stadium",
+      "venueCity": "Miami",
+      "venueState": "FL",
+      "citySlug": "miami-fl",
+      "eventUrl": "https://www.ticketmaster.com/the-rb-tour-starring-usher-raymond-miami-florida-12-06-2026/event/0D00648DDDC3CC13",
+      "lineup": [
+        "Usher Raymond & Chris Brown",
+        "USHER",
+        "Chris Brown"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1IZ_32HZdgH",
+      "source": "ticketmaster",
+      "artist": "Victoria Monet",
+      "date": "2026-12-07T04:00:00Z",
+      "venueName": "Cal Coast Credit Union Open Air Theatre at SDSU",
+      "venueCity": "San Diego",
+      "venueState": "CA",
+      "citySlug": "san-diego-ca",
+      "eventUrl": "https://www.ticketmaster.com/victoria-monet-frequency-of-love-tour-san-diego-california-12-06-2026/event/0A006523FC003D7C",
+      "lineup": [
+        "Victoria Monet"
+      ]
+    },
+    {
+      "id": "ticketmaster:17k8v0G61oD6PA8",
+      "source": "ticketmaster",
+      "artist": "Future",
+      "date": "2026-12-09T03:00:00Z",
+      "venueName": "Rialto Theatre-Tucson",
+      "venueCity": "Tucson",
+      "venueState": "AZ",
+      "citySlug": "tucson-az",
+      "eventUrl": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-tucson-arizona-12-08-2026/event/190064A47B1E5150",
+      "lineup": [
+        "Scott Bradlee's Postmodern Jukebox"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1OZ_5pg86rx",
+      "source": "ticketmaster",
+      "artist": "6LACK",
+      "date": "2026-12-10T00:00:00Z",
+      "venueName": "The Fillmore Detroit",
+      "venueCity": "Detroit",
+      "venueState": "MI",
+      "citySlug": "detroit-mi",
+      "eventUrl": "https://www.ticketmaster.com/10-years-of-6lack-tour-detroit-michigan-12-09-2026/event/080064B5B54077A2",
+      "lineup": [
+        "6LACK",
+        "Eem Triplin"
+      ]
+    },
+    {
+      "id": "ticketmaster:1avjZ_38Nr4ZdCAC",
+      "source": "ticketmaster",
+      "artist": "Victoria Monet",
+      "date": "2026-12-10T04:00:00Z",
+      "venueName": "Fontainebleau Las Vegas",
+      "venueCity": "Las Vegas",
+      "venueState": "NV",
+      "citySlug": "las-vegas-nv",
+      "eventUrl": "https://www.ticketmaster.com/victoria-monet-the-frequency-of-love-las-vegas-nevada-12-09-2026/event/1700652423795D4D",
+      "lineup": [
+        "Victoria Monet"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1OZ_G9oxhkR",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-12-12T01:00:00Z",
+      "venueName": "Music Hall Center",
+      "venueCity": "Detroit",
+      "venueState": "MI",
+      "citySlug": "detroit-mi",
+      "eventUrl": "https://www.ticketmaster.com/29th-dave-koz-christmas-tour-2026-detroit-michigan-12-11-2026/event/080064C5D189B1AF",
+      "lineup": [
+        "Dave Koz Christmas"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1bZ_5fU2jm6",
+      "source": "ticketmaster",
+      "artist": "6LACK",
+      "date": "2026-12-12T01:00:00Z",
+      "venueName": "The Fillmore Minneapolis presented by Affinity Plus",
+      "venueCity": "Minneapolis",
+      "venueState": "MN",
+      "citySlug": "minneapolis-mn",
+      "eventUrl": "https://www.ticketmaster.com/10-years-of-6lack-tour-minneapolis-minnesota-12-11-2026/event/060064B5363DCB87",
+      "lineup": [
+        "6LACK",
+        "Eem Triplin"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1fZ_GSyZxbO",
+      "source": "ticketmaster",
+      "artist": "Drake",
+      "date": "2026-12-12T01:45:00Z",
+      "venueName": "8 Seconds Saloon",
+      "venueCity": "Indianapolis",
+      "venueState": "IN",
+      "citySlug": "indianapolis-in",
+      "eventUrl": "https://www.ticketmaster.com/drake-white-indianapolis-indiana-12-11-2026/event/050064CCF9022620",
+      "lineup": [
+        "Drake White"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5dIZ_16CKFRY",
+      "source": "ticketmaster",
+      "artist": "Future",
+      "date": "2026-12-14T01:00:00Z",
+      "venueName": "White Oak Music Hall - Downstairs",
+      "venueCity": "Houston",
+      "venueState": "TX",
+      "citySlug": "houston-tx",
+      "eventUrl": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-houston-texas-12-13-2026/event/3A0064A1CE4C8BF0",
+      "lineup": [
+        "Scott Bradlee's Postmodern Jukebox"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1HZ_31fTEps",
+      "source": "ticketmaster",
+      "artist": "Victoria Monet",
+      "date": "2026-12-15T04:00:00Z",
+      "venueName": "WAMU Theater",
+      "venueCity": "Seattle",
+      "venueState": "WA",
+      "citySlug": "seattle-wa",
+      "eventUrl": "https://www.ticketmaster.com/victoria-monet-frequency-of-love-tour-seattle-washington-12-14-2026/event/0F00652294FE75B1",
+      "lineup": [
+        "Victoria Monet"
+      ]
+    },
+    {
+      "id": "ticketmaster:vv1AAZkf-GkdY9236",
+      "source": "ticketmaster",
+      "artist": "Chris Brown",
+      "date": "2026-12-16T00:30:00Z",
+      "venueName": "Brown County Music Center",
+      "venueCity": "Nashville",
+      "venueState": "TN",
+      "citySlug": "nashville-tn",
+      "eventUrl": "https://www.ticketmaster.com/chris-isaak-nashville-indiana-12-15-2026/event/05006521F05CF487",
+      "lineup": [
+        "Chris Isaak"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5viZ_aYbyy7A",
+      "source": "ticketmaster",
+      "artist": "Future",
+      "date": "2026-12-18T02:00:00Z",
+      "venueName": "Minglewood Hall",
+      "venueCity": "Memphis",
+      "venueState": "TN",
+      "citySlug": "memphis-tn",
+      "eventUrl": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-memphis-tennessee-12-17-2026/event/1B00649C18E79105",
+      "lineup": [
+        "Scott Bradlee's Postmodern Jukebox"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1IZ_CAywNnQ",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-12-18T03:30:00Z",
+      "venueName": "Balboa Theatre",
+      "venueCity": "San Diego",
+      "venueState": "CA",
+      "citySlug": "san-diego-ca",
+      "eventUrl": "https://www.ticketmaster.com/dave-koz-and-friends-christmas-tour-san-diego-california-12-17-2026/event/0A0064E179CA3A9A",
+      "lineup": [
+        "Dave Koz",
+        "Jonathan Butler",
+        "Haley Reinhart",
+        "Dylan Chambers"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1zZ_aDDwsuD",
+      "source": "ticketmaster",
+      "artist": "Future",
+      "date": "2026-12-19T00:30:00Z",
+      "venueName": "Atlanta Symphony Hall",
+      "venueCity": "Atlanta",
+      "venueState": "GA",
+      "citySlug": "atlanta-ga",
+      "eventUrl": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-atlanta-georgia-12-18-2026/event/0E00649EFBCB137B",
+      "lineup": [
+        "Scott Bradlee's Postmodern Jukebox"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1A7J3ff",
+      "source": "ticketmaster",
+      "artist": "Snoop Dogg",
+      "date": "2026-12-19T03:30:00Z",
+      "venueName": "Numerica Veterans Arena",
+      "venueCity": "Spokane",
+      "venueState": "WA",
+      "citySlug": "spokane-wa",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7J3ff",
+      "lineup": [
+        "DJ Snoopadelic"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5viZ_aUsoACF",
+      "source": "ticketmaster",
+      "artist": "Future",
+      "date": "2026-12-20T02:00:00Z",
+      "venueName": "The Truth",
+      "venueCity": "Nashville",
+      "venueState": "TN",
+      "citySlug": "nashville-tn",
+      "eventUrl": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-nashville-tennessee-12-19-2026/event/1B00649DB1445388",
+      "lineup": [
+        "Scott Bradlee's Postmodern Jukebox"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5viZ_aDonaWF",
+      "source": "ticketmaster",
+      "artist": "Future",
+      "date": "2026-12-21T01:00:00Z",
+      "venueName": "The Fillmore New Orleans",
+      "venueCity": "New Orleans",
+      "venueState": "LA",
+      "citySlug": "new-orleans-la",
+      "eventUrl": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-new-orleans-louisiana-12-20-2026/event/1B00649ED1A89F48",
+      "lineup": [
+        "Scott Bradlee's Postmodern Jukebox"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5ezZ_a93T3aU",
+      "source": "ticketmaster",
+      "artist": "Mary J. Blige",
+      "date": "2027-02-13T04:00:00Z",
+      "venueName": "Dolby Live",
+      "venueCity": "Las Vegas",
+      "venueState": "NV",
+      "citySlug": "las-vegas-nv",
+      "eventUrl": "https://www.ticketmaster.com/mary-j-blige-my-life-my-las-vegas-nevada-02-12-2027/event/2E006495D2FD2276",
+      "lineup": [
+        "Mary J. Blige"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5ezZ_a9KveaX",
+      "source": "ticketmaster",
+      "artist": "Mary J. Blige",
+      "date": "2027-02-14T04:00:00Z",
+      "venueName": "Dolby Live",
+      "venueCity": "Las Vegas",
+      "venueState": "NV",
+      "citySlug": "las-vegas-nv",
+      "eventUrl": "https://www.ticketmaster.com/mary-j-blige-my-life-my-las-vegas-nevada-02-13-2027/event/2E006495D304227E",
+      "lineup": [
+        "Mary J. Blige"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5ezZ_a9Ke31e",
+      "source": "ticketmaster",
+      "artist": "Mary J. Blige",
+      "date": "2027-02-18T04:00:00Z",
+      "venueName": "Dolby Live",
+      "venueCity": "Las Vegas",
+      "venueState": "NV",
+      "citySlug": "las-vegas-nv",
+      "eventUrl": "https://www.ticketmaster.com/mary-j-blige-my-life-my-las-vegas-nevada-02-17-2027/event/2E006495D3092282",
+      "lineup": [
+        "Mary J. Blige"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1A70NZx",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2027-02-20T02:00:00Z",
+      "venueName": "Symphony Center-IL",
+      "venueCity": "Chicago",
+      "venueState": "IL",
+      "citySlug": "chicago-il",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A70NZx",
+      "lineup": [
+        "John Scofield",
+        "Dave Holland"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5ezZ_a9K7w1x",
+      "source": "ticketmaster",
+      "artist": "Mary J. Blige",
+      "date": "2027-02-20T04:00:00Z",
+      "venueName": "Dolby Live",
+      "venueCity": "Las Vegas",
+      "venueState": "NV",
+      "citySlug": "las-vegas-nv",
+      "eventUrl": "https://www.ticketmaster.com/mary-j-blige-my-life-my-las-vegas-nevada-02-19-2027/event/2E006495D31322A2",
+      "lineup": [
+        "Mary J. Blige"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5ezZ_a9Kdx1F",
+      "source": "ticketmaster",
+      "artist": "Mary J. Blige",
+      "date": "2027-02-21T04:00:00Z",
+      "venueName": "Dolby Live",
+      "venueCity": "Las Vegas",
+      "venueState": "NV",
+      "citySlug": "las-vegas-nv",
+      "eventUrl": "https://www.ticketmaster.com/mary-j-blige-my-life-my-las-vegas-nevada-02-20-2027/event/2E006495D30E2288",
+      "lineup": [
+        "Mary J. Blige"
+      ]
+    },
+    {
+      "id": "ticketmaster:1718v0G6CVZbsjE",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2027-04-24T04:00:00Z",
+      "venueName": "Thunderbird Lounge",
+      "venueCity": "Phoenix",
+      "venueState": "AZ",
+      "citySlug": "phoenix-az",
+      "eventUrl": "https://www.ticketweb.com/event/thunderbird-lounge-8th-anniversary-feat-thunderbird-lounge-tickets/14256674?REFERRAL_ID=tmfeed",
+      "lineup": [
+        "Dave"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1A7Pwqs",
+      "source": "ticketmaster",
+      "artist": "Beyonce",
+      "date": "2027-06-26T01:00:00Z",
+      "venueName": "Orchestra Hall-MN",
+      "venueCity": "Minneapolis",
+      "venueState": "MN",
+      "citySlug": "minneapolis-mn",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pwqs",
+      "lineup": [
+        "Minnesota Orchestra"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5eVZb0QUJ4cJ",
+      "source": "ticketmaster",
+      "artist": "Brandy",
+      "date": "2027-09-27T23:00:00Z",
+      "venueName": "The Charleston Music Hall",
+      "venueCity": "Charleston",
+      "venueState": "SC",
+      "citySlug": "charleston-sc",
+      "eventUrl": "https://www.ticketmaster.com/mary-chapin-carpenter-brandy-clark-charleston-south-carolina-09-27-2027/event/2D006246B6995B66",
+      "lineup": [
+        "Mary Chapin Carpenter",
+        "Brandy Clark"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5dYZbgwFhv_M",
+      "source": "ticketmaster",
+      "artist": "Miguel",
+      "date": "2038-01-01T01:00:00Z",
+      "venueName": "Radio City Music Hall",
+      "venueCity": "New York",
+      "venueState": "NY",
+      "citySlug": "new-york-ny",
+      "eventUrl": "https://www.ticketmaster.com/miguel-caos-tour-new-york-new-york-12-31-2037/event/3C00635C886C1677",
+      "lineup": [
+        "Miguel",
+        "Jean Dawson"
+      ]
+    }
+  ]
 }
