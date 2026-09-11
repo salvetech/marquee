@@ -1,34 +1,6 @@
 {
-  "generatedAt": "2026-09-11T06:03:49.650Z",
+  "generatedAt": "2026-09-11T12:03:46.843Z",
   "events": [
-    {
-      "id": "ticketmaster:1Av0Z_7GksBL7t-",
-      "source": "ticketmaster",
-      "artist": "J. Cole",
-      "date": "2026-09-11T03:00:00Z",
-      "venueName": "Mortgage Matchup Center",
-      "venueCity": "Phoenix",
-      "venueState": "AZ",
-      "citySlug": "phoenix-az",
-      "eventUrl": "https://www.ticketmaster.com/j-cole-the-falloff-tour-phoenix-arizona-09-10-2026/event/1900644C7A7C4A61",
-      "lineup": [
-        "J. Cole"
-      ]
-    },
-    {
-      "id": "ticketmaster:rZ7HnEZ1A4vF4S",
-      "source": "ticketmaster",
-      "artist": "Moneybagg Yo",
-      "date": "2026-09-11T05:00:00Z",
-      "venueName": "Nova SD",
-      "venueCity": "San Diego",
-      "venueState": "CA",
-      "citySlug": "san-diego-ca",
-      "eventUrl": "https://www.ticketweb.com/event/moneybagg-yo-nova-sd-tickets/15048573",
-      "lineup": [
-        "Moneybagg Yo"
-      ]
-    },
     {
       "id": "ticketmaster:rZ7HnEZ1A4Z-uK",
       "source": "ticketmaster",
@@ -41,21 +13,6 @@
       "eventUrl": "https://www.ticketweb.com/event/in-the-round-with-annie-the-bluebird-cafe-tickets/15021353",
       "lineup": [
         "Dave"
-      ]
-    },
-    {
-      "id": "ticketmaster:vvG17Z_Cn3OaDS",
-      "source": "ticketmaster",
-      "artist": "Young Thug",
-      "date": "2026-09-12T00:00:00Z",
-      "venueName": "MGM Music Hall at Fenway",
-      "venueCity": "Boston",
-      "venueState": "MA",
-      "citySlug": "boston-ma",
-      "eventUrl": "https://www.ticketmaster.com/ysl-records-young-thug-present-the-boston-massachusetts-09-11-2026/event/010064EA92809EF3",
-      "lineup": [
-        "Young Thug",
-        "NAV"
       ]
     },
     {
@@ -100,6 +57,20 @@
       "lineup": [
         "Jack Harlow",
         "James Savage"
+      ]
+    },
+    {
+      "id": "ticketmaster:vv1k7Z_3aUG7UgCU",
+      "source": "ticketmaster",
+      "artist": "Young Thug",
+      "date": "2026-09-12T02:00:00Z",
+      "venueName": "The Grand (Boston)",
+      "venueCity": "Boston",
+      "venueState": "MA",
+      "citySlug": "boston-ma",
+      "eventUrl": "https://www.ticketmaster.com/young-thug-boston-massachusetts-09-11-2026/event/0100652276DB53B6",
+      "lineup": [
+        "Young Thug"
       ]
     },
     {
@@ -4437,7 +4408,7 @@
       ]
     },
     {
-      "id": "ticketmaster:Z7r9jZ1A7PUQo",
+      "id": "ticketmaster:17A8v0G6uD0rzAr",
       "source": "ticketmaster",
       "artist": "Common",
       "date": "2026-11-18T00:00:00Z",
@@ -4445,7 +4416,7 @@
       "venueCity": "Washington",
       "venueState": "DC",
       "citySlug": "washington-dc",
-      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7PUQo",
+      "eventUrl": "https://www.unionstagepresents.com/shows/the-bends-if-you-insist-tour-17-nov",
       "lineup": [
         "The Bends",
         "Common People"
