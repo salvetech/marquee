@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T12:03:46.843Z",
+  "generatedAt": "2026-09-11T18:03:33.185Z",
   "events": [
     {
       "id": "ticketmaster:rZ7HnEZ1A4Z-uK",
@@ -3566,7 +3566,7 @@
       ]
     },
     {
-      "id": "ticketmaster:vvG1HZ_3JuYAJ0",
+      "id": "ticketmaster:Z7r9jZ1AAv08g",
       "source": "ticketmaster",
       "artist": "Isaiah Rashad",
       "date": "2026-11-05T04:00:00Z",
@@ -3574,7 +3574,7 @@
       "venueCity": "Portland",
       "venueState": "OR",
       "citySlug": "portland-or",
-      "eventUrl": "http://etix.com/ticket/p/91748539/isaiah-rashadlil-sunnys-awful-road-trip-portland-mcmenamins-crystal-ballroom",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1AAv08g",
       "lineup": [
         "Isaiah Rashad"
       ]
@@ -4408,7 +4408,7 @@
       ]
     },
     {
-      "id": "ticketmaster:17A8v0G6uD0rzAr",
+      "id": "ticketmaster:Z7r9jZ1A7PUQo",
       "source": "ticketmaster",
       "artist": "Common",
       "date": "2026-11-18T00:00:00Z",
@@ -4416,7 +4416,7 @@
       "venueCity": "Washington",
       "venueState": "DC",
       "citySlug": "washington-dc",
-      "eventUrl": "https://www.unionstagepresents.com/shows/the-bends-if-you-insist-tour-17-nov",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7PUQo",
       "lineup": [
         "The Bends",
         "Common People"
@@ -4494,15 +4494,15 @@
       ]
     },
     {
-      "id": "ticketmaster:vvG1IZ_3JCrgRz",
+      "id": "ticketmaster:Z7r9jZ1AAv08z",
       "source": "ticketmaster",
       "artist": "Isaiah Rashad",
       "date": "2026-11-18T04:00:00Z",
-      "venueName": "SOMA",
+      "venueName": "Soma",
       "venueCity": "San Diego",
       "venueState": "CA",
       "citySlug": "san-diego-ca",
-      "eventUrl": "https://www.ticketweb.com/event/isaiah-rashad-lil-sunnys-awful-soma-mainstage-tickets/14307454?pl=soma",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1AAv08z",
       "lineup": [
         "Isaiah Rashad"
       ]
