@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T18:03:33.185Z",
+  "generatedAt": "2026-09-12T00:03:51.812Z",
   "events": [
     {
       "id": "ticketmaster:rZ7HnEZ1A4Z-uK",
@@ -13,6 +13,21 @@
       "eventUrl": "https://www.ticketweb.com/event/in-the-round-with-annie-the-bluebird-cafe-tickets/15021353",
       "lineup": [
         "Dave"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG17Z_Cn3OaDS",
+      "source": "ticketmaster",
+      "artist": "Young Thug",
+      "date": "2026-09-12T00:00:00Z",
+      "venueName": "MGM Music Hall at Fenway",
+      "venueCity": "Boston",
+      "venueState": "MA",
+      "citySlug": "boston-ma",
+      "eventUrl": "https://www.ticketmaster.com/ysl-records-young-thug-present-the-boston-massachusetts-09-11-2026/event/010064EA92809EF3",
+      "lineup": [
+        "Young Thug",
+        "NAV"
       ]
     },
     {
@@ -57,20 +72,6 @@
       "lineup": [
         "Jack Harlow",
         "James Savage"
-      ]
-    },
-    {
-      "id": "ticketmaster:vv1k7Z_3aUG7UgCU",
-      "source": "ticketmaster",
-      "artist": "Young Thug",
-      "date": "2026-09-12T02:00:00Z",
-      "venueName": "The Grand (Boston)",
-      "venueCity": "Boston",
-      "venueState": "MA",
-      "citySlug": "boston-ma",
-      "eventUrl": "https://www.ticketmaster.com/young-thug-boston-massachusetts-09-11-2026/event/0100652276DB53B6",
-      "lineup": [
-        "Young Thug"
       ]
     },
     {
