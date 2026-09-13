@@ -1,35 +1,6 @@
 {
-  "generatedAt": "2026-09-13T06:04:07.868Z",
+  "generatedAt": "2026-09-13T12:03:47.297Z",
   "events": [
-    {
-      "id": "ticketmaster:rZ7HnEZ1Afaak7",
-      "source": "ticketmaster",
-      "artist": "Drake",
-      "date": "2026-09-13T00:00:00Z",
-      "venueName": "Off The Rails Outdoors",
-      "venueCity": "Worcester",
-      "venueState": "MA",
-      "citySlug": "worcester-ma",
-      "eventUrl": "https://www.ticketweb.com/event/drake-white-off-the-rails-outdoors-tickets/14249184",
-      "lineup": [
-        "Drake White"
-      ]
-    },
-    {
-      "id": "ticketmaster:G5dIZ_GJD8WqC",
-      "source": "ticketmaster",
-      "artist": "H.E.R.",
-      "date": "2026-09-13T00:00:00Z",
-      "venueName": "White Oak Music Hall - Downstairs",
-      "venueCity": "Houston",
-      "venueState": "TX",
-      "citySlug": "houston-tx",
-      "eventUrl": "https://www.ticketmaster.com/the-garden-houston-texas-09-12-2026/event/3A0064C9BB43D74E",
-      "lineup": [
-        "The Garden",
-        "Her New Knife"
-      ]
-    },
     {
       "id": "ticketmaster:G5diZ_54DVe6X",
       "source": "ticketmaster",
@@ -404,15 +375,15 @@
       ]
     },
     {
-      "id": "ticketmaster:vvG1YZ_5nQjJXk",
+      "id": "ticketmaster:Z7r9jZ1A70go_",
       "source": "ticketmaster",
       "artist": "Kehlani",
       "date": "2026-09-18T23:00:00Z",
-      "venueName": "Zoo Amphitheatre",
+      "venueName": "OKC Zoo Amphitheatre",
       "venueCity": "Oklahoma City",
       "venueState": "OK",
       "citySlug": "oklahoma-city-ok",
-      "eventUrl": "https://www.prekindle.com/event/48394-kehlani-oklahoma-city",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A70go_",
       "lineup": [
         "Kehlani",
         "Durand Bernarr",
@@ -790,6 +761,21 @@
       ]
     },
     {
+      "id": "ticketmaster:Z7r9jZ1AAZfq9",
+      "source": "ticketmaster",
+      "artist": "Rod Wave",
+      "date": "2026-09-23T01:00:00Z",
+      "venueName": "Toyota Center - TX",
+      "venueCity": "Houston",
+      "venueState": "TX",
+      "citySlug": "houston-tx",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1AAZfq9",
+      "lineup": [
+        "Rod Wave",
+        "FRIDAYY"
+      ]
+    },
+    {
       "id": "ticketmaster:G5vzZ_GwxMtOl",
       "source": "ticketmaster",
       "artist": "Isaiah Rashad",
@@ -802,21 +788,6 @@
       "lineup": [
         "Isaiah Rashad",
         "Alemeda"
-      ]
-    },
-    {
-      "id": "ticketmaster:G5dIZ_2zPwFIo",
-      "source": "ticketmaster",
-      "artist": "Rod Wave",
-      "date": "2026-09-23T01:30:00Z",
-      "venueName": "Toyota Center",
-      "venueCity": "Houston",
-      "venueState": "TX",
-      "citySlug": "houston-tx",
-      "eventUrl": "https://www.toyotacenter.com/events/detail/rod-wave-2026",
-      "lineup": [
-        "Rod Wave",
-        "FRIDAYY"
       ]
     },
     {
@@ -1416,15 +1387,15 @@
       ]
     },
     {
-      "id": "ticketmaster:Z7r9jZ1A70MvM",
+      "id": "ticketmaster:vvG1FZ_5m-XRbW",
       "source": "ticketmaster",
       "artist": "Denzel Curry",
       "date": "2026-10-02T23:00:00Z",
-      "venueName": "Stateside Live Philadelphia",
+      "venueName": "Stateside Live!",
       "venueCity": "Philadelphia",
       "venueState": "PA",
       "citySlug": "philadelphia-pa",
-      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A70MvM",
+      "eventUrl": "https://www.axs.com/events/1465634/knocked-loose-and-denzel-curry-tickets?skin=statesidelive",
       "lineup": [
         "Knocked Loose",
         "Denzel Curry"
