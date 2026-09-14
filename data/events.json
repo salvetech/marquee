@@ -1,53 +1,6 @@
 {
-  "generatedAt": "2026-09-14T00:04:29.482Z",
+  "generatedAt": "2026-09-14T06:04:17.917Z",
   "events": [
-    {
-      "id": "ticketmaster:G5diZ_54DVe6X",
-      "source": "ticketmaster",
-      "artist": "Bryson Tiller",
-      "date": "2026-09-13T23:30:00Z",
-      "venueName": "Madison Square Garden",
-      "venueCity": "New York",
-      "venueState": "NY",
-      "citySlug": "new-york-ny",
-      "eventUrl": "https://www.ticketmaster.com/bryson-tiller-presents-the-neo-trapsoul-new-york-new-york-09-13-2026/event/3B0064B57BD021FE",
-      "lineup": [
-        "Bryson Tiller",
-        "Majid Jordan",
-        "Ty Dolla $ign",
-        "Austin Millz"
-      ]
-    },
-    {
-      "id": "ticketmaster:G5viZ_G9JsIUZ",
-      "source": "ticketmaster",
-      "artist": "H.E.R.",
-      "date": "2026-09-14T00:00:00Z",
-      "venueName": "House of Blues New Orleans ",
-      "venueCity": "New Orleans",
-      "venueState": "LA",
-      "citySlug": "new-orleans-la",
-      "eventUrl": "https://www.ticketmaster.com/the-garden-new-orleans-louisiana-09-13-2026/event/1B0064C5E6C68D80",
-      "lineup": [
-        "The Garden",
-        "Her New Knife"
-      ]
-    },
-    {
-      "id": "ticketmaster:k7vGF_CnWD-Nh",
-      "source": "ticketmaster",
-      "artist": "Young Thug",
-      "date": "2026-09-14T00:00:00Z",
-      "venueName": "Capital One City Parks Foundation SummerStage",
-      "venueCity": "New York",
-      "venueState": "NY",
-      "citySlug": "new-york-ny",
-      "eventUrl": "https://www.ticketmaster.com/ysl-records-young-thug-present-the-new-york-new-york-09-13-2026/event/000064EABDEE18DB",
-      "lineup": [
-        "Young Thug",
-        "NAV"
-      ]
-    },
     {
       "id": "ticketmaster:17GZv0G6ukWCdzJ",
       "source": "ticketmaster",
