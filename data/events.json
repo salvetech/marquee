@@ -1,21 +1,6 @@
 {
-  "generatedAt": "2026-09-15T06:03:56.317Z",
+  "generatedAt": "2026-09-15T12:04:16.514Z",
   "events": [
-    {
-      "id": "ticketmaster:17GZv0G6ukWCdzJ",
-      "source": "ticketmaster",
-      "artist": "Rod Wave",
-      "date": "2026-09-15T00:00:00Z",
-      "venueName": "Xfinity Mobile Arena",
-      "venueCity": "Philadelphia",
-      "venueState": "PA",
-      "citySlug": "philadelphia-pa",
-      "eventUrl": "https://www.ticketmaster.com/rod-wave-dont-look-down-tour-philadelphia-pennsylvania-09-14-2026/event/300064D1BD383E26",
-      "lineup": [
-        "Rod Wave",
-        "FRIDAYY"
-      ]
-    },
     {
       "id": "ticketmaster:17A8v0G6CE3wQ8x",
       "source": "ticketmaster",
