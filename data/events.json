@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T12:04:16.514Z",
+  "generatedAt": "2026-09-15T18:03:31.768Z",
   "events": [
     {
       "id": "ticketmaster:17A8v0G6CE3wQ8x",
@@ -40,7 +40,7 @@
       "id": "ticketmaster:G5eVZ_ukY_pAF",
       "source": "ticketmaster",
       "artist": "Rod Wave",
-      "date": "2026-09-16T00:00:00Z",
+      "date": "2026-09-16T00:30:00Z",
       "venueName": "Lenovo Center",
       "venueCity": "Raleigh",
       "venueState": "NC",
@@ -2871,20 +2871,6 @@
       ]
     },
     {
-      "id": "ticketmaster:vvG1zZ_ANbXIAp",
-      "source": "ticketmaster",
-      "artist": "Brandy",
-      "date": "2026-10-30T00:00:00Z",
-      "venueName": "Buckhead Theatre",
-      "venueCity": "Atlanta",
-      "venueState": "GA",
-      "citySlug": "atlanta-ga",
-      "eventUrl": "https://www.ticketmaster.com/brandy-clark-atlanta-georgia-10-29-2026/event/0E006458D8FA8156",
-      "lineup": [
-        "Brandy Clark"
-      ]
-    },
-    {
       "id": "ticketmaster:Z7r9jZ1A70yjs",
       "source": "ticketmaster",
       "artist": "Denzel Curry",
@@ -5141,6 +5127,34 @@
       ]
     },
     {
+      "id": "ticketmaster:vv1AaZkftGkd8MG05",
+      "source": "ticketmaster",
+      "artist": "Brandy",
+      "date": "2027-01-23T04:00:00Z",
+      "venueName": "The Bellwether",
+      "venueCity": "Los Angeles",
+      "venueState": "CA",
+      "citySlug": "los-angeles-ca",
+      "eventUrl": "https://www.ticketmaster.com/brandy-clark-take-flight-world-tour-los-angeles-california-01-22-2027/event/09006529D0DCC90B",
+      "lineup": [
+        "Brandy Clark"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1HZ_3Bry4C8",
+      "source": "ticketmaster",
+      "artist": "Brandy",
+      "date": "2027-02-06T04:00:00Z",
+      "venueName": "Neptune Theatre",
+      "venueCity": "Seattle",
+      "venueState": "WA",
+      "citySlug": "seattle-wa",
+      "eventUrl": "https://www.ticketmaster.com/brandy-clark-seattle-washington-02-05-2027/event/0F00652E9EE55390",
+      "lineup": [
+        "Brandy Clark"
+      ]
+    },
+    {
       "id": "ticketmaster:G5ezZ_a93T3aU",
       "source": "ticketmaster",
       "artist": "Mary J. Blige",
@@ -5223,6 +5237,34 @@
       "eventUrl": "https://www.ticketmaster.com/mary-j-blige-my-life-my-las-vegas-nevada-02-20-2027/event/2E006495D30E2288",
       "lineup": [
         "Mary J. Blige"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5eVZ_3BpM_Ea",
+      "source": "ticketmaster",
+      "artist": "Brandy",
+      "date": "2027-04-04T00:00:00Z",
+      "venueName": "Music Farm",
+      "venueCity": "Charleston",
+      "venueState": "SC",
+      "citySlug": "charleston-sc",
+      "eventUrl": "https://www.ticketmaster.com/brandy-clark-take-flight-world-tour-charleston-south-carolina-04-03-2027/event/2D00652E96DD99C9",
+      "lineup": [
+        "Brandy Clark"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG1zZ_ANbXIAp",
+      "source": "ticketmaster",
+      "artist": "Brandy",
+      "date": "2027-04-05T00:00:00Z",
+      "venueName": "Buckhead Theatre",
+      "venueCity": "Atlanta",
+      "venueState": "GA",
+      "citySlug": "atlanta-ga",
+      "eventUrl": "https://www.ticketmaster.com/brandy-clark-atlanta-georgia-04-04-2027/event/0E006458D8FA8156",
+      "lineup": [
+        "Brandy Clark"
       ]
     },
     {
