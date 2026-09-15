@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T00:04:03.130Z",
+  "generatedAt": "2026-09-15T06:03:56.317Z",
   "events": [
     {
       "id": "ticketmaster:17GZv0G6ukWCdzJ",
@@ -138,7 +138,7 @@
       "venueCity": "Baton Rouge",
       "venueState": "LA",
       "citySlug": "baton-rouge-la",
-      "eventUrl": "https://www.ticketmaster.com/drake-white-baton-rouge-louisiana-09-16-2026/event/1B0064D77B5D36C2",
+      "eventUrl": "https://www.ticketmaster.com/drake-white-w-jeffery-allen-imler-baton-rouge-louisiana-09-16-2026/event/1B0064D77B5D36C2",
       "lineup": [
         "Drake White"
       ]
@@ -719,6 +719,21 @@
       ]
     },
     {
+      "id": "ticketmaster:Z7r9jZ1AAZfq9",
+      "source": "ticketmaster",
+      "artist": "Rod Wave",
+      "date": "2026-09-23T01:00:00Z",
+      "venueName": "Toyota Center - TX",
+      "venueCity": "Houston",
+      "venueState": "TX",
+      "citySlug": "houston-tx",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1AAZfq9",
+      "lineup": [
+        "Rod Wave",
+        "FRIDAYY"
+      ]
+    },
+    {
       "id": "ticketmaster:G5vzZ_GwxMtOl",
       "source": "ticketmaster",
       "artist": "Isaiah Rashad",
@@ -731,21 +746,6 @@
       "lineup": [
         "Isaiah Rashad",
         "Alemeda"
-      ]
-    },
-    {
-      "id": "ticketmaster:G5dIZ_2zPwFIo",
-      "source": "ticketmaster",
-      "artist": "Rod Wave",
-      "date": "2026-09-23T01:30:00Z",
-      "venueName": "Toyota Center",
-      "venueCity": "Houston",
-      "venueState": "TX",
-      "citySlug": "houston-tx",
-      "eventUrl": "https://www.toyotacenter.com/events/detail/rod-wave-2026",
-      "lineup": [
-        "Rod Wave",
-        "FRIDAYY"
       ]
     },
     {
