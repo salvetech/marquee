@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T12:04:19.474Z",
+  "generatedAt": "2026-09-16T18:04:04.861Z",
   "events": [
     {
       "id": "ticketmaster:vvG17Z_CEO4lzr",
@@ -1392,6 +1392,7 @@
         "Jack Black",
         "Dropkick Murphys",
         "Cypress Hill",
+        "Nathaniel Rateliff",
         "Killer Mike",
         "Serj Tankian",
         "Brittany Howard",
@@ -1399,7 +1400,10 @@
         "The Linda Lindas",
         "Darryl \"DMC\" McDaniels",
         "Matt Cameron",
+        "State Radio",
+        "Scott Ian",
         "grandson",
+        "The Last Internationale",
         "The Neighborhood Kids"
       ]
     },
@@ -3273,15 +3277,15 @@
       ]
     },
     {
-      "id": "ticketmaster:vvG1zZ_3n4PEV9",
+      "id": "ticketmaster:Z7r9jZ1AAvPbJ",
       "source": "ticketmaster",
       "artist": "Victoria Monet",
       "date": "2026-11-05T01:00:00Z",
-      "venueName": "Fox Theatre Atlanta",
+      "venueName": "Fox Theatre - Atlanta",
       "venueCity": "Atlanta",
       "venueState": "GA",
       "citySlug": "atlanta-ga",
-      "eventUrl": "https://www.ticketmaster.com/victoria-monet-frequency-of-love-tour-atlanta-georgia-11-04-2026/event/0E00652A95967D17",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1AAvPbJ",
       "lineup": [
         "Victoria Monet"
       ]
