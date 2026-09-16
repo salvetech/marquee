@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T06:03:46.355Z",
+  "generatedAt": "2026-09-16T12:04:19.474Z",
   "events": [
     {
       "id": "ticketmaster:vvG17Z_CEO4lzr",
@@ -268,15 +268,15 @@
       ]
     },
     {
-      "id": "ticketmaster:vvG1YZ_5nQjJXk",
+      "id": "ticketmaster:Z7r9jZ1A70go_",
       "source": "ticketmaster",
       "artist": "Kehlani",
       "date": "2026-09-18T23:00:00Z",
-      "venueName": "Zoo Amphitheatre",
+      "venueName": "OKC Zoo Amphitheatre",
       "venueCity": "Oklahoma City",
       "venueState": "OK",
       "citySlug": "oklahoma-city-ok",
-      "eventUrl": "https://www.prekindle.com/event/48394-kehlani-oklahoma-city",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A70go_",
       "lineup": [
         "Kehlani",
         "Durand Bernarr",
@@ -731,15 +731,15 @@
       ]
     },
     {
-      "id": "ticketmaster:G5vzZ_uvX_Kib",
+      "id": "ticketmaster:Z7r9jZ1A7P-a0",
       "source": "ticketmaster",
       "artist": "Isaiah Rashad",
       "date": "2026-09-24T02:00:00Z",
-      "venueName": "The Complex",
+      "venueName": "The Complex - UT",
       "venueCity": "Salt Lake City",
       "venueState": "UT",
       "citySlug": "salt-lake-city-ut",
-      "eventUrl": "https://www.axs.com/events/1489872/isaiah-rashad-tickets",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7P-a0",
       "lineup": [
         "Isaiah Rashad",
         "Alemeda"
