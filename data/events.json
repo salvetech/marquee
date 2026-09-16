@@ -1,41 +1,6 @@
 {
-  "generatedAt": "2026-09-16T00:04:11.263Z",
+  "generatedAt": "2026-09-16T06:03:46.355Z",
   "events": [
-    {
-      "id": "ticketmaster:17A8v0G6CE3wQ8x",
-      "source": "ticketmaster",
-      "artist": "Young Thug",
-      "date": "2026-09-15T23:30:00Z",
-      "venueName": "The Anthem",
-      "venueCity": "Washington",
-      "venueState": "DC",
-      "citySlug": "washington-dc",
-      "eventUrl": "https://www.ticketmaster.com/ysl-records-young-thug-presents-the-washington-district-of-columbia-09-15-2026/event/150064E9D2C9A422",
-      "lineup": [
-        "Young Thug",
-        "NAV",
-        "Tezzus",
-        "Diamond",
-        "Saint",
-        "Lyrus",
-        "Yume"
-      ]
-    },
-    {
-      "id": "ticketmaster:G5eVZ_ukY_pAF",
-      "source": "ticketmaster",
-      "artist": "Rod Wave",
-      "date": "2026-09-16T00:30:00Z",
-      "venueName": "Lenovo Center",
-      "venueCity": "Raleigh",
-      "venueState": "NC",
-      "citySlug": "raleigh-nc",
-      "eventUrl": "https://www.ticketmaster.com/rod-wave-dont-look-down-tour-raleigh-north-carolina-09-15-2026/event/2D0064D1B0656148",
-      "lineup": [
-        "Rod Wave",
-        "FRIDAYY"
-      ]
-    },
     {
       "id": "ticketmaster:vvG17Z_CEO4lzr",
       "source": "ticketmaster",
