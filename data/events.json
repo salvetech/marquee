@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T18:03:31.768Z",
+  "generatedAt": "2026-09-16T00:04:11.263Z",
   "events": [
     {
       "id": "ticketmaster:17A8v0G6CE3wQ8x",
@@ -19,21 +19,6 @@
         "Saint",
         "Lyrus",
         "Yume"
-      ]
-    },
-    {
-      "id": "ticketmaster:Z7r9jZ1A7PJCK",
-      "source": "ticketmaster",
-      "artist": "H.E.R.",
-      "date": "2026-09-16T00:00:00Z",
-      "venueName": "The Eastern-GA",
-      "venueCity": "Atlanta",
-      "venueState": "GA",
-      "citySlug": "atlanta-ga",
-      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7PJCK",
-      "lineup": [
-        "The Garden",
-        "Her New Knife"
       ]
     },
     {
@@ -834,9 +819,10 @@
       "venueCity": "Nashville",
       "venueState": "TN",
       "citySlug": "nashville-tn",
-      "eventUrl": "https://www.ticketweb.com/event/kenny-greenberg-for-those-we-3rd-and-lindsley-tickets/15038783",
+      "eventUrl": "https://www.ticketweb.com/event/suzy-bogguss-for-those-we-3rd-and-lindsley-tickets/15038783",
       "lineup": [
         "The McCrary Sisters",
+        "Suzy Bogguss",
         "Linda Davis"
       ]
     },
