@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T12:04:12.853Z",
+  "generatedAt": "2026-09-17T18:03:47.622Z",
   "events": [
     {
       "id": "ticketmaster:rZ7HnEZ1A4Zt4d",
@@ -1343,6 +1343,7 @@
         "Mike McCready",
         "Brittany Howard",
         "Taylor Momsen",
+        "Geezer Butler",
         "The Linda Lindas",
         "Darryl \"DMC\" McDaniels",
         "Matt Cameron",
@@ -1796,6 +1797,20 @@
       "lineup": [
         "Rod Wave",
         "FRIDAYY"
+      ]
+    },
+    {
+      "id": "ticketmaster:LvZ18Qn3FkZ7b9kgZzu2y",
+      "source": "ticketmaster",
+      "artist": "Lucky Daye",
+      "date": "2026-10-15T02:30:00Z",
+      "venueName": "Ray Charles Terrace at GRAMMY Museum L.A. Live",
+      "venueCity": "Los Angeles",
+      "venueState": "CA",
+      "citySlug": "los-angeles-ca",
+      "eventUrl": "https://www.universe.com/events/the-drop-lucky-daye-tickets-6BD2FG?ref=ticketmaster",
+      "lineup": [
+        "Lucky Daye"
       ]
     },
     {
@@ -2394,6 +2409,22 @@
       "eventUrl": "https://www.ticketmaster.com/tedeschi-trucks-band-future-soul-2026-chicago-illinois-10-23-2026/event/07006436AB8B6888",
       "lineup": [
         "Tedeschi Trucks Band"
+      ]
+    },
+    {
+      "id": "ticketmaster:vv1AkZkfYGkeDujS_",
+      "source": "ticketmaster",
+      "artist": "Common",
+      "date": "2026-10-24T01:00:00Z",
+      "venueName": "Rose Music Hall",
+      "venueCity": "Columbia",
+      "venueState": "MD",
+      "citySlug": "columbia-md",
+      "eventUrl": "https://www.ticketmaster.com/dead-jones-columbia-missouri-10-23-2026/event/06006530BB35CCD9",
+      "lineup": [
+        "Dead Jones",
+        "Last Common Ancestor",
+        "Upper Management"
       ]
     },
     {
