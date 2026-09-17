@@ -1,69 +1,6 @@
 {
-  "generatedAt": "2026-09-17T00:04:02.602Z",
+  "generatedAt": "2026-09-17T06:03:50.360Z",
   "events": [
-    {
-      "id": "ticketmaster:vvG17Z_CEO4lzr",
-      "source": "ticketmaster",
-      "artist": "Young Thug",
-      "date": "2026-09-16T23:30:00Z",
-      "venueName": "The Dome by Rutter Mills",
-      "venueCity": "Virginia Beach",
-      "venueState": "VA",
-      "citySlug": "virginia-beach-va",
-      "eventUrl": "https://www.ticketmaster.com/ysl-records-young-thug-present-the-virginia-beach-virginia-09-16-2026/event/010064E9E056BE1E",
-      "lineup": [
-        "Young Thug",
-        "NAV"
-      ]
-    },
-    {
-      "id": "ticketmaster:vvG1YZ_5_kUzpU",
-      "source": "ticketmaster",
-      "artist": "Kehlani",
-      "date": "2026-09-16T23:30:00Z",
-      "venueName": "Dos Equis Pavilion",
-      "venueCity": "Dallas",
-      "venueState": "TX",
-      "citySlug": "dallas-tx",
-      "eventUrl": "https://www.ticketmaster.com/the-kehlani-world-tour-north-america-dallas-texas-09-16-2026/event/0C0064B646DB85B6",
-      "lineup": [
-        "Kehlani",
-        "Durand Bernarr",
-        "TheARTI$t",
-        "WASEEL",
-        "Dixson"
-      ]
-    },
-    {
-      "id": "ticketmaster:G5viZbye_a_hw",
-      "source": "ticketmaster",
-      "artist": "Anderson .Paak",
-      "date": "2026-09-17T00:00:00Z",
-      "venueName": "Caesars Superdome ",
-      "venueCity": "New Orleans",
-      "venueState": "LA",
-      "citySlug": "new-orleans-la",
-      "eventUrl": "https://www.ticketmaster.com/bruno-mars-the-romantic-tour-new-orleans-louisiana-09-16-2026/event/1B006390992596F2",
-      "lineup": [
-        "Bruno Mars",
-        "RAYE",
-        "DJ Pee .Wee"
-      ]
-    },
-    {
-      "id": "ticketmaster:Z7r9jZ1A7-k--",
-      "source": "ticketmaster",
-      "artist": "J. Cole",
-      "date": "2026-09-17T01:00:00Z",
-      "venueName": "Toyota Center - TX",
-      "venueCity": "Houston",
-      "venueState": "TX",
-      "citySlug": "houston-tx",
-      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7-k--",
-      "lineup": [
-        "J. Cole"
-      ]
-    },
     {
       "id": "ticketmaster:G5viZ_uqD9Khe",
       "source": "ticketmaster",
@@ -833,6 +770,27 @@
       "lineup": [
         "Young Thug",
         "NAV"
+      ]
+    },
+    {
+      "id": "ticketmaster:vvG18Z_uD4W1Mm",
+      "source": "ticketmaster",
+      "artist": "Beyonce",
+      "date": "2026-09-26T01:00:00Z",
+      "venueName": "Foundation Room at House of Blues Chicago",
+      "venueCity": "Chicago",
+      "venueState": "IL",
+      "citySlug": "chicago-il",
+      "eventUrl": "https://www.ticketmaster.com/house-of-burlesque-chicago-illinois-09-25-2026/event/040064DED5F4ADEE",
+      "lineup": [
+        "House of Burlesque",
+        "Hot Tawdry",
+        "Bob'beyonce",
+        "Gaea Lady",
+        "frail808",
+        "GlaMonster",
+        "Honey Bee Rose",
+        "Zahradka Tonic"
       ]
     },
     {
