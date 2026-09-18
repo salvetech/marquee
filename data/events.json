@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T12:03:49.238Z",
+  "generatedAt": "2026-09-18T18:03:18.510Z",
   "events": [
     {
       "id": "ticketmaster:1AvbZbUGkRFlD0F",
@@ -1722,6 +1722,20 @@
       "lineup": [
         "Doja Cat",
         "Latto"
+      ]
+    },
+    {
+      "id": "ticketmaster:LvZ18QO_vQVmGCOZJgENE",
+      "source": "ticketmaster",
+      "artist": "Isaiah Rashad",
+      "date": "2026-10-16T02:30:00Z",
+      "venueName": "Ray Charles Terrace at GRAMMY Museum L.A. Live",
+      "venueCity": "Los Angeles",
+      "venueState": "CA",
+      "citySlug": "los-angeles-ca",
+      "eventUrl": "https://www.universe.com/events/spotlight-isaiah-rashad-tickets-C583XW?ref=ticketmaster",
+      "lineup": [
+        "Isaiah Rashad"
       ]
     },
     {
@@ -4926,6 +4940,20 @@
       "eventUrl": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-new-orleans-louisiana-12-20-2026/event/1B00649ED1A89F48",
       "lineup": [
         "Scott Bradlee's Postmodern Jukebox"
+      ]
+    },
+    {
+      "id": "ticketmaster:vv1AvZkfwGkemXShx",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-12-31T01:00:00Z",
+      "venueName": "Elevation 27",
+      "venueCity": "Virginia Beach",
+      "venueState": "VA",
+      "citySlug": "virginia-beach-va",
+      "eventUrl": "https://www.ticketmaster.com/dave-matthews-tribute-band-virginia-beach-virginia-12-30-2026/event/01006532AEFB36E2",
+      "lineup": [
+        "Dave Matthews Tribute Band"
       ]
     },
     {
