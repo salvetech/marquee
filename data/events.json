@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T18:03:47.622Z",
+  "generatedAt": "2026-09-18T00:04:10.695Z",
   "events": [
     {
       "id": "ticketmaster:rZ7HnEZ1A4Zt4d",
@@ -3283,7 +3283,7 @@
       ]
     },
     {
-      "id": "ticketmaster:Z7r9jZ1AAZJ8x",
+      "id": "ticketmaster:vv1A6ZkfoGkeIgwR2",
       "source": "ticketmaster",
       "artist": "Dave",
       "date": "2026-11-05T01:30:00Z",
@@ -3291,7 +3291,7 @@
       "venueCity": "Madison",
       "venueState": "WI",
       "citySlug": "madison-wi",
-      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1AAZJ8x",
+      "eventUrl": "https://uwbadgers.evenue.net/events/DMB",
       "lineup": [
         "Dave Matthews Band"
       ]
