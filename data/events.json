@@ -1,64 +1,6 @@
 {
-  "generatedAt": "2026-09-18T00:04:10.695Z",
+  "generatedAt": "2026-09-18T06:03:44.499Z",
   "events": [
-    {
-      "id": "ticketmaster:rZ7HnEZ1A4Zt4d",
-      "source": "ticketmaster",
-      "artist": "Brandy",
-      "date": "2026-09-17T23:00:00Z",
-      "venueName": "The Bluebird Cafe",
-      "venueCity": "Nashville",
-      "venueState": "TN",
-      "citySlug": "nashville-tn",
-      "eventUrl": "https://www.ticketweb.com/event/americana-music-association-presents-brandy-the-bluebird-cafe-tickets/15029543",
-      "lineup": [
-        "Brandy"
-      ]
-    },
-    {
-      "id": "ticketmaster:G5eVZ_3N1kJxd",
-      "source": "ticketmaster",
-      "artist": "Young Thug",
-      "date": "2026-09-17T23:30:00Z",
-      "venueName": "The Fillmore Charlotte",
-      "venueCity": "Charlotte",
-      "venueState": "NC",
-      "citySlug": "charlotte-nc",
-      "eventUrl": "https://www.ticketmaster.com/ysl-records-young-thug-present-the-charlotte-north-carolina-09-17-2026/event/2D006528CA1A6883",
-      "lineup": [
-        "Young Thug",
-        "NAV"
-      ]
-    },
-    {
-      "id": "ticketmaster:G5eVZ_Cnmup1h",
-      "source": "ticketmaster",
-      "artist": "Young Thug",
-      "date": "2026-09-18T00:00:00Z",
-      "venueName": "The Fillmore Charlotte",
-      "venueCity": "Charlotte",
-      "venueState": "NC",
-      "citySlug": "charlotte-nc",
-      "eventUrl": "https://www.ticketmaster.com/ysl-records-young-thug-present-moved-charlotte-north-carolina-09-17-2026/event/2D0064EAAE35629B",
-      "lineup": [
-        "Young Thug",
-        "NAV"
-      ]
-    },
-    {
-      "id": "ticketmaster:Z7r9jZ1A7-6xb",
-      "source": "ticketmaster",
-      "artist": "J. Cole",
-      "date": "2026-09-18T01:00:00Z",
-      "venueName": "Toyota Center - TX",
-      "venueCity": "Houston",
-      "venueState": "TX",
-      "citySlug": "houston-tx",
-      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7-6xb",
-      "lineup": [
-        "J. Cole"
-      ]
-    },
     {
       "id": "ticketmaster:17FZv0G6uk58vxc",
       "source": "ticketmaster",
@@ -2424,7 +2366,9 @@
       "lineup": [
         "Dead Jones",
         "Last Common Ancestor",
-        "Upper Management"
+        "Upper Management",
+        "Halcyon",
+        "Coscoroba"
       ]
     },
     {
