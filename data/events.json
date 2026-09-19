@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T18:03:18.510Z",
+  "generatedAt": "2026-09-19T00:03:57.409Z",
   "events": [
     {
       "id": "ticketmaster:1AvbZbUGkRFlD0F",
@@ -59,15 +59,15 @@
       ]
     },
     {
-      "id": "ticketmaster:Z7r9jZ1A70go_",
+      "id": "ticketmaster:vvG1YZ_5nQjJXk",
       "source": "ticketmaster",
       "artist": "Kehlani",
       "date": "2026-09-18T23:00:00Z",
-      "venueName": "OKC Zoo Amphitheatre",
+      "venueName": "Zoo Amphitheatre",
       "venueCity": "Oklahoma City",
       "venueState": "OK",
       "citySlug": "oklahoma-city-ok",
-      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A70go_",
+      "eventUrl": "https://www.prekindle.com/event/48394-kehlani-oklahoma-city",
       "lineup": [
         "Kehlani",
         "Durand Bernarr",
