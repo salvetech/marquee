@@ -1,96 +1,6 @@
 {
-  "generatedAt": "2026-09-19T00:03:57.409Z",
+  "generatedAt": "2026-09-19T06:03:58.032Z",
   "events": [
-    {
-      "id": "ticketmaster:1AvbZbUGkRFlD0F",
-      "source": "ticketmaster",
-      "artist": "Summer Walker",
-      "date": "2026-09-18T16:00:00Z",
-      "venueName": "Kentucky Expo Center",
-      "venueCity": "Louisville",
-      "venueState": "KY",
-      "citySlug": "louisville-ky",
-      "eventUrl": "https://on.fgtix.com/trk/Rm3ec",
-      "lineup": [
-        "Louder Than Life",
-        "My Chemical Romance",
-        "Pierce The Veil",
-        "A Day To Remember",
-        "The Used",
-        "Coheed and Cambria",
-        "The Pretty Reckless",
-        "Taking Back Sunday",
-        "Sleeping With Sirens",
-        "The Warning",
-        "Cavalera",
-        "Badflower",
-        "We the Kings",
-        "Loathe",
-        "L.S. Dunes",
-        "PRESIDENT",
-        "Palaye Royale",
-        "Get Scared",
-        "Soulfly",
-        "Lacey Sturm",
-        "The Red Jumpsuit Apparatus",
-        "Haywire",
-        "ivri",
-        "Scene Queen",
-        "Caskets",
-        "Rain City Drive",
-        "Mushroomhead",
-        "Angel Du$t",
-        "Wind Walkers",
-        "Twitching Tongues",
-        "Powerman 5000",
-        "Jeff Hardy",
-        "Butcher Babies",
-        "Nevertel",
-        "Dry Kill Logic",
-        "Vana",
-        "Koyo",
-        "Primer 55",
-        "MISSING LINK",
-        "Showing Teeth",
-        "Earshot",
-        "40 Below Summer",
-        "Gates to Hell",
-        "Billy McNicol"
-      ]
-    },
-    {
-      "id": "ticketmaster:vvG1YZ_5nQjJXk",
-      "source": "ticketmaster",
-      "artist": "Kehlani",
-      "date": "2026-09-18T23:00:00Z",
-      "venueName": "Zoo Amphitheatre",
-      "venueCity": "Oklahoma City",
-      "venueState": "OK",
-      "citySlug": "oklahoma-city-ok",
-      "eventUrl": "https://www.prekindle.com/event/48394-kehlani-oklahoma-city",
-      "lineup": [
-        "Kehlani",
-        "Durand Bernarr",
-        "Isaia Huron",
-        "TheARTI$t",
-        "WASEEL"
-      ]
-    },
-    {
-      "id": "ticketmaster:rZ7HnEZ1AfaJQ7",
-      "source": "ticketmaster",
-      "artist": "Dave",
-      "date": "2026-09-19T00:00:00Z",
-      "venueName": "Blue Note Jazz Club",
-      "venueCity": "New York",
-      "venueState": "NY",
-      "citySlug": "new-york-ny",
-      "eventUrl": "https://www.ticketweb.com/event/chris-dave-x-meshell-ndegeocello-blue-note-jazz-club-tickets/14266684",
-      "lineup": [
-        "Meshell Ndegeocello",
-        "Eric Gales"
-      ]
-    },
     {
       "id": "ticketmaster:G5dIZ_GmjLbWY",
       "source": "ticketmaster",
@@ -120,6 +30,21 @@
         "Usher Raymond & Chris Brown",
         "USHER",
         "Chris Brown"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1AfaJjf",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-09-19T02:30:00Z",
+      "venueName": "Blue Note Jazz Club",
+      "venueCity": "New York",
+      "venueState": "NY",
+      "citySlug": "new-york-ny",
+      "eventUrl": "https://www.ticketweb.com/event/chris-dave-x-meshell-ndegeocello-blue-note-jazz-club-tickets/14266714",
+      "lineup": [
+        "Meshell Ndegeocello",
+        "Eric Gales"
       ]
     },
     {
@@ -1581,7 +1506,7 @@
       "id": "ticketmaster:rZ7HnEZ1Af04aS",
       "source": "ticketmaster",
       "artist": "H.E.R.",
-      "date": "2026-10-11T03:00:00Z",
+      "date": "2026-10-11T02:30:00Z",
       "venueName": "Dante's",
       "venueCity": "Portland",
       "venueState": "OR",
