@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T12:03:36.576Z",
+  "generatedAt": "2026-09-19T18:03:27.272Z",
   "events": [
     {
       "id": "ticketmaster:rZ7HnEZ1Af1740",
@@ -292,6 +292,20 @@
         "TheARTI$t",
         "WASEEL",
         "Dixon"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1AfGw1f",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-09-23T00:00:00Z",
+      "venueName": "Blue Note Jazz Club",
+      "venueCity": "New York",
+      "venueState": "NY",
+      "citySlug": "new-york-ny",
+      "eventUrl": "https://www.ticketweb.com/event/chris-dave-eric-gales-blue-note-jazz-club-tickets/14332294",
+      "lineup": [
+        "Eric Gales"
       ]
     },
     {
