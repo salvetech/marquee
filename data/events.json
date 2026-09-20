@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T00:04:20.833Z",
+  "generatedAt": "2026-09-20T06:03:42.467Z",
   "events": [
     {
       "id": "ticketmaster:rZ7HnEZ1Af1740",
@@ -13,68 +13,6 @@
       "eventUrl": "https://www.ticketweb.com/event/grave-busters-dave-busters-tickets/14284564",
       "lineup": [
         "Emo Nite"
-      ]
-    },
-    {
-      "id": "ticketmaster:vvG1VZ_ekC64hS",
-      "source": "ticketmaster",
-      "artist": "Anderson .Paak",
-      "date": "2026-09-19T23:00:00Z",
-      "venueName": "Hard Rock Stadium",
-      "venueCity": "Miami",
-      "venueState": "FL",
-      "citySlug": "miami-fl",
-      "eventUrl": "https://www.ticketmaster.com/bruno-mars-the-romantic-tour-miami-florida-09-19-2026/event/0D0064218E1D56F3",
-      "lineup": [
-        "Bruno Mars",
-        "RAYE",
-        "DJ Pee .Wee"
-      ]
-    },
-    {
-      "id": "ticketmaster:vvG1FZ_5UhQlaY",
-      "source": "ticketmaster",
-      "artist": "Bryson Tiller",
-      "date": "2026-09-19T23:30:00Z",
-      "venueName": "Prudential Center",
-      "venueCity": "Newark",
-      "venueState": "NJ",
-      "citySlug": "newark-nj",
-      "eventUrl": "https://www.ticketmaster.com/bryson-tiller-presents-the-neo-trapsoul-newark-new-jersey-09-19-2026/event/020064BD9B6AB270",
-      "lineup": [
-        "Bryson Tiller",
-        "Majid Jordan",
-        "Ty Dolla $ign",
-        "Austin Millz"
-      ]
-    },
-    {
-      "id": "ticketmaster:G5eVZ_CEQd11U",
-      "source": "ticketmaster",
-      "artist": "Young Thug",
-      "date": "2026-09-20T00:00:00Z",
-      "venueName": "Red Hat Amphitheater",
-      "venueCity": "Raleigh",
-      "venueState": "NC",
-      "citySlug": "raleigh-nc",
-      "eventUrl": "https://www.ticketmaster.com/ysl-records-young-thug-presents-the-raleigh-north-carolina-09-19-2026/event/2D0064E9DA0CA2B6",
-      "lineup": [
-        "Young Thug",
-        "NAV"
-      ]
-    },
-    {
-      "id": "ticketmaster:vvG1YZ_7ngiIvw",
-      "source": "ticketmaster",
-      "artist": "J. Cole",
-      "date": "2026-09-20T01:00:00Z",
-      "venueName": "American Airlines Center",
-      "venueCity": "Dallas",
-      "venueState": "TX",
-      "citySlug": "dallas-tx",
-      "eventUrl": "https://www.ticketmaster.com/j-cole-the-falloff-tour-dallas-texas-09-19-2026/event/0C00644AB5B28072",
-      "lineup": [
-        "J. Cole"
       ]
     },
     {
