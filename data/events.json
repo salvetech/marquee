@@ -1,50 +1,6 @@
 {
-  "generatedAt": "2026-09-20T06:03:42.467Z",
+  "generatedAt": "2026-09-20T12:03:41.859Z",
   "events": [
-    {
-      "id": "ticketmaster:rZ7HnEZ1Af1740",
-      "source": "ticketmaster",
-      "artist": "Dave",
-      "date": "2026-09-19T05:00:00Z",
-      "venueName": "Dave & Buster's",
-      "venueCity": "Los Angeles",
-      "venueState": "CA",
-      "citySlug": "los-angeles-ca",
-      "eventUrl": "https://www.ticketweb.com/event/grave-busters-dave-busters-tickets/14284564",
-      "lineup": [
-        "Emo Nite"
-      ]
-    },
-    {
-      "id": "ticketmaster:G5viZ_ueWUnQ0",
-      "source": "ticketmaster",
-      "artist": "Rod Wave",
-      "date": "2026-09-20T01:00:00Z",
-      "venueName": "Smoothie King Center",
-      "venueCity": "New Orleans",
-      "venueState": "LA",
-      "citySlug": "new-orleans-la",
-      "eventUrl": "https://www.ticketmaster.com/rod-wave-dont-look-down-tour-new-orleans-louisiana-09-19-2026/event/1B0064D0BDDAA6A4",
-      "lineup": [
-        "Rod Wave",
-        "FRIDAYY"
-      ]
-    },
-    {
-      "id": "ticketmaster:G5ezZbwJtIbZb",
-      "source": "ticketmaster",
-      "artist": "Dave",
-      "date": "2026-09-20T03:00:00Z",
-      "venueName": "Dolby Live",
-      "venueCity": "Las Vegas",
-      "venueState": "NV",
-      "citySlug": "las-vegas-nv",
-      "eventUrl": "https://www.ticketmaster.com/sammy-hagar-the-best-of-all-las-vegas-nevada-09-19-2026/event/2E006329A9A18018",
-      "lineup": [
-        "Sammy Hagar",
-        "Dave Hill"
-      ]
-    },
     {
       "id": "ticketmaster:1AvbZbUGkRallIZ",
       "source": "ticketmaster",
