@@ -1,128 +1,6 @@
 {
-  "generatedAt": "2026-09-21T00:04:11.400Z",
+  "generatedAt": "2026-09-21T06:04:19.966Z",
   "events": [
-    {
-      "id": "ticketmaster:1AvbZbUGkRallIZ",
-      "source": "ticketmaster",
-      "artist": "Future",
-      "date": "2026-09-20T16:00:00Z",
-      "venueName": "Kentucky Expo Center",
-      "venueCity": "Louisville",
-      "venueState": "KY",
-      "citySlug": "louisville-ky",
-      "eventUrl": "https://on.fgtix.com/trk/Rm3ec",
-      "lineup": [
-        "Louder Than Life",
-        "Tool",
-        "Gojira",
-        "The Prodigy",
-        "Danny Elfman",
-        "The Mars Volta",
-        "Mastodon",
-        "Black Label Society",
-        "Killswitch Engage",
-        "Ministry",
-        "Dethklok",
-        "Black Veil Brides",
-        "Underoath",
-        "Alexisonfire",
-        "Animals As Leaders",
-        "THRICE",
-        "The Home Team",
-        "Sleep Theory",
-        "Atreyu",
-        "Sunami",
-        "Filter",
-        "Between The Buried And Me",
-        "Toadies",
-        "Escape the Fate",
-        "Jutes",
-        "Haste the Day",
-        "Holywatr",
-        "LOCKED SHUT",
-        "I See Stars",
-        "The Word Alive",
-        "Emery",
-        "Maylene and the Sons of Disaster",
-        "Arrows In Action",
-        "The Pretty Wild",
-        "End It",
-        "Rivers of Nihil",
-        "200 Stab Wounds",
-        "156/Silence",
-        "sace6",
-        "Greyhaven",
-        "He Is Legend",
-        "Aviana",
-        "vianova",
-        "Future Palace",
-        "Corpse Pile",
-        "Bodybox",
-        "BOLTCUTTER",
-        "Resolve",
-        "Dreamwake"
-      ]
-    },
-    {
-      "id": "ticketmaster:rZ7HnEZ1Af0o0N",
-      "source": "ticketmaster",
-      "artist": "Dave",
-      "date": "2026-09-20T21:30:00Z",
-      "venueName": "Birdland Jazz Club",
-      "venueCity": "New York",
-      "venueState": "NY",
-      "citySlug": "new-york-ny",
-      "eventUrl": "https://www.ticketweb.com/event/jon-de-lucias-dave-brubeck-birdland-jazz-club-tickets/14911923",
-      "lineup": [
-        "Scott Robinson & Bronze Nemesis"
-      ]
-    },
-    {
-      "id": "ticketmaster:vvG1VZ_e-DkwJ_",
-      "source": "ticketmaster",
-      "artist": "Anderson .Paak",
-      "date": "2026-09-20T23:00:00Z",
-      "venueName": "Hard Rock Stadium",
-      "venueCity": "Miami",
-      "venueState": "FL",
-      "citySlug": "miami-fl",
-      "eventUrl": "https://www.ticketmaster.com/bruno-mars-the-romantic-tour-miami-florida-09-20-2026/event/0D0064287B1B2999",
-      "lineup": [
-        "Bruno Mars",
-        "RAYE",
-        "DJ Pee .Wee"
-      ]
-    },
-    {
-      "id": "ticketmaster:vvG1zZ_Clu3Wym",
-      "source": "ticketmaster",
-      "artist": "Young Thug",
-      "date": "2026-09-21T00:00:00Z",
-      "venueName": "Lakewood Amphitheatre",
-      "venueCity": "Atlanta",
-      "venueState": "GA",
-      "citySlug": "atlanta-ga",
-      "eventUrl": "https://www.ticketmaster.com/ysl-records-young-thug-present-the-atlanta-georgia-09-20-2026/event/0E0064EACD4BDE6E",
-      "lineup": [
-        "Young Thug",
-        "NAV"
-      ]
-    },
-    {
-      "id": "ticketmaster:rZ7HnEZ1AfaJQf",
-      "source": "ticketmaster",
-      "artist": "Dave",
-      "date": "2026-09-21T00:00:00Z",
-      "venueName": "Blue Note Jazz Club",
-      "venueCity": "New York",
-      "venueState": "NY",
-      "citySlug": "new-york-ny",
-      "eventUrl": "https://www.ticketweb.com/event/chris-dave-x-meshell-ndegeocello-blue-note-jazz-club-tickets/14266694",
-      "lineup": [
-        "Meshell Ndegeocello",
-        "Eric Gales"
-      ]
-    },
     {
       "id": "ticketmaster:G5vzZ_5QtkzP6",
       "source": "ticketmaster",
@@ -142,17 +20,18 @@
       ]
     },
     {
-      "id": "ticketmaster:vvG1YZ_7nguETn",
+      "id": "ticketmaster:rZ7HnEZ1AfaJj0",
       "source": "ticketmaster",
-      "artist": "J. Cole",
-      "date": "2026-09-21T01:00:00Z",
-      "venueName": "American Airlines Center",
-      "venueCity": "Dallas",
-      "venueState": "TX",
-      "citySlug": "dallas-tx",
-      "eventUrl": "https://www.ticketmaster.com/j-cole-the-falloff-tour-dallas-texas-09-20-2026/event/0C00644AB5367FEA",
+      "artist": "Dave",
+      "date": "2026-09-21T02:30:00Z",
+      "venueName": "Blue Note Jazz Club",
+      "venueCity": "New York",
+      "venueState": "NY",
+      "citySlug": "new-york-ny",
+      "eventUrl": "https://www.ticketweb.com/event/chris-dave-x-meshell-ndegeocello-blue-note-jazz-club-tickets/14266724",
       "lineup": [
-        "J. Cole"
+        "Meshell Ndegeocello",
+        "Eric Gales"
       ]
     },
     {
