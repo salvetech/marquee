@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-09-21T12:03:51.738Z",
+  "generatedAt": "2026-09-21T18:04:09.184Z",
   "events": [
     {
-      "id": "ticketmaster:Z7r9jZ1A7PPay",
+      "id": "ticketmaster:G5dIZ_u1Q_qeq",
       "source": "ticketmaster",
       "artist": "Rod Wave",
-      "date": "2026-09-22T01:00:00Z",
-      "venueName": "Toyota Center - TX",
+      "date": "2026-09-22T01:30:00Z",
+      "venueName": "Toyota Center",
       "venueCity": "Houston",
       "venueState": "TX",
       "citySlug": "houston-tx",
-      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7PPay",
+      "eventUrl": "https://www.toyotacenter.com/events/detail/rod-wave-2026",
       "lineup": [
         "Rod Wave",
         "FRIDAYY"
@@ -49,21 +49,6 @@
       ]
     },
     {
-      "id": "ticketmaster:Z7r9jZ1AAZfq9",
-      "source": "ticketmaster",
-      "artist": "Rod Wave",
-      "date": "2026-09-23T01:00:00Z",
-      "venueName": "Toyota Center - TX",
-      "venueCity": "Houston",
-      "venueState": "TX",
-      "citySlug": "houston-tx",
-      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1AAZfq9",
-      "lineup": [
-        "Rod Wave",
-        "FRIDAYY"
-      ]
-    },
-    {
       "id": "ticketmaster:G5vzZ_GwxMtOl",
       "source": "ticketmaster",
       "artist": "Isaiah Rashad",
@@ -76,6 +61,21 @@
       "lineup": [
         "Isaiah Rashad",
         "Alemeda"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5dIZ_2zPwFIo",
+      "source": "ticketmaster",
+      "artist": "Rod Wave",
+      "date": "2026-09-23T01:30:00Z",
+      "venueName": "Toyota Center",
+      "venueCity": "Houston",
+      "venueState": "TX",
+      "citySlug": "houston-tx",
+      "eventUrl": "https://www.toyotacenter.com/events/detail/rod-wave-2026",
+      "lineup": [
+        "Rod Wave",
+        "FRIDAYY"
       ]
     },
     {
@@ -4094,6 +4094,20 @@
       "lineup": [
         "6LACK",
         "Eem Triplin"
+      ]
+    },
+    {
+      "id": "ticketmaster:vv1AaZkfNGkdl_CrL",
+      "source": "ticketmaster",
+      "artist": "Nas",
+      "date": "2026-11-25T02:00:00Z",
+      "venueName": "The Wiltern",
+      "venueCity": "Los Angeles",
+      "venueState": "CA",
+      "citySlug": "los-angeles-ca",
+      "eventUrl": "https://www.ticketmaster.com/2026-triples-world-tour-andless-in-los-angeles-california-11-24-2026/event/09006523EB64E79F",
+      "lineup": [
+        "tripleS"
       ]
     },
     {
