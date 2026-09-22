@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-09-21T18:04:09.184Z",
+  "generatedAt": "2026-09-22T00:04:28.469Z",
   "events": [
     {
-      "id": "ticketmaster:G5dIZ_u1Q_qeq",
+      "id": "ticketmaster:Z7r9jZ1A7PPay",
       "source": "ticketmaster",
       "artist": "Rod Wave",
-      "date": "2026-09-22T01:30:00Z",
-      "venueName": "Toyota Center",
+      "date": "2026-09-22T01:00:00Z",
+      "venueName": "Toyota Center - TX",
       "venueCity": "Houston",
       "venueState": "TX",
       "citySlug": "houston-tx",
-      "eventUrl": "https://www.toyotacenter.com/events/detail/rod-wave-2026",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7PPay",
       "lineup": [
         "Rod Wave",
         "FRIDAYY"
@@ -49,6 +49,21 @@
       ]
     },
     {
+      "id": "ticketmaster:Z7r9jZ1AAZfq9",
+      "source": "ticketmaster",
+      "artist": "Rod Wave",
+      "date": "2026-09-23T01:00:00Z",
+      "venueName": "Toyota Center - TX",
+      "venueCity": "Houston",
+      "venueState": "TX",
+      "citySlug": "houston-tx",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1AAZfq9",
+      "lineup": [
+        "Rod Wave",
+        "FRIDAYY"
+      ]
+    },
+    {
       "id": "ticketmaster:G5vzZ_GwxMtOl",
       "source": "ticketmaster",
       "artist": "Isaiah Rashad",
@@ -61,21 +76,6 @@
       "lineup": [
         "Isaiah Rashad",
         "Alemeda"
-      ]
-    },
-    {
-      "id": "ticketmaster:G5dIZ_2zPwFIo",
-      "source": "ticketmaster",
-      "artist": "Rod Wave",
-      "date": "2026-09-23T01:30:00Z",
-      "venueName": "Toyota Center",
-      "venueCity": "Houston",
-      "venueState": "TX",
-      "citySlug": "houston-tx",
-      "eventUrl": "https://www.toyotacenter.com/events/detail/rod-wave-2026",
-      "lineup": [
-        "Rod Wave",
-        "FRIDAYY"
       ]
     },
     {
