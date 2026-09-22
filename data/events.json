@@ -1,21 +1,6 @@
 {
-  "generatedAt": "2026-09-22T00:04:28.469Z",
+  "generatedAt": "2026-09-22T06:03:51.655Z",
   "events": [
-    {
-      "id": "ticketmaster:Z7r9jZ1A7PPay",
-      "source": "ticketmaster",
-      "artist": "Rod Wave",
-      "date": "2026-09-22T01:00:00Z",
-      "venueName": "Toyota Center - TX",
-      "venueCity": "Houston",
-      "venueState": "TX",
-      "citySlug": "houston-tx",
-      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7PPay",
-      "lineup": [
-        "Rod Wave",
-        "FRIDAYY"
-      ]
-    },
     {
       "id": "ticketmaster:17k8v0G65pFzfx-",
       "source": "ticketmaster",
