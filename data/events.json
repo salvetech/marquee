@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-09-23T12:04:12.186Z",
+  "generatedAt": "2026-09-23T18:05:03.447Z",
   "events": [
-    {
-      "id": "ticketmaster:G5eVZ_AeK8ME5",
-      "source": "ticketmaster",
-      "artist": "J. Cole",
-      "date": "2026-09-24T00:00:00Z",
-      "venueName": "Crown Coliseum",
-      "venueCity": "Fayetteville",
-      "venueState": "AR",
-      "citySlug": "fayetteville-ar",
-      "eventUrl": "https://www.ticketmaster.com/j-cole-the-falloff-tour-fayetteville-north-carolina-09-23-2026/event/2D006450934379CB",
-      "lineup": [
-        "J. Cole"
-      ]
-    },
     {
       "id": "ticketmaster:vvG1IZ_5pqyJVv",
       "source": "ticketmaster",
@@ -107,20 +93,6 @@
       "lineup": [
         "In Her Own Words",
         "Every Avenue"
-      ]
-    },
-    {
-      "id": "ticketmaster:rZ7HnEZ1AfaA87",
-      "source": "ticketmaster",
-      "artist": "Drake",
-      "date": "2026-09-26T01:00:00Z",
-      "venueName": "Joe's on Weed Street",
-      "venueCity": "Chicago",
-      "venueState": "IL",
-      "citySlug": "chicago-il",
-      "eventUrl": "https://www.ticketweb.com/event/drake-white-joes-on-weed-street-tickets/14245404",
-      "lineup": [
-        "Drake White"
       ]
     },
     {
@@ -239,21 +211,6 @@
         "Tomorrow X Together",
         "Victoria Monet",
         "Alicia Keys"
-      ]
-    },
-    {
-      "id": "ticketmaster:Z7r9jZ1AAZIPN",
-      "source": "ticketmaster",
-      "artist": "Future",
-      "date": "2026-09-27T00:00:00Z",
-      "venueName": "Buffalo Iron Works",
-      "venueCity": "Buffalo",
-      "venueState": "NY",
-      "citySlug": "buffalo-ny",
-      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1AAZIPN",
-      "lineup": [
-        "Octave Cat",
-        "Future Joy"
       ]
     },
     {
@@ -384,21 +341,6 @@
       "lineup": [
         "Knocked Loose",
         "Denzel Curry"
-      ]
-    },
-    {
-      "id": "ticketmaster:Z7r9jZ1AAZ9vO",
-      "source": "ticketmaster",
-      "artist": "Future",
-      "date": "2026-09-28T00:00:00Z",
-      "venueName": "Thunderbird Cafe & Music Hall",
-      "venueCity": "Pittsburgh",
-      "venueState": "PA",
-      "citySlug": "pittsburgh-pa",
-      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ9vO",
-      "lineup": [
-        "Octave Cat",
-        "Future Joy"
       ]
     },
     {
@@ -557,34 +499,6 @@
       ]
     },
     {
-      "id": "ticketmaster:rZ7HnEZ1AfFak7",
-      "source": "ticketmaster",
-      "artist": "Future",
-      "date": "2026-10-02T00:00:00Z",
-      "venueName": "The Pyramid Scheme",
-      "venueCity": "Grand Rapids",
-      "venueState": "MI",
-      "citySlug": "grand-rapids-mi",
-      "eventUrl": "https://www.ticketweb.com/event/octave-cat-future-joy-the-pyramid-scheme-tickets/14209184",
-      "lineup": [
-        "Future"
-      ]
-    },
-    {
-      "id": "ticketmaster:Z7r9jZ1A7J_qY",
-      "source": "ticketmaster",
-      "artist": "Drake",
-      "date": "2026-10-02T00:30:00Z",
-      "venueName": "Tulsa Expo Center",
-      "venueCity": "Tulsa",
-      "venueState": "OK",
-      "citySlug": "tulsa-ok",
-      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_qY",
-      "lineup": [
-        "Drake White"
-      ]
-    },
-    {
       "id": "ticketmaster:vvG10Z_1TbHFx3",
       "source": "ticketmaster",
       "artist": "H.E.R.",
@@ -632,20 +546,6 @@
       "lineup": [
         "Knocked Loose",
         "Denzel Curry"
-      ]
-    },
-    {
-      "id": "ticketmaster:G5viZ_2DCJCcQ",
-      "source": "ticketmaster",
-      "artist": "Drake",
-      "date": "2026-10-03T01:00:00Z",
-      "venueName": "Minglewood Hall",
-      "venueCity": "Memphis",
-      "venueState": "TN",
-      "citySlug": "memphis-tn",
-      "eventUrl": "https://www.ticketmaster.com/drake-white-memphis-tennessee-10-02-2026/event/1B0064FECE98EB5A",
-      "lineup": [
-        "Drake White"
       ]
     },
     {
@@ -887,20 +787,6 @@
         "Earl Sweatshirt",
         "MIKE",
         "Na-Kel Smith"
-      ]
-    },
-    {
-      "id": "ticketmaster:1AvbZ_aGkDtBLPP",
-      "source": "ticketmaster",
-      "artist": "Future",
-      "date": "2026-10-07T00:00:00Z",
-      "venueName": "Lexington Opera House",
-      "venueCity": "Lexington",
-      "venueState": "KY",
-      "citySlug": "lexington-ky",
-      "eventUrl": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-lexington-kentucky-10-06-2026/event/1600649EE9E9F965",
-      "lineup": [
-        "Scott Bradlee's Postmodern Jukebox"
       ]
     },
     {
@@ -1166,20 +1052,6 @@
       ]
     },
     {
-      "id": "ticketmaster:G5eVZ_aBlG4Jj",
-      "source": "ticketmaster",
-      "artist": "Future",
-      "date": "2026-10-15T00:00:00Z",
-      "venueName": "The Charleston Music Hall",
-      "venueCity": "Charleston",
-      "venueState": "SC",
-      "citySlug": "charleston-sc",
-      "eventUrl": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-charleston-south-carolina-10-14-2026/event/2D00649EAB31599C",
-      "lineup": [
-        "Scott Bradlee's Postmodern Jukebox"
-      ]
-    },
-    {
       "id": "ticketmaster:G5viZ_u63PWEP",
       "source": "ticketmaster",
       "artist": "Rod Wave",
@@ -1344,20 +1216,6 @@
       ]
     },
     {
-      "id": "ticketmaster:G5viZ_1Q-8uDa",
-      "source": "ticketmaster",
-      "artist": "Future",
-      "date": "2026-10-17T00:30:00Z",
-      "venueName": "The Truth",
-      "venueCity": "Nashville",
-      "venueState": "TN",
-      "citySlug": "nashville-tn",
-      "eventUrl": "https://www.ticketmaster.com/tedeschi-trucks-band-future-soul-2026-nashville-tennessee-10-16-2026/event/1B0064A6A140DEC9",
-      "lineup": [
-        "Tedeschi Trucks Band"
-      ]
-    },
-    {
       "id": "ticketmaster:vvG18Z_urOiEcT",
       "source": "ticketmaster",
       "artist": "Summer Walker",
@@ -1454,20 +1312,6 @@
         "Worst Party Ever",
         "Equipment",
         "Ogbert the Nerd"
-      ]
-    },
-    {
-      "id": "ticketmaster:G5viZ_1Q-ouD2",
-      "source": "ticketmaster",
-      "artist": "Future",
-      "date": "2026-10-18T00:30:00Z",
-      "venueName": "The Truth",
-      "venueCity": "Nashville",
-      "venueState": "TN",
-      "citySlug": "nashville-tn",
-      "eventUrl": "https://www.ticketmaster.com/tedeschi-trucks-band-future-soul-2026-nashville-tennessee-10-17-2026/event/1B0064A6A144DECF",
-      "lineup": [
-        "Tedeschi Trucks Band"
       ]
     },
     {
@@ -1593,20 +1437,6 @@
       ]
     },
     {
-      "id": "ticketmaster:1AvbZ_kGkwG8POI",
-      "source": "ticketmaster",
-      "artist": "Future",
-      "date": "2026-10-20T23:00:00Z",
-      "venueName": "Citizens Live at The Wylie",
-      "venueCity": "Pittsburgh",
-      "venueState": "PA",
-      "citySlug": "pittsburgh-pa",
-      "eventUrl": "https://www.ticketmaster.com/tedeschi-trucks-band-future-soul-2026-pittsburgh-pennsylvania-10-20-2026/event/1600646C8C425828",
-      "lineup": [
-        "Tedeschi Trucks Band"
-      ]
-    },
-    {
       "id": "ticketmaster:vvG1OZ_u2vrzRv",
       "source": "ticketmaster",
       "artist": "Rod Wave",
@@ -1652,20 +1482,6 @@
         "Majid Jordan",
         "Ty Dolla $ign",
         "Austin Millz"
-      ]
-    },
-    {
-      "id": "ticketmaster:vv1A6Zk8gGkdkFE3x",
-      "source": "ticketmaster",
-      "artist": "Future",
-      "date": "2026-10-22T00:00:00Z",
-      "venueName": "Landmark Credit Union Live",
-      "venueCity": "Milwaukee",
-      "venueState": "WI",
-      "citySlug": "milwaukee-wi",
-      "eventUrl": "https://www.ticketmaster.com/tedeschi-trucks-band-future-soul-2026-milwaukee-wisconsin-10-21-2026/event/07006435C62274A2",
-      "lineup": [
-        "Tedeschi Trucks Band"
       ]
     },
     {
@@ -1807,20 +1623,6 @@
       ]
     },
     {
-      "id": "ticketmaster:vv1A6Zk8UGkelxUxF",
-      "source": "ticketmaster",
-      "artist": "Future",
-      "date": "2026-10-24T00:30:00Z",
-      "venueName": "The Chicago Theatre",
-      "venueCity": "Chicago",
-      "venueState": "IL",
-      "citySlug": "chicago-il",
-      "eventUrl": "https://www.ticketmaster.com/tedeschi-trucks-band-future-soul-2026-chicago-illinois-10-23-2026/event/07006436AB8B6888",
-      "lineup": [
-        "Tedeschi Trucks Band"
-      ]
-    },
-    {
       "id": "ticketmaster:vv1AkZkfYGkeDujS_",
       "source": "ticketmaster",
       "artist": "Common",
@@ -1881,20 +1683,6 @@
         "T.I.",
         "BigXthaPlug",
         "Rick Ross"
-      ]
-    },
-    {
-      "id": "ticketmaster:vv1A6Zk8UGkel0kxi",
-      "source": "ticketmaster",
-      "artist": "Future",
-      "date": "2026-10-25T00:30:00Z",
-      "venueName": "The Chicago Theatre",
-      "venueCity": "Chicago",
-      "venueState": "IL",
-      "citySlug": "chicago-il",
-      "eventUrl": "https://www.ticketmaster.com/tedeschi-trucks-band-future-soul-2026-chicago-illinois-10-24-2026/event/07006436AB9068AC",
-      "lineup": [
-        "Tedeschi Trucks Band"
       ]
     },
     {
@@ -1969,20 +1757,6 @@
       ]
     },
     {
-      "id": "ticketmaster:vvG1GZ_15bIvsi",
-      "source": "ticketmaster",
-      "artist": "Future",
-      "date": "2026-10-26T00:00:00Z",
-      "venueName": "Town Hall",
-      "venueCity": "New York",
-      "venueState": "NY",
-      "citySlug": "new-york-ny",
-      "eventUrl": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-new-york-new-york-10-25-2026/event/030064A2D8A01C6C",
-      "lineup": [
-        "Scott Bradlee's Postmodern Jukebox"
-      ]
-    },
-    {
       "id": "ticketmaster:vvG17Z_ueRk22E",
       "source": "ticketmaster",
       "artist": "Rod Wave",
@@ -2027,21 +1801,6 @@
       ]
     },
     {
-      "id": "ticketmaster:vv1A6Zk8UGkelPpxM",
-      "source": "ticketmaster",
-      "artist": "Future",
-      "date": "2026-10-27T00:30:00Z",
-      "venueName": "The Chicago Theatre",
-      "venueCity": "Chicago",
-      "venueState": "IL",
-      "citySlug": "chicago-il",
-      "eventUrl": "https://www.ticketmaster.com/tedeschi-trucks-band-future-soul-2026-chicago-illinois-10-26-2026/event/07006436AB9568B7",
-      "lineup": [
-        "Tedeschi Trucks Band",
-        "Cris Jacobs"
-      ]
-    },
-    {
       "id": "ticketmaster:rZ7HnEZ1A4v67N",
       "source": "ticketmaster",
       "artist": "Dave",
@@ -2070,20 +1829,6 @@
       ]
     },
     {
-      "id": "ticketmaster:vv177Z_aGkSCo6zr",
-      "source": "ticketmaster",
-      "artist": "Future",
-      "date": "2026-10-28T00:00:00Z",
-      "venueName": "The Wilbur",
-      "venueCity": "Boston",
-      "venueState": "MA",
-      "citySlug": "boston-ma",
-      "eventUrl": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-boston-massachusetts-10-27-2026/event/0100649CCE447E1E",
-      "lineup": [
-        "Scott Bradlee's Postmodern Jukebox"
-      ]
-    },
-    {
       "id": "ticketmaster:G5eVZ_3NPNcOA",
       "source": "ticketmaster",
       "artist": "Victoria Monet",
@@ -2095,20 +1840,6 @@
       "eventUrl": "https://www.ticketmaster.com/victoria-monet-frequency-of-love-tour-raleigh-north-carolina-10-27-2026/event/2D006528E58ED805",
       "lineup": [
         "Victoria Monet"
-      ]
-    },
-    {
-      "id": "ticketmaster:vv1A6Zk8UGkelJJxW",
-      "source": "ticketmaster",
-      "artist": "Future",
-      "date": "2026-10-28T00:30:00Z",
-      "venueName": "The Chicago Theatre",
-      "venueCity": "Chicago",
-      "venueState": "IL",
-      "citySlug": "chicago-il",
-      "eventUrl": "https://www.ticketmaster.com/tedeschi-trucks-band-future-soul-2026-chicago-illinois-10-27-2026/event/07006436AB9A68BD",
-      "lineup": [
-        "Tedeschi Trucks Band"
       ]
     },
     {
@@ -2498,22 +2229,6 @@
       ]
     },
     {
-      "id": "ticketmaster:vv1AaZkffGkdkTheX",
-      "source": "ticketmaster",
-      "artist": "Future",
-      "date": "2026-11-01T05:00:00Z",
-      "venueName": "Teragram Ballroom",
-      "venueCity": "Los Angeles",
-      "venueState": "CA",
-      "citySlug": "los-angeles-ca",
-      "eventUrl": "https://www.ticketmaster.com/yoi-toki-a-future-funk-halloween-los-angeles-california-10-31-2026/event/09006514C6FDB0BE",
-      "lineup": [
-        "Yoi Toki",
-        "Saint Pepsi",
-        "Vantage"
-      ]
-    },
-    {
       "id": "ticketmaster:G5ezZ_KhRBUSj",
       "source": "ticketmaster",
       "artist": "Latto",
@@ -2665,20 +2380,6 @@
       ]
     },
     {
-      "id": "ticketmaster:k7vGFbi58JxHg",
-      "source": "ticketmaster",
-      "artist": "Drake",
-      "date": "2026-11-04T23:00:00Z",
-      "venueName": "Mercury Lounge",
-      "venueCity": "New York",
-      "venueState": "NY",
-      "citySlug": "new-york-ny",
-      "eventUrl": "https://www.ticketmaster.com/eleni-drake-new-york-new-york-11-04-2026/event/000062C2D09A2F35",
-      "lineup": [
-        "Eleni Drake"
-      ]
-    },
-    {
       "id": "ticketmaster:Z7r9jZ1AAvPbJ",
       "source": "ticketmaster",
       "artist": "Victoria Monet",
@@ -2763,20 +2464,6 @@
         "Usher Raymond & Chris Brown",
         "USHER",
         "Chris Brown"
-      ]
-    },
-    {
-      "id": "ticketmaster:vv17jZ_aGkM8RbtH",
-      "source": "ticketmaster",
-      "artist": "Future",
-      "date": "2026-11-06T02:00:00Z",
-      "venueName": "Orpheum Theater",
-      "venueCity": "Madison",
-      "venueState": "WI",
-      "citySlug": "madison-wi",
-      "eventUrl": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-madison-wisconsin-11-05-2026/event/0700649DD0BD8A7C",
-      "lineup": [
-        "Scott Bradlee's Postmodern Jukebox"
       ]
     },
     {
@@ -3036,20 +2723,6 @@
       ]
     },
     {
-      "id": "ticketmaster:vv1kOZ_FrfG7WVqu",
-      "source": "ticketmaster",
-      "artist": "Future",
-      "date": "2026-11-09T01:00:00Z",
-      "venueName": "DeVos Performance Hall",
-      "venueCity": "Grand Rapids",
-      "venueState": "MI",
-      "citySlug": "grand-rapids-mi",
-      "eventUrl": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-grand-rapids-michigan-11-08-2026/event/0800648794F7474D",
-      "lineup": [
-        "Scott Bradlee's Postmodern Jukebox"
-      ]
-    },
-    {
       "id": "ticketmaster:Z7r9jZ1A7Ptjs",
       "source": "ticketmaster",
       "artist": "Vince Staples",
@@ -3208,20 +2881,6 @@
       "lineup": [
         "Doja Cat",
         "Latto"
-      ]
-    },
-    {
-      "id": "ticketmaster:vv17bZ_aGkSJ0ULP",
-      "source": "ticketmaster",
-      "artist": "Future",
-      "date": "2026-11-12T02:00:00Z",
-      "venueName": "State Theatre",
-      "venueCity": "Minneapolis",
-      "venueState": "MN",
-      "citySlug": "minneapolis-mn",
-      "eventUrl": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-minneapolis-minnesota-11-11-2026/event/0600649CE69367E5",
-      "lineup": [
-        "Scott Bradlee's Postmodern Jukebox"
       ]
     },
     {
@@ -3397,20 +3056,6 @@
       ]
     },
     {
-      "id": "ticketmaster:17F8v0G61Kum4NQ",
-      "source": "ticketmaster",
-      "artist": "Future",
-      "date": "2026-11-14T02:00:00Z",
-      "venueName": "The Factory",
-      "venueCity": "St. Louis",
-      "venueState": "MO",
-      "citySlug": "st-louis-mo",
-      "eventUrl": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-saint-louis-missouri-11-13-2026/event/210064A4CDB958DA",
-      "lineup": [
-        "Scott Bradlee's Postmodern Jukebox"
-      ]
-    },
-    {
       "id": "ticketmaster:17k8v0G6GR0KbDO",
       "source": "ticketmaster",
       "artist": "Vince Staples",
@@ -3553,20 +3198,6 @@
       "eventUrl": "https://www.ticketweb.com/event/tank-and-the-bangas-blue-note-los-angeles-tickets/14914963",
       "lineup": [
         "Tank and the Bangas"
-      ]
-    },
-    {
-      "id": "ticketmaster:Z7r9jZ1AAvAZk",
-      "source": "ticketmaster",
-      "artist": "Drake",
-      "date": "2026-11-17T01:30:00Z",
-      "venueName": "Ryman Auditorium",
-      "venueCity": "Nashville",
-      "venueState": "TN",
-      "citySlug": "nashville-tn",
-      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1AAvAZk",
-      "lineup": [
-        "Drake White"
       ]
     },
     {
@@ -3783,20 +3414,6 @@
       "eventUrl": "https://www.ticketmaster.com/toosii-platinum-nights-new-orleans-louisiana-11-18-2026/event/1B00651CD9BF2420",
       "lineup": [
         "Toosii"
-      ]
-    },
-    {
-      "id": "ticketmaster:G5vzZ_aBwilEA",
-      "source": "ticketmaster",
-      "artist": "Future",
-      "date": "2026-11-19T03:00:00Z",
-      "venueName": "Paramount Theatre",
-      "venueCity": "Denver",
-      "venueState": "CO",
-      "citySlug": "denver-co",
-      "eventUrl": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-denver-colorado-11-18-2026/event/1E00649EB2B2B9C5",
-      "lineup": [
-        "Scott Bradlee's Postmodern Jukebox"
       ]
     },
     {
@@ -4140,20 +3757,6 @@
       ]
     },
     {
-      "id": "ticketmaster:1AvjZ_aGkwDCWWs",
-      "source": "ticketmaster",
-      "artist": "Future",
-      "date": "2026-11-28T04:00:00Z",
-      "venueName": "Encore Theater at Wynn Las Vegas",
-      "venueCity": "Las Vegas",
-      "venueState": "NV",
-      "citySlug": "las-vegas-nv",
-      "eventUrl": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-las-vegas-nevada-11-27-2026/event/1700649CBB3BDF71",
-      "lineup": [
-        "Scott Bradlee's Postmodern Jukebox"
-      ]
-    },
-    {
       "id": "ticketmaster:k7vGF_ux4RWhd",
       "source": "ticketmaster",
       "artist": "Dave",
@@ -4194,6 +3797,20 @@
       "eventUrl": "https://www.ticketmaster.com/victoria-monet-frequency-of-love-tour-nashville-tennessee-11-30-2026/event/1B006527BBA98ECF",
       "lineup": [
         "Victoria Monet"
+      ]
+    },
+    {
+      "id": "ticketmaster:vv1A7ZkfwGkda-Klv",
+      "source": "ticketmaster",
+      "artist": "Brent Faiyaz",
+      "date": "2026-12-01T02:00:00Z",
+      "venueName": "United Center",
+      "venueCity": "Chicago",
+      "venueState": "IL",
+      "citySlug": "chicago-il",
+      "eventUrl": "https://www.ticketmaster.com/brent-faiyaz-live-i-spent-the-chicago-illinois-11-30-2026/event/04006532C9853AC1",
+      "lineup": [
+        "Brent Faiyaz"
       ]
     },
     {
@@ -4318,20 +3935,6 @@
       ]
     },
     {
-      "id": "ticketmaster:17k8v0G61oD6PA8",
-      "source": "ticketmaster",
-      "artist": "Future",
-      "date": "2026-12-09T03:00:00Z",
-      "venueName": "Rialto Theatre-Tucson",
-      "venueCity": "Tucson",
-      "venueState": "AZ",
-      "citySlug": "tucson-az",
-      "eventUrl": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-tucson-arizona-12-08-2026/event/190064A47B1E5150",
-      "lineup": [
-        "Scott Bradlee's Postmodern Jukebox"
-      ]
-    },
-    {
       "id": "ticketmaster:vvG1OZ_5pg86rx",
       "source": "ticketmaster",
       "artist": "6LACK",
@@ -4390,34 +3993,6 @@
       ]
     },
     {
-      "id": "ticketmaster:vvG1fZ_GSyZxbO",
-      "source": "ticketmaster",
-      "artist": "Drake",
-      "date": "2026-12-12T01:45:00Z",
-      "venueName": "8 Seconds Saloon",
-      "venueCity": "Indianapolis",
-      "venueState": "IN",
-      "citySlug": "indianapolis-in",
-      "eventUrl": "https://www.ticketmaster.com/drake-white-indianapolis-indiana-12-11-2026/event/050064CCF9022620",
-      "lineup": [
-        "Drake White"
-      ]
-    },
-    {
-      "id": "ticketmaster:G5dIZ_16CKFRY",
-      "source": "ticketmaster",
-      "artist": "Future",
-      "date": "2026-12-14T01:00:00Z",
-      "venueName": "White Oak Music Hall - Downstairs",
-      "venueCity": "Houston",
-      "venueState": "TX",
-      "citySlug": "houston-tx",
-      "eventUrl": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-houston-texas-12-13-2026/event/3A0064A1CE4C8BF0",
-      "lineup": [
-        "Scott Bradlee's Postmodern Jukebox"
-      ]
-    },
-    {
       "id": "ticketmaster:vvG1HZ_31fTEps",
       "source": "ticketmaster",
       "artist": "Victoria Monet",
@@ -4446,20 +4021,6 @@
       ]
     },
     {
-      "id": "ticketmaster:G5viZ_aYbyy7A",
-      "source": "ticketmaster",
-      "artist": "Future",
-      "date": "2026-12-18T02:00:00Z",
-      "venueName": "Minglewood Hall",
-      "venueCity": "Memphis",
-      "venueState": "TN",
-      "citySlug": "memphis-tn",
-      "eventUrl": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-memphis-tennessee-12-17-2026/event/1B00649C18E79105",
-      "lineup": [
-        "Scott Bradlee's Postmodern Jukebox"
-      ]
-    },
-    {
       "id": "ticketmaster:vvG1IZ_CAywNnQ",
       "source": "ticketmaster",
       "artist": "Dave",
@@ -4477,20 +4038,6 @@
       ]
     },
     {
-      "id": "ticketmaster:vvG1zZ_aDDwsuD",
-      "source": "ticketmaster",
-      "artist": "Future",
-      "date": "2026-12-19T00:30:00Z",
-      "venueName": "Atlanta Symphony Hall",
-      "venueCity": "Atlanta",
-      "venueState": "GA",
-      "citySlug": "atlanta-ga",
-      "eventUrl": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-atlanta-georgia-12-18-2026/event/0E00649EFBCB137B",
-      "lineup": [
-        "Scott Bradlee's Postmodern Jukebox"
-      ]
-    },
-    {
       "id": "ticketmaster:Z7r9jZ1A7J3ff",
       "source": "ticketmaster",
       "artist": "Snoop Dogg",
@@ -4502,34 +4049,6 @@
       "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7J3ff",
       "lineup": [
         "DJ Snoopadelic"
-      ]
-    },
-    {
-      "id": "ticketmaster:G5viZ_aUsoACF",
-      "source": "ticketmaster",
-      "artist": "Future",
-      "date": "2026-12-20T02:00:00Z",
-      "venueName": "The Truth",
-      "venueCity": "Nashville",
-      "venueState": "TN",
-      "citySlug": "nashville-tn",
-      "eventUrl": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-nashville-tennessee-12-19-2026/event/1B00649DB1445388",
-      "lineup": [
-        "Scott Bradlee's Postmodern Jukebox"
-      ]
-    },
-    {
-      "id": "ticketmaster:G5viZ_aDonaWF",
-      "source": "ticketmaster",
-      "artist": "Future",
-      "date": "2026-12-21T01:00:00Z",
-      "venueName": "The Fillmore New Orleans",
-      "venueCity": "New Orleans",
-      "venueState": "LA",
-      "citySlug": "new-orleans-la",
-      "eventUrl": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-new-orleans-louisiana-12-20-2026/event/1B00649ED1A89F48",
-      "lineup": [
-        "Scott Bradlee's Postmodern Jukebox"
       ]
     },
     {
