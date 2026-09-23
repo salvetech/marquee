@@ -1,35 +1,6 @@
 {
-  "generatedAt": "2026-09-23T00:04:12.670Z",
+  "generatedAt": "2026-09-23T06:03:55.713Z",
   "events": [
-    {
-      "id": "ticketmaster:rZ7HnEZ1AfGw1f",
-      "source": "ticketmaster",
-      "artist": "Dave",
-      "date": "2026-09-23T00:00:00Z",
-      "venueName": "Blue Note Jazz Club",
-      "venueCity": "New York",
-      "venueState": "NY",
-      "citySlug": "new-york-ny",
-      "eventUrl": "https://www.ticketweb.com/event/chris-dave-eric-gales-blue-note-jazz-club-tickets/14332294",
-      "lineup": [
-        "Eric Gales"
-      ]
-    },
-    {
-      "id": "ticketmaster:Z7r9jZ1AAZfq9",
-      "source": "ticketmaster",
-      "artist": "Rod Wave",
-      "date": "2026-09-23T01:00:00Z",
-      "venueName": "Toyota Center - TX",
-      "venueCity": "Houston",
-      "venueState": "TX",
-      "citySlug": "houston-tx",
-      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1AAZfq9",
-      "lineup": [
-        "Rod Wave",
-        "FRIDAYY"
-      ]
-    },
     {
       "id": "ticketmaster:G5vzZ_GwxMtOl",
       "source": "ticketmaster",
@@ -43,6 +14,20 @@
       "lineup": [
         "Isaiah Rashad",
         "Alemeda"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1AfGwG7",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-09-23T02:30:00Z",
+      "venueName": "Blue Note Jazz Club",
+      "venueCity": "New York",
+      "venueState": "NY",
+      "citySlug": "new-york-ny",
+      "eventUrl": "https://www.ticketweb.com/event/chris-dave-eric-gales-blue-note-jazz-club-tickets/14332304",
+      "lineup": [
+        "Eric Gales"
       ]
     },
     {
@@ -2570,6 +2555,20 @@
         "Yoi Toki",
         "Saint Pepsi",
         "Vantage"
+      ]
+    },
+    {
+      "id": "ticketmaster:G5ezZ_KhRBUSj",
+      "source": "ticketmaster",
+      "artist": "Latto",
+      "date": "2026-11-01T05:00:00Z",
+      "venueName": "On the Record",
+      "venueCity": "Las Vegas",
+      "venueState": "NV",
+      "citySlug": "las-vegas-nv",
+      "eventUrl": "https://www.ticketmaster.com/latto-las-vegas-nevada-10-31-2026/event/2E006536EFEB6CDC",
+      "lineup": [
+        "Latto"
       ]
     },
     {
