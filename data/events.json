@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T18:03:40.202Z",
+  "generatedAt": "2026-09-23T00:04:12.670Z",
   "events": [
     {
       "id": "ticketmaster:rZ7HnEZ1AfGw1f",
@@ -443,6 +443,21 @@
       "lineup": [
         "Knocked Loose",
         "Denzel Curry"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1AAZ9vO",
+      "source": "ticketmaster",
+      "artist": "Future",
+      "date": "2026-09-28T00:00:00Z",
+      "venueName": "Thunderbird Cafe & Music Hall",
+      "venueCity": "Pittsburgh",
+      "venueState": "PA",
+      "citySlug": "pittsburgh-pa",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ9vO",
+      "lineup": [
+        "Octave Cat",
+        "Future Joy"
       ]
     },
     {
@@ -2913,15 +2928,13 @@
       "eventUrl": "https://www.ticketmaster.com/swerv-friends-part-2-chicago-illinois-11-06-2026/event/04006535E5572951",
       "lineup": [
         "G Herbo",
-        "Chance The Rapper",
         "Yung Miami",
         "Young Thug",
         "GloRilla",
         "YTB Fatt",
         "Fabolous",
         "Belly Gang Kushington",
-        "Peezy",
-        "LUCKI"
+        "Peezy"
       ]
     },
     {
@@ -3326,6 +3339,20 @@
       "lineup": [
         "Slow Pulp",
         "Her New Knife"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1AfGMff",
+      "source": "ticketmaster",
+      "artist": "H.E.R.",
+      "date": "2026-11-13T01:00:00Z",
+      "venueName": "Churchill's Pub",
+      "venueCity": "Miami",
+      "venueState": "FL",
+      "citySlug": "miami-fl",
+      "eventUrl": "https://www.ticketweb.com/event/sick-thoughts-adhesive-blisters-ladyboy-churchills-pub-tickets/14337514",
+      "lineup": [
+        "H.E.R."
       ]
     },
     {
@@ -4548,6 +4575,20 @@
       "eventUrl": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-new-orleans-louisiana-12-20-2026/event/1B00649ED1A89F48",
       "lineup": [
         "Scott Bradlee's Postmodern Jukebox"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1AAZzqN",
+      "source": "ticketmaster",
+      "artist": "Dave",
+      "date": "2026-12-27T00:00:00Z",
+      "venueName": "Town Ballroom",
+      "venueCity": "Buffalo",
+      "venueState": "NY",
+      "citySlug": "buffalo-ny",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1AAZzqN",
+      "lineup": [
+        "Dave Matthews Tribute Band"
       ]
     },
     {
