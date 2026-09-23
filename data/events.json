@@ -1,50 +1,6 @@
 {
-  "generatedAt": "2026-09-23T06:03:55.713Z",
+  "generatedAt": "2026-09-23T12:04:12.186Z",
   "events": [
-    {
-      "id": "ticketmaster:G5vzZ_GwxMtOl",
-      "source": "ticketmaster",
-      "artist": "Isaiah Rashad",
-      "date": "2026-09-23T01:00:00Z",
-      "venueName": "Fillmore Auditorium (Denver)",
-      "venueCity": "Denver",
-      "venueState": "CO",
-      "citySlug": "denver-co",
-      "eventUrl": "https://www.ticketmaster.com/isaiah-rashad-lil-sunnys-awful-road-denver-colorado-09-22-2026/event/1E0064CCA2DE982B",
-      "lineup": [
-        "Isaiah Rashad",
-        "Alemeda"
-      ]
-    },
-    {
-      "id": "ticketmaster:rZ7HnEZ1AfGwG7",
-      "source": "ticketmaster",
-      "artist": "Dave",
-      "date": "2026-09-23T02:30:00Z",
-      "venueName": "Blue Note Jazz Club",
-      "venueCity": "New York",
-      "venueState": "NY",
-      "citySlug": "new-york-ny",
-      "eventUrl": "https://www.ticketweb.com/event/chris-dave-eric-gales-blue-note-jazz-club-tickets/14332304",
-      "lineup": [
-        "Eric Gales"
-      ]
-    },
-    {
-      "id": "ticketmaster:vv170Z_8GknEXgB4",
-      "source": "ticketmaster",
-      "artist": "T.I.",
-      "date": "2026-09-23T04:30:00Z",
-      "venueName": "The Moroccan Lounge",
-      "venueCity": "Los Angeles",
-      "venueState": "CA",
-      "citySlug": "los-angeles-ca",
-      "eventUrl": "https://www.ticketmaster.com/chloe-tang-the-hoes-have-feelings-los-angeles-california-09-22-2026/event/0900650AA7FB5E95",
-      "lineup": [
-        "Chloe Tang",
-        "Ti Steele"
-      ]
-    },
     {
       "id": "ticketmaster:G5eVZ_AeK8ME5",
       "source": "ticketmaster",
@@ -78,15 +34,15 @@
       ]
     },
     {
-      "id": "ticketmaster:G5vzZ_uvX_Kib",
+      "id": "ticketmaster:Z7r9jZ1A7P-a0",
       "source": "ticketmaster",
       "artist": "Isaiah Rashad",
       "date": "2026-09-24T02:00:00Z",
-      "venueName": "The Complex",
+      "venueName": "The Complex - UT",
       "venueCity": "Salt Lake City",
       "venueState": "UT",
       "citySlug": "salt-lake-city-ut",
-      "eventUrl": "https://www.axs.com/events/1489872/isaiah-rashad-tickets",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7P-a0",
       "lineup": [
         "Isaiah Rashad",
         "Alemeda"
