@@ -1,39 +1,6 @@
 {
-  "generatedAt": "2026-09-24T06:04:01.015Z",
+  "generatedAt": "2026-09-24T12:03:58.969Z",
   "events": [
-    {
-      "id": "ticketmaster:vvG1IZ_5pqyJVv",
-      "source": "ticketmaster",
-      "artist": "Kehlani",
-      "date": "2026-09-24T01:30:00Z",
-      "venueName": "Viejas Arena at Aztec Bowl San Diego State University",
-      "venueCity": "San Diego",
-      "venueState": "CA",
-      "citySlug": "san-diego-ca",
-      "eventUrl": "https://www.ticketmaster.com/the-kehlani-world-tour-north-america-san-diego-california-09-23-2026/event/0A0064B59DE66D01",
-      "lineup": [
-        "Kehlani",
-        "Durand Bernarr",
-        "TheARTI$t",
-        "WASEEL",
-        "Dixson"
-      ]
-    },
-    {
-      "id": "ticketmaster:G5ezZbwJtIzZQ",
-      "source": "ticketmaster",
-      "artist": "Dave",
-      "date": "2026-09-24T03:00:00Z",
-      "venueName": "Dolby Live",
-      "venueCity": "Las Vegas",
-      "venueState": "NV",
-      "citySlug": "las-vegas-nv",
-      "eventUrl": "https://www.ticketmaster.com/sammy-hagar-the-best-of-all-las-vegas-nevada-09-23-2026/event/2E006329A9A3801A",
-      "lineup": [
-        "Sammy Hagar",
-        "Dave Hill"
-      ]
-    },
     {
       "id": "ticketmaster:Z7r9jZ1AAZkGy",
       "source": "ticketmaster",
