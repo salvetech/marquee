@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T12:03:58.969Z",
+  "generatedAt": "2026-09-24T18:04:04.226Z",
   "events": [
     {
       "id": "ticketmaster:Z7r9jZ1AAZkGy",
@@ -95,6 +95,20 @@
         "GlaMonster",
         "Honey Bee Rose",
         "Zahradka Tonic"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1AAvFrv",
+      "source": "ticketmaster",
+      "artist": "Common",
+      "date": "2026-09-26T02:00:00Z",
+      "venueName": "LIV Nightclub Las Vegas",
+      "venueCity": "Las Vegas",
+      "venueState": "NV",
+      "citySlug": "las-vegas-nv",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1AAvFrv",
+      "lineup": [
+        "Common Kings"
       ]
     },
     {
@@ -749,6 +763,20 @@
       ]
     },
     {
+      "id": "ticketmaster:Z7r9jZ1A7xbQ7",
+      "source": "ticketmaster",
+      "artist": "Metro Boomin",
+      "date": "2026-10-04T05:30:00Z",
+      "venueName": "LIV Nightclub Las Vegas",
+      "venueCity": "Las Vegas",
+      "venueState": "NV",
+      "citySlug": "las-vegas-nv",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7xbQ7",
+      "lineup": [
+        "Metro Boomin"
+      ]
+    },
+    {
       "id": "ticketmaster:vvG1zZ_u5_rr5k",
       "source": "ticketmaster",
       "artist": "Jacquees",
@@ -998,6 +1026,20 @@
       ]
     },
     {
+      "id": "ticketmaster:Z7r9jZ1A7xbfk",
+      "source": "ticketmaster",
+      "artist": "T.I.",
+      "date": "2026-10-10T18:30:00Z",
+      "venueName": "LIV Nightclub Las Vegas",
+      "venueCity": "Las Vegas",
+      "venueState": "NV",
+      "citySlug": "las-vegas-nv",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7xbfk",
+      "lineup": [
+        "Tiësto"
+      ]
+    },
+    {
       "id": "ticketmaster:G5dIZ_aeZnAxU",
       "source": "ticketmaster",
       "artist": "Chris Brown",
@@ -1055,6 +1097,20 @@
       "lineup": [
         "In Her Own Words",
         "Every Avenue"
+      ]
+    },
+    {
+      "id": "ticketmaster:vv1AOvPuzGAGqgWy",
+      "source": "ticketmaster",
+      "artist": "Future",
+      "date": "2026-10-11T17:00:00Z",
+      "venueName": "The Queen",
+      "venueCity": "Wilmington",
+      "venueState": "DE",
+      "citySlug": "wilmington-de",
+      "eventUrl": "https://www.ticketmaster.com/future-stars-showcase-wilmington-delaware-10-11-2026/event/020065378C775F79",
+      "lineup": [
+        "Future"
       ]
     },
     {
@@ -2362,6 +2418,20 @@
       "eventUrl": "https://www.ticketweb.com/event/oz-noy-and-dave-weckl-iridium-tickets/14147914",
       "lineup": [
         "Dave"
+      ]
+    },
+    {
+      "id": "ticketmaster:rZ7HnEZ1Afuvpf",
+      "source": "ticketmaster",
+      "artist": "H.E.R.",
+      "date": "2026-11-01T01:00:00Z",
+      "venueName": "The East Room",
+      "venueCity": "Nashville",
+      "venueState": "TN",
+      "citySlug": "nashville-tn",
+      "eventUrl": "https://www.ticketweb.com/event/welcome-to-the-black-parade-the-east-room-tickets/14341594",
+      "lineup": [
+        "H.E.R."
       ]
     },
     {
