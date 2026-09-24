@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-09-24T00:04:04.687Z",
+  "generatedAt": "2026-09-24T06:04:01.015Z",
   "events": [
-    {
-      "id": "ticketmaster:G5eVZ_AeK8ME5",
-      "source": "ticketmaster",
-      "artist": "J. Cole",
-      "date": "2026-09-24T00:00:00Z",
-      "venueName": "Crown Coliseum",
-      "venueCity": "Fayetteville",
-      "venueState": "AR",
-      "citySlug": "fayetteville-ar",
-      "eventUrl": "https://www.ticketmaster.com/j-cole-the-falloff-tour-fayetteville-north-carolina-09-23-2026/event/2D006450934379CB",
-      "lineup": [
-        "J. Cole"
-      ]
-    },
     {
       "id": "ticketmaster:vvG1IZ_5pqyJVv",
       "source": "ticketmaster",
@@ -31,21 +17,6 @@
         "TheARTI$t",
         "WASEEL",
         "Dixson"
-      ]
-    },
-    {
-      "id": "ticketmaster:Z7r9jZ1A7P-a0",
-      "source": "ticketmaster",
-      "artist": "Isaiah Rashad",
-      "date": "2026-09-24T02:00:00Z",
-      "venueName": "The Complex - UT",
-      "venueCity": "Salt Lake City",
-      "venueState": "UT",
-      "citySlug": "salt-lake-city-ut",
-      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7P-a0",
-      "lineup": [
-        "Isaiah Rashad",
-        "Alemeda"
       ]
     },
     {
