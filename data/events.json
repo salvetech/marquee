@@ -1,37 +1,6 @@
 {
-  "generatedAt": "2026-09-25T00:04:14.117Z",
+  "generatedAt": "2026-09-25T06:03:46.713Z",
   "events": [
-    {
-      "id": "ticketmaster:rZ7HnEZ1A4Zzrd",
-      "source": "ticketmaster",
-      "artist": "Dave",
-      "date": "2026-09-25T00:30:00Z",
-      "venueName": "3rd and Lindsley",
-      "venueCity": "Nashville",
-      "venueState": "TN",
-      "citySlug": "nashville-tn",
-      "eventUrl": "https://www.ticketweb.com/event/suzy-bogguss-for-those-we-3rd-and-lindsley-tickets/15038783",
-      "lineup": [
-        "The McCrary Sisters",
-        "Suzy Bogguss",
-        "Linda Davis"
-      ]
-    },
-    {
-      "id": "ticketmaster:Z7r9jZ1A70tfP",
-      "source": "ticketmaster",
-      "artist": "H.E.R.",
-      "date": "2026-09-25T01:00:00Z",
-      "venueName": "Beer City Music Hall",
-      "venueCity": "Oklahoma City",
-      "venueState": "OK",
-      "citySlug": "oklahoma-city-ok",
-      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A70tfP",
-      "lineup": [
-        "In Her Own Words",
-        "Every Avenue"
-      ]
-    },
     {
       "id": "ticketmaster:rZ7HnEZ1AfaA87",
       "source": "ticketmaster",
