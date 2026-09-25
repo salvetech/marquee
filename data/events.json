@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T06:03:46.713Z",
+  "generatedAt": "2026-09-25T12:04:16.817Z",
   "events": [
     {
       "id": "ticketmaster:rZ7HnEZ1AfaA87",
@@ -2670,7 +2670,7 @@
       ]
     },
     {
-      "id": "ticketmaster:vv1A6ZkfoGkeIgwR2",
+      "id": "ticketmaster:Z7r9jZ1AAZJ8x",
       "source": "ticketmaster",
       "artist": "Dave",
       "date": "2026-11-05T01:30:00Z",
@@ -2678,7 +2678,7 @@
       "venueCity": "Madison",
       "venueState": "WI",
       "citySlug": "madison-wi",
-      "eventUrl": "https://uwbadgers.evenue.net/events/DMB",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1AAZJ8x",
       "lineup": [
         "Dave Matthews Band"
       ]
@@ -4326,6 +4326,31 @@
       ]
     },
     {
+      "id": "ticketmaster:vv17OZ_3GkTGhaQo",
+      "source": "ticketmaster",
+      "artist": "Ludacris",
+      "date": "2026-12-09T00:30:00Z",
+      "venueName": "Little Caesars Arena",
+      "venueCity": "Detroit",
+      "venueState": "MI",
+      "citySlug": "detroit-mi",
+      "eventUrl": "https://www.ticketmaster.com/channel-955s-jingle-ball-presented-by-detroit-michigan-12-08-2026/event/0800652FCC6C9691",
+      "lineup": [
+        "iHeartRadio Jingle Ball",
+        "Jingle Ball",
+        "95.5 Jingle Ball Iheart Radio",
+        "Alex Warren",
+        "OneRepublic",
+        "Ludacris",
+        "Tove Lo",
+        "Jason Derulo",
+        "Bella Kay",
+        "Freya Skye",
+        "The Beaches",
+        "JYT"
+      ]
+    },
+    {
       "id": "ticketmaster:17k8v0G61oD6PA8",
       "source": "ticketmaster",
       "artist": "Future",
@@ -4437,6 +4462,31 @@
       "eventUrl": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-houston-texas-12-13-2026/event/3A0064A1CE4C8BF0",
       "lineup": [
         "Scott Bradlee's Postmodern Jukebox"
+      ]
+    },
+    {
+      "id": "ticketmaster:1kA8vPAFGA26PI0",
+      "source": "ticketmaster",
+      "artist": "Ludacris",
+      "date": "2026-12-15T00:30:00Z",
+      "venueName": "Capital One Arena",
+      "venueCity": "Washington",
+      "venueState": "DC",
+      "citySlug": "washington-dc",
+      "eventUrl": "https://www.ticketmaster.com/hot-995s-jingle-ball-presented-by-washington-district-of-columbia-12-14-2026/event/150065148F1E5A24",
+      "lineup": [
+        "Hot 99.5's Jingle Ball",
+        "iHeartRadio Jingle Ball",
+        "Jonas Brothers",
+        "OneRepublic",
+        "Sombr",
+        "Ludacris",
+        "Nickelback",
+        "TXT",
+        "Yeonjun",
+        "Kylie Cantrall",
+        "The Beaches",
+        "JYT"
       ]
     },
     {
