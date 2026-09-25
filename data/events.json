@@ -1,21 +1,6 @@
 {
-  "generatedAt": "2026-09-24T18:04:04.226Z",
+  "generatedAt": "2026-09-25T00:04:14.117Z",
   "events": [
-    {
-      "id": "ticketmaster:Z7r9jZ1AAZkGy",
-      "source": "ticketmaster",
-      "artist": "Common",
-      "date": "2026-09-25T00:00:00Z",
-      "venueName": "Terminal 5",
-      "venueCity": "New York",
-      "venueState": "NY",
-      "citySlug": "new-york-ny",
-      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1AAZkGy",
-      "lineup": [
-        "Rainbow Kitten Surprise",
-        "Common People"
-      ]
-    },
     {
       "id": "ticketmaster:rZ7HnEZ1A4Zzrd",
       "source": "ticketmaster",
@@ -4455,6 +4440,20 @@
       "eventUrl": "https://www.ticketmaster.com/drake-white-indianapolis-indiana-12-11-2026/event/050064CCF9022620",
       "lineup": [
         "Drake White"
+      ]
+    },
+    {
+      "id": "ticketmaster:Z7r9jZ1AAe7ub",
+      "source": "ticketmaster",
+      "artist": "Brent Faiyaz",
+      "date": "2026-12-12T04:00:00Z",
+      "venueName": "Crypto.com Arena",
+      "venueCity": "Los Angeles",
+      "venueState": "CA",
+      "citySlug": "los-angeles-ca",
+      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1AAe7ub",
+      "lineup": [
+        "Brent Faiyaz"
       ]
     },
     {
