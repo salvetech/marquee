@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T12:04:16.817Z",
+  "generatedAt": "2026-09-25T18:03:28.668Z",
   "events": [
     {
       "id": "ticketmaster:rZ7HnEZ1AfaA87",
@@ -572,6 +572,21 @@
       ]
     },
     {
+      "id": "ticketmaster:17k8v0G6C0nOijt",
+      "source": "ticketmaster",
+      "artist": "Young Thug",
+      "date": "2026-10-03T02:30:00Z",
+      "venueName": "Arizona Financial Theatre",
+      "venueCity": "Phoenix",
+      "venueState": "AZ",
+      "citySlug": "phoenix-az",
+      "eventUrl": "https://www.ticketmaster.com/ysl-records-young-thug-present-the-phoenix-arizona-10-02-2026/event/190064E92A82C729",
+      "lineup": [
+        "Young Thug",
+        "NAV"
+      ]
+    },
+    {
       "id": "ticketmaster:rZ7HnEZ1AfOt-N",
       "source": "ticketmaster",
       "artist": "Dave",
@@ -599,21 +614,6 @@
       "lineup": [
         "In Her Own Words",
         "Every Avenue"
-      ]
-    },
-    {
-      "id": "ticketmaster:17k8v0G6C0nOijt",
-      "source": "ticketmaster",
-      "artist": "Young Thug",
-      "date": "2026-10-03T03:00:00Z",
-      "venueName": "Arizona Financial Theatre",
-      "venueCity": "Phoenix",
-      "venueState": "AZ",
-      "citySlug": "phoenix-az",
-      "eventUrl": "https://www.ticketmaster.com/ysl-records-young-thug-present-the-phoenix-arizona-10-02-2026/event/190064E92A82C729",
-      "lineup": [
-        "Young Thug",
-        "NAV"
       ]
     },
     {
@@ -4515,6 +4515,29 @@
       "eventUrl": "https://www.ticketmaster.com/chris-isaak-nashville-indiana-12-15-2026/event/05006521F05CF487",
       "lineup": [
         "Chris Isaak"
+      ]
+    },
+    {
+      "id": "ticketmaster:1AdZZ_3GkD57zG1",
+      "source": "ticketmaster",
+      "artist": "Ludacris",
+      "date": "2026-12-16T00:30:00Z",
+      "venueName": "Xfinity Mobile Arena",
+      "venueCity": "Philadelphia",
+      "venueState": "PA",
+      "citySlug": "philadelphia-pa",
+      "eventUrl": "https://www.ticketmaster.com/q102s-jingle-ball-presented-by-capital-philadelphia-pennsylvania-12-15-2026/event/3000652ECB13830A",
+      "lineup": [
+        "Q102 Jingle Ball",
+        "Sombr",
+        "Charlie Puth",
+        "OneRepublic",
+        "Ludacris",
+        "ADÉLA",
+        "Jason Derulo",
+        "Kylie Cantrall",
+        "The Beaches",
+        "JYT"
       ]
     },
     {
