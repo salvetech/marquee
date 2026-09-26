@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T18:03:28.668Z",
+  "generatedAt": "2026-09-26T00:03:49.740Z",
   "events": [
     {
       "id": "ticketmaster:rZ7HnEZ1AfaA87",
@@ -381,8 +381,7 @@
       "citySlug": "tucson-az",
       "eventUrl": "https://www.ticketmaster.com/isaiah-rashad-lil-sunnys-awful-road-tucson-arizona-09-28-2026/event/190064CCAD0D7DD1",
       "lineup": [
-        "Isaiah Rashad",
-        "Alemeda"
+        "Isaiah Rashad"
       ]
     },
     {
@@ -1537,7 +1536,8 @@
       "citySlug": "atlanta-ga",
       "eventUrl": "https://www.ticketmaster.com/vince-staples-cry-baby-tour-atlanta-georgia-10-19-2026/event/0E0064C903B4BCBB",
       "lineup": [
-        "Vince Staples"
+        "Vince Staples",
+        "Kenny Mason"
       ]
     },
     {
@@ -1797,7 +1797,8 @@
       "citySlug": "dallas-tx",
       "eventUrl": "https://www.ticketmaster.com/vince-staples-cry-baby-tour-dallas-texas-10-23-2026/event/0C0064CD9DBD518D",
       "lineup": [
-        "Vince Staples"
+        "Vince Staples",
+        "Provoker"
       ]
     },
     {
@@ -1913,7 +1914,8 @@
       "citySlug": "raleigh-nc",
       "eventUrl": "https://www.ticketmaster.com/vince-staples-cry-baby-tour-raleigh-north-carolina-10-25-2026/event/2D0064CBA3C7F252",
       "lineup": [
-        "Vince Staples"
+        "Vince Staples",
+        "Ecca Vandal"
       ]
     },
     {
@@ -2670,7 +2672,7 @@
       ]
     },
     {
-      "id": "ticketmaster:Z7r9jZ1AAZJ8x",
+      "id": "ticketmaster:vv1A6ZkfoGkeIgwR2",
       "source": "ticketmaster",
       "artist": "Dave",
       "date": "2026-11-05T01:30:00Z",
@@ -2678,7 +2680,7 @@
       "venueCity": "Madison",
       "venueState": "WI",
       "citySlug": "madison-wi",
-      "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1AAZJ8x",
+      "eventUrl": "https://uwbadgers.evenue.net/events/DMB",
       "lineup": [
         "Dave Matthews Band"
       ]
@@ -3226,7 +3228,8 @@
       "citySlug": "denver-co",
       "eventUrl": "https://www.ticketmaster.com/vince-staples-cry-baby-tour-denver-colorado-11-11-2026/event/1E0064CBC1ECDA79",
       "lineup": [
-        "Vince Staples"
+        "Vince Staples",
+        "Glare"
       ]
     },
     {
@@ -3397,7 +3400,8 @@
       "citySlug": "phoenix-az",
       "eventUrl": "https://www.ticketmaster.com/vince-staples-cry-baby-tour-phoenix-arizona-11-13-2026/event/190064CBE44D8EE0",
       "lineup": [
-        "Vince Staples"
+        "Vince Staples",
+        "Glare"
       ]
     },
     {
@@ -4537,7 +4541,9 @@
         "Jason Derulo",
         "Kylie Cantrall",
         "The Beaches",
-        "JYT"
+        "JYT",
+        "Jingle Ball",
+        "iHeartRadio Jingle Ball"
       ]
     },
     {
